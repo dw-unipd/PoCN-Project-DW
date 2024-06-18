@@ -1,0 +1,7 @@
+# node data for Orleans, France
+id;name;latitude;longitude;mode;year
+1;;47.9013608;1.8930023;5;2012
+2;Coligny;47.9160252;1.900368;5;2000
+3;Gare des Aubrais;47.9265153;1.9069593;5;2000
+4;Gare d'Orléans;47.9067754;1.9052093;5;2000
+5;;47.9014423;1.902857;5;200

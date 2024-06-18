@@ -1,0 +1,5 @@
+# edge data for Clermont-Ferrand, France
+from_id;to_id;mode;line;year
+1;2;0;A;2007
+2;3;0;A;2007
+3;4;0;A;2007

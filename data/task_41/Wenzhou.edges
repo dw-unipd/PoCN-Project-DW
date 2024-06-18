@@ -1,0 +1,19 @@
+# edge data for Wenzhou, China
+from_id;to_id;mode;line;year
+1;2;4;Line S1;2019
+2;3;4;Line S1;2019
+3;4;4;Line S1;2019
+4;5;4;Line S1;2019
+5;6;4;Line S1;2019
+6;7;4;Line S1;2019
+7;8;4;Line S1;2019
+8;9;4;Line S1;2019
+9;10;4;Line S1;2019
+10;11;4;Line S1;2019
+11;12;4;Line S1;2019
+12;13;4;Line S1;2019
+13;14;4;Line S1;2019
+14;15;4;Line S1;2019
+15;16;4;Line S1;2019
+16;17;4;Line S1;2019
+17;18;4;Line S1;2019

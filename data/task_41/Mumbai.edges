@@ -1,0 +1,341 @@
+# edge data for Mumbai, India
+from_id;to_id;mode;line;year
+1;2;4;CIRCULAR LINE;2025
+1;225;4;LINE 4  (Wadala–Kasarvadavali;2022
+1;226;4;LINE 4  (Wadala–Kasarvadavali;2022
+2;3;4;CIRCULAR LINE;2025
+3;4;4;CIRCULAR LINE;2025
+4;5;4;CIRCULAR LINE;2025
+5;6;4;CIRCULAR LINE;2025
+6;7;4;CIRCULAR LINE;2025
+7;8;4;CIRCULAR LINE;2025
+8;9;4;CIRCULAR LINE;2025
+9;10;4;CIRCULAR LINE;2025
+10;11;4;CIRCULAR LINE;2025
+11;12;4;CIRCULAR LINE;2025
+11;25;3;Line 2(Slow) CSTM- Kalyan;2025
+11;43;3;Line 2(Slow) CSTM- Kalyan;2025
+11;46;3;Line 1( Fast) CSTM- Kasara;2025
+12;13;4;CIRCULAR LINE;2025
+13;14;4;CIRCULAR LINE;2025
+14;15;4;CIRCULAR LINE;2025
+15;16;4;CIRCULAR LINE;2025
+16;17;4;CIRCULAR LINE;2025
+17;18;4;CIRCULAR LINE;2025
+18;19;4;CIRCULAR LINE;2025
+19;20;4;CIRCULAR LINE;2025
+20;21;4;CIRCULAR LINE;2025
+21;22;4;CIRCULAR LINE;2025
+23;24;3;Line 1( Fast) CSTM- Khopoli;1910
+23;30;3;Line 1( Fast) CSTM- Kasara;1910
+23;33;3;Line 2(Slow) CSTM- Kalyan;1910
+23;34;3;Line 2(Slow) CSTM- Kalyan;1910
+24;25;3;Line 1( Fast) CSTM- Khopoli;1910
+24;35;3;Line 2(Slow) CSTM- Kalyan;1910
+24;36;3;Line 2(Slow) CSTM- Kalyan;1910
+24;37;3;Line 1( Fast) CSTM- Kasara;2014
+25;26;3;Line 1( Fast) CSTM- Khopoli;1910
+25;42;3;Line 2(Slow) CSTM- Kalyan;1910
+26;46;3;Line 1( Fast) CSTM- Kasara;1910
+26;47;3;Line 2(Slow) CSTM- Kalyan;1910
+27;28;3;Line 2(Slow) CSTM- Kalyan;1910
+27;30;3;Line 1( Fast) CSTM- Kasara;1910
+28;29;3;Line 2(Slow) CSTM- Kalyan;1910
+29;30;3;Line 2(Slow) CSTM- Kalyan;1910
+29;78;3;Line 1 CSMT- Goregaon;1910
+30;31;3;Line 2(Slow) CSTM- Kalyan;1910
+31;32;3;Line 2(Slow) CSTM- Kalyan;1910
+32;33;3;Line 2(Slow) CSTM- Kalyan;1910
+34;35;3;Line 2(Slow) CSTM- Kalyan;1910
+36;37;3;Line 2(Slow) CSTM- Kalyan;2014
+37;38;3;Line 2(Slow) CSTM- Kalyan;2014
+37;229;4;LINE 1 (Versova–Andheri–Ghatkopar);2014
+38;39;3;Line 2(Slow) CSTM- Kalyan;1910
+38;40;3;Line 1( Fast) CSTM- Kasara;1910
+39;40;3;Line 2(Slow) CSTM- Kalyan;1910
+40;41;3;Line 2(Slow) CSTM- Kalyan;1910
+40;42;3;Line 1( Fast) CSTM- Kasara;1910
+41;42;3;Line 2(Slow) CSTM- Kalyan;1910
+43;44;3;Line 2(Slow) CSTM- Kalyan;1910
+44;45;3;Line 2(Slow) CSTM- Kalyan;1910
+45;46;3;Line 2(Slow) CSTM- Kalyan;1910
+46;47;3;Line 2(Slow) CSTM- Kalyan;1910
+49;50;4;Line 1(Fast) Churchgate- Dahanu Rd;2021
+50;51;4;Line 1(Fast) Churchgate- Dahanu Rd;2021
+50;59;4;Line 2 (slow)Churchgate -Borivali;2021
+50;60;4;Line 2 (slow)Churchgate -Borivali;2021
+51;52;4;Line 1(Fast) Churchgate- Dahanu Rd;1910
+51;64;4;Line 2 (slow)Churchgate -Borivali;1910
+51;65;4;Line 2 (slow)Churchgate -Borivali;1910
+52;53;4;Line 1(Fast) Churchgate- Dahanu Rd;1910
+53;54;4;Line 1(Fast) Churchgate- Dahanu Rd;1910
+54;55;4;Line 1(Fast) Churchgate- Dahanu Rd;1910
+55;56;4;Line 1(Fast) Churchgate- Dahanu Rd;1910
+57;58;4;Line 2 (slow)Churchgate -Borivali;1910
+58;59;4;Line 2 (slow)Churchgate -Borivali;2021
+59;260;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+60;61;4;Line 2 (slow)Churchgate -Borivali;2021
+60;261;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+61;62;4;Line 2 (slow)Churchgate -Borivali;2019
+61;320;5;Line 1 Wadala- Jacob's Circle;2019
+61;321;5;Line 1 Wadala- Jacob's Circle;2019
+62;63;4;Line 2 (slow)Churchgate -Borivali;1910
+63;64;4;Line 2 (slow)Churchgate -Borivali;1910
+64;75;3;Line 1 CSMT- Goregaon;1910
+65;66;4;Line 2 (slow)Churchgate -Borivali;1910
+66;67;4;Line 2 (slow)Churchgate -Borivali;1910
+67;68;4;Line 2 (slow)Churchgate -Borivali;2014
+68;69;4;Line 2 (slow)Churchgate -Borivali;2014
+68;138;4;LINE 1 (Versova–Andheri–Ghatkopar);2021
+68;236;4;LINE 1 (Versova–Andheri–Ghatkopar);2014
+69;70;4;Line 2 (slow)Churchgate -Borivali;1910
+70;71;4;Line 2 (slow)Churchgate -Borivali;1910
+71;72;4;Line 2 (slow)Churchgate -Borivali;1910
+72;73;4;Line 2 (slow)Churchgate -Borivali;1910
+74;75;3;Line 1 CSMT- Goregaon;1910
+74;79;3;Line 2 CSMT- Panvel;1910
+75;76;3;Line 1 CSMT- Goregaon;1910
+76;77;3;Line 1 CSMT- Goregaon;1910
+77;78;3;Line 1 CSMT- Goregaon;1910
+79;80;3;Line 2 CSMT- Panvel;1910
+80;81;3;Line 2 CSMT- Panvel;1910
+81;82;3;Line 2 CSMT- Panvel;1910
+82;83;3;Line 2 CSMT- Panvel;1910
+83;84;3;Line 2 CSMT- Panvel;1910
+84;85;3;Line 2 CSMT- Panvel;1910
+85;86;3;Line 2 CSMT- Panvel;1910
+86;87;3;Line 2 CSMT- Panvel;2004
+86;97;3;Line 1 Thane -Panvel;2004
+87;88;3;Line 2 CSMT- Panvel;2004
+88;89;3;Line 2 CSMT- Panvel;2004
+89;90;3;Line 2 CSMT- Panvel;2004
+90;91;3;Line 2 CSMT- Panvel;2004
+91;92;3;Line 2 CSMT- Panvel;2004
+91;113;4;NMML 2 (MIDC Taloja–Khandeshwar);2024
+93;94;3;Line 1 Thane -Panvel;2004
+94;95;3;Line 1 Thane -Panvel;2004
+95;96;3;Line 1 Thane -Panvel;2004
+96;97;3;Line 1 Thane -Panvel;2004
+98;99;4;NMML 1 (Belapur-Pendhar	;2020
+99;100;4;NMML 1 (Belapur-Pendhar	;2020
+100;101;4;NMML 1 (Belapur-Pendhar	;2020
+101;102;4;NMML 1 (Belapur-Pendhar	;2020
+102;103;4;NMML 1 (Belapur-Pendhar	;2020
+103;104;4;NMML 1 (Belapur-Pendhar	;2020
+104;105;4;NMML 1 (Belapur-Pendhar	;2020
+105;106;4;NMML 1 (Belapur-Pendhar	;2020
+106;107;4;NMML 1 (Belapur-Pendhar	;2020
+107;108;4;NMML 1 (Belapur-Pendhar	;2020
+109;110;4;NMML 2 (MIDC Taloja–Khandeshwar);2024
+110;111;4;NMML 2 (MIDC Taloja–Khandeshwar);2024
+111;112;4;NMML 2 (MIDC Taloja–Khandeshwar);2024
+112;113;4;NMML 2 (MIDC Taloja–Khandeshwar);2024
+114;115;4;NMML 3 (Pendhar and MIDC);2022
+116;117;4;LINE 2A (Dahisar-DN Nagar);2021
+116;125;4;LINE 2A (Dahisar-DN Nagar);2021
+116;126;4;LINE 2A (Dahisar-DN Nagar);2021
+117;118;4;LINE 2A (Dahisar-DN Nagar);2021
+117;166;4;LINE 9 (Dahisar (East)-Mira-Bhayander);2022
+118;119;4;LINE 2A (Dahisar-DN Nagar);2021
+119;120;4;LINE 2A (Dahisar-DN Nagar);2021
+120;121;4;LINE 2A (Dahisar-DN Nagar);2021
+121;122;4;LINE 2A (Dahisar-DN Nagar);2021
+122;123;4;LINE 2A (Dahisar-DN Nagar);2021
+123;124;4;LINE 2A (Dahisar-DN Nagar);2021
+124;125;4;LINE 2A (Dahisar-DN Nagar);2021
+126;127;4;LINE 2A (Dahisar-DN Nagar);2021
+127;128;4;LINE 2A (Dahisar-DN Nagar);2021
+128;129;4;LINE 2A (Dahisar-DN Nagar);2021
+129;130;4;LINE 2A (Dahisar-DN Nagar);2021
+130;131;4;LINE 2A (Dahisar-DN Nagar);2021
+130;284;4;LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg);2022
+130;285;4;LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg);2022
+131;132;4;LINE 2A (Dahisar-DN Nagar);2021
+132;236;4;LINE 1 (Versova–Andheri–Ghatkopar);2014
+132;237;4;LINE 1 (Versova–Andheri–Ghatkopar);2014
+133;134;4;LINE 4 A (Kasarwadavali-Gaimukh;2022
+134;140;4;LINE 10 (Gaimukh-Shivaji Chowk );2023
+135;136;4;LINE 8 (CSIA T2-NMIA);2022
+136;137;4;LINE 8 (CSIA T2-NMIA);2025
+136;165;4;LINE 2B (DN Nagar-Mandala);2022
+138;139;4;LINE 7A (Andheri-CSIA);2021
+138;182;4;LINE 7 (Dahisar (East)-Andheri (East));2021
+138;235;4;LINE 1 (Versova–Andheri–Ghatkopar);2021
+140;141;4;LINE 10 (Gaimukh-Shivaji Chowk );2023
+141;142;4;LINE 10 (Gaimukh-Shivaji Chowk );2023
+142;143;4;LINE 10 (Gaimukh-Shivaji Chowk );2023
+143;144;4;LINE 10 (Gaimukh-Shivaji Chowk );2023
+143;167;4;LINE 9 (Dahisar (East)-Mira-Bhayander);2022
+144;166;4;LINE 9 (Dahisar (East)-Mira-Bhayander);2023
+145;146;4;LINE 2B (DN Nagar-Mandala);2022
+146;147;4;LINE 2B (DN Nagar-Mandala);2022
+147;148;4;LINE 2B (DN Nagar-Mandala);2022
+148;149;4;LINE 2B (DN Nagar-Mandala);2022
+149;150;4;LINE 2B (DN Nagar-Mandala);2022
+150;151;4;LINE 2B (DN Nagar-Mandala);2022
+151;152;4;LINE 2B (DN Nagar-Mandala);2022
+152;153;4;LINE 2B (DN Nagar-Mandala);2022
+153;154;4;LINE 2B (DN Nagar-Mandala);2022
+154;155;4;LINE 2B (DN Nagar-Mandala);2022
+154;267;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+154;268;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+155;156;4;LINE 2B (DN Nagar-Mandala);2022
+156;157;4;LINE 2B (DN Nagar-Mandala);2022
+157;158;4;LINE 2B (DN Nagar-Mandala);2022
+158;159;4;LINE 2B (DN Nagar-Mandala);2022
+159;160;4;LINE 2B (DN Nagar-Mandala);2022
+160;161;4;LINE 2B (DN Nagar-Mandala);2022
+161;162;4;LINE 2B (DN Nagar-Mandala);2022
+162;163;4;LINE 2B (DN Nagar-Mandala);2022
+163;164;4;LINE 2B (DN Nagar-Mandala);2022
+164;165;4;LINE 2B (DN Nagar-Mandala);2022
+167;168;4;LINE 9 (Dahisar (East)-Mira-Bhayander);2022
+168;169;4;LINE 9 (Dahisar (East)-Mira-Bhayander);2022
+169;170;4;LINE 9 (Dahisar (East)-Mira-Bhayander);2022
+170;171;4;LINE 9 (Dahisar (East)-Mira-Bhayander);2022
+172;173;4;LINE 7 (Dahisar (East)-Andheri (East));2021
+173;174;4;LINE 7 (Dahisar (East)-Andheri (East));2021
+174;175;4;LINE 7 (Dahisar (East)-Andheri (East));2021
+175;176;4;LINE 7 (Dahisar (East)-Andheri (East));2021
+176;177;4;LINE 7 (Dahisar (East)-Andheri (East));2021
+177;178;4;LINE 7 (Dahisar (East)-Andheri (East));2021
+178;179;4;LINE 7 (Dahisar (East)-Andheri (East));2021
+179;180;4;LINE 7 (Dahisar (East)-Andheri (East));2021
+180;181;4;LINE 7 (Dahisar (East)-Andheri (East));2021
+181;182;4;LINE 7 (Dahisar (East)-Andheri (East));2021
+183;184;4;LINE 12 (Kalyan-Dombivali-Taloja);2025
+184;185;4;LINE 12 (Kalyan-Dombivali-Taloja);2025
+185;186;4;LINE 12 (Kalyan-Dombivali-Taloja);2025
+186;187;4;LINE 12 (Kalyan-Dombivali-Taloja);2025
+187;188;4;LINE 12 (Kalyan-Dombivali-Taloja);2025
+188;189;4;LINE 12 (Kalyan-Dombivali-Taloja);2025
+189;190;4;LINE 12 (Kalyan-Dombivali-Taloja);2025
+190;191;4;LINE 12 (Kalyan-Dombivali-Taloja);2025
+191;192;4;LINE 12 (Kalyan-Dombivali-Taloja);2025
+192;193;4;LINE 12 (Kalyan-Dombivali-Taloja);2025
+193;194;4;LINE 12 (Kalyan-Dombivali-Taloja);2025
+194;195;4;LINE 12 (Kalyan-Dombivali-Taloja);2025
+195;196;4;LINE 12 (Kalyan-Dombivali-Taloja);2025
+197;198;4;LINE 4  (Wadala–Kasarvadavali;2022
+197;298;4;LINE 11 (Wadala-CSMT);2023
+197;311;5;Line 1 Chembur- Wadala;2016
+197;312;5;Line 1 Chembur- Wadala;2016
+198;199;4;LINE 4  (Wadala–Kasarvadavali;2022
+199;200;4;LINE 4  (Wadala–Kasarvadavali;2022
+200;201;4;LINE 4  (Wadala–Kasarvadavali;2022
+201;202;4;LINE 4  (Wadala–Kasarvadavali;2022
+202;203;4;LINE 4  (Wadala–Kasarvadavali;2022
+203;204;4;LINE 4  (Wadala–Kasarvadavali;2022
+204;205;4;LINE 4  (Wadala–Kasarvadavali;2022
+205;206;4;LINE 4  (Wadala–Kasarvadavali;2022
+206;207;4;LINE 4  (Wadala–Kasarvadavali;2022
+207;208;4;LINE 4  (Wadala–Kasarvadavali;2022
+208;209;4;LINE 4  (Wadala–Kasarvadavali;2022
+209;210;4;LINE 4  (Wadala–Kasarvadavali;2022
+210;211;4;LINE 4  (Wadala–Kasarvadavali;2022
+211;212;4;LINE 4  (Wadala–Kasarvadavali;2022
+212;213;4;LINE 4  (Wadala–Kasarvadavali;2022
+213;214;4;LINE 4  (Wadala–Kasarvadavali;2022
+214;215;4;LINE 4  (Wadala–Kasarvadavali;2022
+215;216;4;LINE 4  (Wadala–Kasarvadavali;2022
+216;217;4;LINE 4  (Wadala–Kasarvadavali;2022
+217;218;4;LINE 4  (Wadala–Kasarvadavali;2022
+218;219;4;LINE 4  (Wadala–Kasarvadavali;2022
+219;220;4;LINE 4  (Wadala–Kasarvadavali;2022
+220;221;4;LINE 4  (Wadala–Kasarvadavali;2022
+221;222;4;LINE 4  (Wadala–Kasarvadavali;2022
+222;223;4;LINE 4  (Wadala–Kasarvadavali;2022
+223;224;4;LINE 4  (Wadala–Kasarvadavali;2022
+223;238;4;LINE 5 (Thane-Bhiwandi-Kalyan);2023
+224;225;4;LINE 4  (Wadala–Kasarvadavali;2022
+226;227;4;LINE 4  (Wadala–Kasarvadavali;2022
+229;230;4;LINE 1 (Versova–Andheri–Ghatkopar);2014
+230;231;4;LINE 1 (Versova–Andheri–Ghatkopar);2014
+231;232;4;LINE 1 (Versova–Andheri–Ghatkopar);2014
+232;233;4;LINE 1 (Versova–Andheri–Ghatkopar);2014
+232;271;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+232;272;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+233;234;4;LINE 1 (Versova–Andheri–Ghatkopar);2014
+234;235;4;LINE 1 (Versova–Andheri–Ghatkopar);2014
+238;239;4;LINE 5 (Thane-Bhiwandi-Kalyan);2023
+239;240;4;LINE 5 (Thane-Bhiwandi-Kalyan);2023
+240;241;4;LINE 5 (Thane-Bhiwandi-Kalyan);2023
+241;242;4;LINE 5 (Thane-Bhiwandi-Kalyan);2023
+242;243;4;LINE 5 (Thane-Bhiwandi-Kalyan);2023
+243;244;4;LINE 5 (Thane-Bhiwandi-Kalyan);2023
+244;245;4;LINE 5 (Thane-Bhiwandi-Kalyan);2023
+245;246;4;LINE 5 (Thane-Bhiwandi-Kalyan);2023
+246;247;4;LINE 5 (Thane-Bhiwandi-Kalyan);2023
+247;248;4;LINE 5 (Thane-Bhiwandi-Kalyan);2023
+248;249;4;LINE 5 (Thane-Bhiwandi-Kalyan);2023
+249;250;4;LINE 5 (Thane-Bhiwandi-Kalyan);2023
+250;251;4;LINE 5 (Thane-Bhiwandi-Kalyan);2023
+251;252;4;LINE 5 (Thane-Bhiwandi-Kalyan);2023
+252;253;4;LINE 5 (Thane-Bhiwandi-Kalyan);2023
+254;255;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+255;256;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+256;257;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+257;258;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+258;259;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+259;260;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+261;262;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+262;263;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+263;264;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+264;265;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+265;266;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+266;267;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+268;269;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+269;270;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+270;271;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+272;273;4;LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ);2021
+274;275;4;LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg);2022
+275;276;4;LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg);2022
+276;277;4;LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg);2022
+277;278;4;LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg);2022
+278;279;4;LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg);2022
+279;280;4;LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg);2022
+280;281;4;LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg);2022
+281;282;4;LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg);2022
+282;283;4;LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg);2022
+283;284;4;LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg);2022
+286;287;4;LINE 14 (Kanjurmarg-Badlapur);2025
+287;288;4;LINE 14 (Kanjurmarg-Badlapur);2025
+288;289;4;LINE 14 (Kanjurmarg-Badlapur);2025
+289;290;4;LINE 14 (Kanjurmarg-Badlapur);2025
+290;291;4;LINE 14 (Kanjurmarg-Badlapur);2025
+291;292;4;LINE 14 (Kanjurmarg-Badlapur);2025
+292;293;4;LINE 14 (Kanjurmarg-Badlapur);2025
+293;294;4;LINE 14 (Kanjurmarg-Badlapur);2025
+294;295;4;LINE 14 (Kanjurmarg-Badlapur);2025
+295;296;4;LINE 14 (Kanjurmarg-Badlapur);2025
+296;297;4;LINE 14 (Kanjurmarg-Badlapur);2025
+298;299;4;LINE 11 (Wadala-CSMT);2023
+299;300;4;LINE 11 (Wadala-CSMT);2023
+300;301;4;LINE 11 (Wadala-CSMT);2023
+301;302;4;LINE 11 (Wadala-CSMT);2023
+302;303;4;LINE 11 (Wadala-CSMT);2023
+303;304;4;LINE 11 (Wadala-CSMT);2023
+304;305;4;LINE 11 (Wadala-CSMT);2023
+305;306;4;LINE 11 (Wadala-CSMT);2023
+306;307;4;LINE 11 (Wadala-CSMT);2023
+308;309;5;Line 1 Chembur- Wadala;2016
+309;310;5;Line 1 Chembur- Wadala;2016
+310;311;5;Line 1 Chembur- Wadala;2016
+312;313;5;Line 1 Wadala- Jacob's Circle;2019
+313;314;5;Line 1 Wadala- Jacob's Circle;2019
+314;315;5;Line 1 Wadala- Jacob's Circle;2019
+315;316;5;Line 1 Wadala- Jacob's Circle;2019
+316;317;5;Line 1 Wadala- Jacob's Circle;2019
+317;318;5;Line 1 Wadala- Jacob's Circle;2019
+318;319;5;Line 1 Wadala- Jacob's Circle;2019
+319;320;5;Line 1 Wadala- Jacob's Circle;2019
+322;323;6;1;1910
+323;324;6;1;1910
+324;325;6;1;1910
+325;326;6;1;1910
+326;327;6;1;1910
+327;328;6;1;1910
+328;329;6;1;1910
+329;330;6;1;1910
+330;331;6;1;1910
+331;332;6;1;1910

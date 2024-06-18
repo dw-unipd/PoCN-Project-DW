@@ -1,0 +1,174 @@
+# edge data for Washington, United States
+from_id;to_id;mode;line;year
+1;2;4;Baltimore to Washington;1911
+1;58;3;MARC Penn Line;1991
+1;59;3;MARC Penn Line;1984
+1;65;4;AMDOT;1911
+2;3;4;Baltimore to Washington;1872
+3;4;4;Baltimore to Washington;1872
+3;61;3;MARC Penn Line;1980
+3;62;3;MARC Penn Line;1989
+3;63;4;AMDOT;1935
+5;6;3;Manassas Line;1992
+6;7;3;Manassas Line;1992
+7;8;3;Manassas Line;1992
+7;13;3;Fredericksburg Line;1995
+8;9;3;Manassas Line;1992
+9;10;3;Manassas Line;1992
+10;11;3;Manassas Line;1992
+11;12;3;Manassas Line;1992
+13;14;3;Fredericksburg Line;1995
+14;15;3;Fredericksburg Line;1992
+15;16;3;Fredericksburg Line;1992
+16;17;3;Fredericksburg Line;1992
+17;18;3;Fredericksburg Line;1992
+18;19;3;Fredericksburg Line;1992
+19;20;3;Fredericksburg Line;1992
+20;21;3;Fredericksburg Line;2015
+22;23;9;H Street/Benning Road Line;2016
+23;24;9;H Street/Benning Road Line;2016
+25;26;3;MARC Brunswick Line;1907
+25;54;3;MARC Camden Line;1907
+25;63;4;AMDOT;1935
+25;64;3;MARC Penn Line;1978
+25;161;3;Martinsburg to Washington;1907
+25;162;3;Baltimore to Washington;1907
+26;27;3;MARC Brunswick Line;1891
+26;29;3;Martinsburg to Washington;1891
+27;28;3;MARC Brunswick Line;1873
+28;29;3;MARC Brunswick Line;1873
+29;30;3;MARC Brunswick Line;1987
+29;32;3;Martinsburg to Washington;1873
+30;31;3;MARC Brunswick Line;1987
+31;32;3;MARC Brunswick Line;1873
+32;33;3;MARC Brunswick Line;1873
+33;34;3;MARC Brunswick Line;1891
+34;35;3;MARC Brunswick Line;1891
+35;36;3;MARC Brunswick Line;1891
+36;37;3;MARC Brunswick Line;1891
+37;38;3;MARC Brunswick Line;1889
+37;39;3;Martinsburg to Washington;1889
+38;39;3;MARC Brunswick Line;1848
+39;40;3;MARC Brunswick Line;2001
+40;41;3;MARC Brunswick Line;2001
+42;43;3;MARC Camden Line;1857
+42;160;3;Baltimore to Washington;1857
+43;44;3;MARC Camden Line;1996
+44;45;3;MARC Camden Line;1996
+45;46;3;MARC Camden Line;1830
+46;47;3;MARC Camden Line;1989
+47;48;3;MARC Camden Line;1989
+48;49;3;MARC Camden Line;1911
+49;50;3;MARC Camden Line;1994
+50;51;3;MARC Camden Line;1994
+51;52;3;MARC Camden Line;1830
+52;53;3;MARC Camden Line;1830
+53;54;3;MARC Camden Line;1830
+55;56;3;MARC Penn Line;1905
+56;57;3;MARC Penn Line;1991
+57;58;3;MARC Penn Line;1991
+59;60;3;MARC Penn Line;2013
+60;61;3;MARC Penn Line;2013
+61;65;4;AMDOT;1980
+62;63;3;MARC Penn Line;1989
+63;64;3;MARC Penn Line;1978
+64;66;4;Orange Line;1978
+64;115;4;Blue Line ;2004
+66;67;4;Orange Line;1978
+67;68;4;Orange Line;1978
+68;69;4;Orange Line;1978
+69;70;4;Orange Line;1978
+70;71;4;Orange Line;1977
+70;119;4;Silver Line;1980
+71;72;4;Orange Line;1977
+72;73;4;Orange Line;1977
+73;74;4;Orange Line;1977
+74;75;4;Orange Line;1977
+75;76;4;Orange Line;1977
+76;77;4;Orange Line;1977
+77;78;4;Orange Line;1977
+77;82;4;Orange Line;1977
+77;83;4;Orange Line;1979
+78;79;4;Orange Line;1977
+78;114;4;Yellow Line;2022
+79;80;4;Orange Line;1977
+80;81;4;Orange Line;1977
+81;82;4;Orange Line;1977
+81;102;4;Yellow Line;1983
+83;84;4;Orange Line;1979
+84;85;4;Orange Line;1979
+85;86;4;Orange Line;1979
+86;87;4;Orange Line;1986
+87;88;4;Orange Line;1986
+87;120;4;Silver Line;2014
+88;89;4;Orange Line;1986
+89;90;4;Orange Line;1986
+91;92;4;Green Line;1993
+92;93;4;Green Line;1993
+93;94;4;Green Line;1993
+94;95;4;Green Line;1993
+95;96;4;Green Line;1999
+95;149;4;Red Line;1978
+95;150;4;Red Line;1978
+96;97;4;Green Line;1999
+97;98;4;Green Line;1999
+98;99;4;Green Line;1991
+99;100;4;Green Line;1991
+100;101;4;Green Line;1991
+101;102;4;Green Line;1983
+101;144;4;Red Line;1976
+101;145;4;Red Line;1976
+102;103;4;Green Line;1991
+103;104;4;Green Line;1991
+104;105;4;Green Line;2001
+105;106;4;Green Line;2001
+106;107;4;Green Line;2001
+107;108;4;Green Line;2001
+108;109;4;Green Line;2001
+110;111;4;Yellow Line;1983
+111;112;4;Yellow Line;1983
+112;113;4;Yellow Line;1983
+112;129;4;Blue Line ;1991
+113;114;4;Yellow Line;2022
+115;116;4;Silver Line;2004
+116;117;4;Silver Line;2004
+117;118;4;Silver Line;1980
+118;119;4;Silver Line;1980
+120;121;4;Silver Line;2014
+121;122;4;Silver Line;2014
+122;123;4;Silver Line;2014
+123;124;4;Silver Line;2022
+124;125;4;Silver Line;2022
+125;126;4;Silver Line;2022
+126;127;4;Silver Line;2022
+127;128;4;Silver Line;2022
+130;131;4;Red Line;1984
+131;132;4;Red Line;1984
+132;133;4;Red Line;1984
+133;134;4;Red Line;1984
+134;135;4;Red Line;1984
+135;136;4;Red Line;1984
+136;137;4;Red Line;1984
+137;138;4;Red Line;1984
+138;139;4;Red Line;1984
+139;140;4;Red Line;1981
+140;141;4;Red Line;1981
+141;142;4;Red Line;1981
+142;143;4;Red Line;1977
+143;144;4;Red Line;1976
+145;146;4;Red Line;1976
+146;147;4;Red Line;2004
+147;148;4;Red Line;2004
+148;149;4;Red Line;1978
+150;151;4;Red Line;1978
+151;152;4;Red Line;1990
+152;153;4;Red Line;1990
+153;154;4;Red Line;1998
+155;156;9;Washington, Alexandria, and Mount Vernon Electric Railway;1896
+155;158;9;Washington-Virginia Railway;1907
+156;157;9;Washington-Virginia Railway;1896
+156;158;9;Washington-Virginia Railway;1907
+156;159;9;Washington, Arlington, and Falls Church Railway;1896
+157;158;9;Washington, Arlington, and Falls Church Railway;1907
+158;159;9;Washington-Virginia Railway;1907
+161;162;3;Baltimore to Washington;1851

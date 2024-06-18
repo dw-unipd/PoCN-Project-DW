@@ -1,0 +1,29 @@
+# edge data for Kocaeli, Turkey
+from_id;to_id;mode;line;year
+1;2;4;M1 Gebze OSB - Darıca Sahil;2026
+2;3;4;M1 Gebze OSB - Darıca Sahil;2026
+3;4;4;M1 Gebze OSB - Darıca Sahil;2026
+4;5;4;M1 Gebze OSB - Darıca Sahil;2026
+5;6;4;M1 Gebze OSB - Darıca Sahil;2026
+6;7;4;M1 Gebze OSB - Darıca Sahil;2026
+7;8;4;M1 Gebze OSB - Darıca Sahil;2026
+8;9;4;M1 Gebze OSB - Darıca Sahil;2026
+9;10;4;M1 Gebze OSB - Darıca Sahil;2026
+10;11;4;M1 Gebze OSB - Darıca Sahil;2026
+12;13;5;AkçaRay;2024
+13;14;5;AkçaRay;2024
+14;15;5;AkçaRay;2017
+15;16;5;AkçaRay;2017
+16;17;5;AkçaRay;2017
+17;18;5;AkçaRay;2017
+18;19;5;AkçaRay;2017
+19;20;5;AkçaRay;2017
+20;21;5;AkçaRay;2017
+21;22;5;AkçaRay;2017
+22;23;5;AkçaRay;2017
+23;24;5;AkçaRay;2017
+24;25;5;AkçaRay;2019
+25;26;5;AkçaRay;2019
+26;27;5;AkçaRay;2019
+27;28;5;AkçaRay;2019
+28;29;5;AkçaRay;2023

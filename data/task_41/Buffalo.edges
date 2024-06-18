@@ -1,0 +1,15 @@
+# edge data for Buffalo, United States
+from_id;to_id;mode;line;year
+1;2;5;Buffalo Metro Rail;1984
+2;3;5;Buffalo Metro Rail;1984
+3;4;5;Buffalo Metro Rail;1984
+4;5;5;Buffalo Metro Rail;1984
+5;6;5;Buffalo Metro Rail;1984
+6;7;5;Buffalo Metro Rail;1985
+7;8;5;Buffalo Metro Rail;1985
+8;9;5;Buffalo Metro Rail;1985
+9;10;5;Buffalo Metro Rail;1985
+10;11;5;Buffalo Metro Rail;1985
+11;12;5;Buffalo Metro Rail;1985
+12;13;5;Buffalo Metro Rail;1986
+13;14;5;Buffalo Metro Rail;1986

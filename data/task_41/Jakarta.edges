@@ -1,0 +1,544 @@
+# edge data for Jakarta, Indonesia
+from_id;to_id;mode;line;year
+1;2;7;Line 1;2017
+2;3;7;Line 1;2017
+3;4;7;Line 1;2017
+5;211;9;BTM Line;1869
+6;7;4;Soekarno-Hatta Airport Line;2018
+7;8;4;Soekarno-Hatta Airport Line;2019
+8;9;4;Soekarno-Hatta Airport Line;2019
+9;10;4;Soekarno-Hatta Airport Line;2019
+9;143;3;Cikarang Loop Line;2018
+9;145;3;Cikarang Loop Line;2018
+10;11;4;Soekarno-Hatta Airport Line;2019
+12;13;4;Line 1;2019
+13;14;4;Line 1;2019
+14;15;4;Line 1;2019
+15;16;4;Line 1;2019
+16;17;4;Line 1;2019
+17;18;4;Line 1;2019
+18;19;4;Line 1;2019
+19;20;4;Line 1;2019
+20;21;4;Line 1;2019
+21;22;4;Line 1;2019
+22;23;4;Line 1;2019
+23;24;4;Line 1;2019
+24;25;4;Line 1;2025
+25;26;4;Line 1;2025
+26;27;4;Line 1;2029
+27;28;4;Line 1;2029
+28;29;4;Line 1;2029
+29;30;4;Line 1;2027
+30;31;4;Line 1;2032
+32;33;4;Line 2;1869
+33;34;4;Line 2;1869
+34;35;4;Line 2;1869
+35;36;4;Line 2;1869
+36;37;4;Line 2;1869
+37;38;4;Line 2;1869
+38;39;4;Line 2;2034
+39;40;4;Line 2;2034
+40;41;4;Line 2;2034
+41;42;4;Line 2;2034
+42;43;4;Line 2;2034
+43;44;4;Line 2;2034
+44;45;4;Line 2;2034
+45;46;4;Line 2;2034
+46;47;4;Line 2;2034
+47;48;4;Line 2;2034
+48;49;4;Line 2;2034
+49;50;4;Line 2;2034
+50;51;4;Line 2;2034
+51;52;4;Line 2;2034
+52;53;4;Line 2;2034
+53;54;4;Line 2;2034
+54;55;4;Line 2;2034
+55;56;4;Line 2;2034
+56;57;4;Line 2;2034
+57;58;4;Line 2;2034
+58;59;4;Line 2;2034
+59;60;4;Line 2;2028
+60;61;4;Line 2;2028
+61;62;4;Line 2;2028
+62;63;4;Line 2;2028
+63;64;4;Line 2;2032
+64;65;4;Line 2;2032
+65;66;4;Line 2;2032
+66;67;4;Line 2;2032
+67;68;4;Line 2;2032
+68;69;4;Line 2;2032
+69;70;4;Line 2;2032
+70;71;4;Line 2;2032
+71;72;4;Line 2;2032
+72;73;4;Line 2;2032
+73;74;4;Line 2;2032
+74;75;4;Line 2;2032
+75;76;4;Line 2;2032
+77;78;4;Line 3;1869
+78;79;4;Line 3;1869
+79;80;4;Line 3;1869
+80;81;4;Line 3;1869
+81;82;4;Line 3;1869
+82;83;4;Line 3;1869
+83;84;4;Line 3;1869
+86;87;5;Line A;2026
+87;88;5;Line A;2026
+88;89;5;Line A;2026
+89;90;5;Line A;2026
+90;91;5;Line A;2026
+91;92;5;Line A;2019
+92;93;5;Line A;2019
+93;94;5;Line A;2019
+94;95;5;Line A;2019
+95;96;5;Line A;2019
+97;98;3;Central Line;2011
+97;124;3;Cikarang Line;2011
+98;99;3;Central Line;2011
+99;100;3;Central Line;2011
+100;101;3;Central Line;2011
+101;102;3;Central Line;2011
+102;103;3;Central Line;2011
+103;104;3;Central Line;2011
+103;125;3;Cikarang Line;2011
+103;182;3;Bogor Line;2021
+104;105;3;Central Line;2011
+104;127;3;Cikarang Loop Line;2011
+104;145;3;Loop Line;2011
+105;106;3;Central Line;2011
+105;182;3;Bogor Line;2021
+106;107;3;Central Line;2011
+107;108;3;Central Line;2011
+108;109;3;Central Line;2011
+109;110;3;Central Line;2011
+110;111;3;Central Line;2011
+111;112;3;Central Line;2011
+112;113;3;Central Line;2011
+113;114;3;Central Line;2011
+114;115;3;Central Line;2011
+115;116;3;Central Line;2011
+115;118;3;Bogor Line;2011
+115;178;3;Nambo Line;2011
+115;179;3;Bogor Line;2015
+116;117;3;Central Line;2011
+117;118;3;Central Line;2011
+119;120;3;Cikarang Line;2011
+119;141;3;Cikarang Loop Line;2017
+120;121;3;Cikarang Line;2011
+121;122;3;Cikarang Line;2011
+122;123;3;Cikarang Line;2011
+123;124;3;Cikarang Line;2011
+124;127;3;Loop Line;2011
+125;126;3;Cikarang Line;2023
+126;127;3;Cikarang Line;2023
+127;128;3;Cikarang Line;2011
+127;129;3;Cikarang Loop Line;2011
+127;141;3;Loop Line;2017
+128;129;3;Cikarang Line;2011
+129;130;3;Cikarang Line;2011
+129;183;3;Cikarang Loop Line;2018
+130;131;3;Cikarang Line;2011
+131;132;3;Cikarang Line;2011
+131;183;3;Cikarang Loop Line;2018
+132;133;3;Cikarang Line;2011
+132;134;3;Cikarang Loop Line;2011
+133;134;3;Cikarang Line;2011
+134;135;3;Cikarang Line;2011
+135;136;3;Cikarang Line;2017
+136;137;3;Cikarang Line;2017
+137;138;3;Cikarang Line;2017
+138;139;3;Cikarang Line;2019
+139;140;3;Cikarang Line;2019
+141;142;3;Loop Line;2017
+142;143;3;Loop Line;2011
+143;144;3;Loop Line;2011
+144;145;3;Loop Line;2011
+146;147;3;Rangkas Bitung Line;2011
+147;148;3;Rangkas Bitung Line;2011
+148;149;3;Rangkas Bitung Line;2011
+149;150;3;Rangkas Bitung Line;2011
+150;151;3;Rangkas Bitung Line;2011
+151;152;3;Rangkas Bitung Line;2011
+152;153;3;Rangkas Bitung Line;2011
+153;154;3;Rangkas Bitung Line;2011
+154;155;3;Rangkas Bitung Line;2011
+155;156;3;Rangkas Bitung Line;2011
+156;157;3;Rangkas Bitung Line;2013
+157;158;3;Rangkas Bitung Line;2013
+158;159;3;Rangkas Bitung Line;2013
+159;160;3;Rangkas Bitung Line;2013
+160;161;3;Rangkas Bitung Line;2013
+161;162;3;Rangkas Bitung Line;2013
+162;163;3;Rangkas Bitung Line;2017
+163;164;3;Rangkas Bitung Line;2017
+165;166;3;Tangerang Line;2011
+166;167;3;Tangerang Line;2011
+167;168;3;Tangerang Line;2011
+168;169;3;Tangerang Line;2011
+169;170;3;Tangerang Line;2011
+170;171;3;Tangerang Line;2011
+171;172;3;Tangerang Line;2011
+172;173;3;Tangerang Line;2011
+174;175;3;Tanjung Priok Line;2015
+175;176;3;Tanjung Priok Line;2016
+176;177;3;Tanjung Priok Line;2016
+178;179;3;Nambo Line;2015
+179;180;3;Nambo Line;2015
+179;181;3;Bogor Line;2015
+180;181;3;Nambo Line;1997
+184;185;1;Line 1;2024
+186;187;4;Cibubur Line;2023
+187;188;4;Cibubur Line;2023
+187;189;4;Bekasi Line;2023
+188;189;4;Cibubur Line;2023
+189;190;4;Cibubur Line;2023
+190;191;4;Cibubur Line;2023
+191;192;4;Cibubur Line;2023
+192;193;4;Cibubur Line;2023
+193;194;4;Cibubur Line;2023
+193;198;4;Bekasi Line;2023
+194;195;4;Cibubur Line;2023
+195;196;4;Cibubur Line;2023
+196;197;4;Cibubur Line;2023
+198;199;4;Bekasi Line;2023
+199;200;4;Bekasi Line;2023
+200;201;4;Bekasi Line;2023
+201;202;4;Bekasi Line;2023
+202;203;4;Bekasi Line;2023
+204;205;9;NITM Line;1869
+205;206;9;NITM Line;1869
+206;207;9;NITM Line;1869
+207;208;9;NITM Line;1869
+208;209;9;NITM Line;1869
+209;210;9;NITM Line;1869
+210;211;9;NITM Line;1869
+212;213;6;TJ koridor 1;2004
+213;214;6;TJ koridor 1;2004
+214;215;6;TJ koridor 1;2004
+215;216;6;TJ koridor 1;2004
+216;217;6;TJ koridor 1;2004
+217;218;6;TJ koridor 1;2004
+218;219;6;TJ koridor 1;2004
+219;220;6;TJ koridor 1;2004
+220;221;6;TJ koridor 1;2004
+221;222;6;TJ koridor 1;2004
+222;223;6;TJ koridor 1;2004
+223;224;6;TJ koridor 1;2014
+224;225;6;TJ koridor 1;2014
+225;226;6;TJ koridor 1;2004
+226;227;6;TJ koridor 1;2004
+227;228;6;TJ koridor 1;2004
+228;229;6;TJ koridor 1;2022
+229;230;6;TJ koridor 1;2022
+230;231;6;TJ koridor 1;2022
+232;233;6;TJ koridor 2;2007
+232;277;6;TJ koridor 4;2007
+233;234;6;TJ koridor 2;2006
+234;235;6;TJ koridor 2;2006
+235;236;6;TJ koridor 2;2006
+236;237;6;TJ koridor 2;2006
+237;238;6;TJ koridor 2;2006
+238;239;6;TJ koridor 2;2006
+239;240;6;TJ koridor 2;2006
+240;241;6;TJ koridor 2;2006
+240;252;6;TJ koridor 2;2006
+241;242;6;TJ koridor 2;2006
+242;243;6;TJ koridor 2;2006
+243;244;6;TJ koridor 2;2006
+244;245;6;TJ koridor 2;2006
+245;246;6;TJ koridor 2;2006
+246;247;6;TJ koridor 2;2006
+246;263;6;TJ koridor 3;2006
+247;248;6;TJ koridor 2;2006
+248;249;6;TJ koridor 2;2006
+248;262;6;TJ koridor 3;2006
+249;250;6;TJ koridor 2;2006
+250;251;6;TJ koridor 2;2006
+251;252;6;TJ koridor 2;2006
+253;254;6;TJ koridor 3;2006
+254;255;6;TJ koridor 3;2006
+255;256;6;TJ koridor 3;2006
+256;257;6;TJ koridor 3;2006
+257;258;6;TJ koridor 3;2006
+258;259;6;TJ koridor 3;2006
+259;260;6;TJ koridor 3;2006
+259;342;6;TJ koridor 8;2009
+260;261;6;TJ koridor 3;2006
+261;262;6;TJ koridor 3;2006
+262;343;6;TJ koridor 8;2009
+264;265;6;TJ koridor 4;2007
+264;266;6;TJ koridor 4;2007
+264;295;6;TJ koridor 6;2007
+265;296;6;TJ koridor 6;2007
+266;267;6;TJ koridor 4;2007
+267;268;6;TJ koridor 4;2007
+268;269;6;TJ koridor 4;2007
+269;270;6;TJ koridor 4;2007
+270;271;6;TJ koridor 4;2007
+271;272;6;TJ koridor 4;2007
+272;273;6;TJ koridor 4;2007
+273;274;6;TJ koridor 4;2007
+274;275;6;TJ koridor 4;2007
+275;276;6;TJ koridor 4;2007
+276;277;6;TJ koridor 4;2007
+278;279;6;TJ koridor 5;2011
+279;280;6;TJ koridor 5;2011
+280;281;6;TJ koridor 5;2007
+281;282;6;TJ koridor 5;2007
+282;283;6;TJ koridor 5;2007
+283;284;6;TJ koridor 5;2007
+284;285;6;TJ koridor 5;2007
+285;286;6;TJ koridor 5;2007
+286;287;6;TJ koridor 5;2007
+287;288;6;TJ koridor 5;2007
+288;289;6;TJ koridor 5;2007
+289;290;6;TJ koridor 5;2007
+290;291;6;TJ koridor 5;2007
+291;292;6;TJ koridor 5;2007
+292;293;6;TJ koridor 5;2007
+293;294;6;TJ koridor 5;2007
+295;296;6;TJ koridor 6;2007
+296;297;6;TJ koridor 6;2007
+297;298;6;TJ koridor 6;2007
+298;299;6;TJ koridor 6;2007
+299;300;6;TJ koridor 6;2007
+300;301;6;TJ koridor 6;2007
+301;302;6;TJ koridor 6;2007
+302;303;6;TJ koridor 6;2007
+303;304;6;TJ koridor 6;2007
+304;305;6;TJ koridor 6;2007
+305;306;6;TJ koridor 6;2007
+306;307;6;TJ koridor 6;2007
+307;308;6;TJ koridor 6;2007
+308;309;6;TJ koridor 6;2007
+309;310;6;TJ koridor 6;2007
+310;311;6;TJ koridor 6;2007
+311;312;6;TJ koridor 6;2007
+313;314;6;TJ koridor 7;2007
+314;315;6;TJ koridor 7;2007
+315;316;6;TJ koridor 7;2007
+316;317;6;TJ koridor 7;2007
+317;318;6;TJ koridor 7;2007
+318;319;6;TJ koridor 7;2007
+319;320;6;TJ koridor 7;2007
+320;321;6;TJ koridor 7;2007
+321;322;6;TJ koridor 7;2007
+322;323;6;TJ koridor 7;2007
+323;324;6;TJ koridor 7;2007
+324;325;6;TJ koridor 7;2007
+325;326;6;TJ koridor 7;2007
+327;328;6;TJ koridor 8;2015
+328;329;6;TJ koridor 8;2015
+329;330;6;TJ koridor 8;2009
+330;331;6;TJ koridor 8;2009
+331;332;6;TJ koridor 8;2009
+332;333;6;TJ koridor 8;2009
+333;334;6;TJ koridor 8;2009
+334;335;6;TJ koridor 8;2009
+335;336;6;TJ koridor 8;2009
+336;337;6;TJ koridor 8;2009
+337;338;6;TJ koridor 8;2009
+338;339;6;TJ koridor 8;2009
+339;340;6;TJ koridor 8;2009
+340;341;6;TJ koridor 8;2009
+341;342;6;TJ koridor 8;2009
+344;345;6;TJ koridor 9;2010
+344;346;6;TJ koridor 9;2010
+346;347;6;TJ koridor 9;2010
+347;348;6;TJ koridor 9;2010
+348;349;6;TJ koridor 9;2010
+349;350;6;TJ koridor 9;2010
+350;351;6;TJ koridor 9;2010
+351;352;6;TJ koridor 9;2010
+352;353;6;TJ koridor 9;2010
+353;354;6;TJ koridor 9;2010
+354;355;6;TJ koridor 9;2010
+355;356;6;TJ koridor 9;2010
+356;357;6;TJ koridor 9;2010
+357;358;6;TJ koridor 9;2010
+358;359;6;TJ koridor 9;2010
+359;360;6;TJ koridor 9;2010
+360;361;6;TJ koridor 9;2010
+361;362;6;TJ koridor 9;2010
+362;363;6;TJ koridor 9;2010
+363;364;6;TJ koridor 9;2010
+364;365;6;TJ koridor 9;2010
+365;366;6;TJ koridor 9;2010
+366;367;6;TJ koridor 9;2010
+367;368;6;TJ koridor 9;2010
+368;369;6;TJ koridor 9;2010
+370;371;6;TJ koridor 10;2010
+371;372;6;TJ koridor 10;2010
+372;373;6;TJ koridor 10;2010
+373;374;6;TJ koridor 10;2010
+374;375;6;TJ koridor 10;2010
+375;376;6;TJ koridor 10;2010
+376;377;6;TJ koridor 10;2010
+377;378;6;TJ koridor 10;2010
+378;379;6;TJ koridor 10;2010
+379;380;6;TJ koridor 10;2010
+380;381;6;TJ koridor 10;2010
+381;382;6;TJ koridor 10;2010
+382;383;6;TJ koridor 10;2010
+383;384;6;TJ koridor 10;2011
+384;385;6;TJ koridor 10;2011
+385;386;6;TJ koridor 10;2010
+386;387;6;TJ koridor 10;2010
+387;388;6;TJ koridor 10;2010
+388;389;6;TJ koridor 10;2010
+389;390;6;TJ koridor 10;2010
+390;391;6;TJ koridor 10;2010
+392;393;6;TJ koridor 11;2015
+393;394;6;TJ koridor 11;2015
+394;395;6;TJ koridor 11;2011
+395;396;6;TJ koridor 11;2011
+396;397;6;TJ koridor 11;2011
+397;398;6;TJ koridor 11;2011
+398;399;6;TJ koridor 11;2011
+399;400;6;TJ koridor 11;2011
+400;401;6;TJ koridor 11;2011
+401;402;6;TJ koridor 11;2011
+402;403;6;TJ koridor 11;2011
+403;404;6;TJ koridor 11;2011
+404;405;6;TJ koridor 11;2011
+405;406;6;TJ koridor 11;2011
+405;407;6;TJ koridor 11;2011
+406;407;6;TJ koridor 11;2011
+408;409;6;TJ koridor 12;2013
+408;410;6;TJ koridor 12;2013
+408;413;6;TJ koridor 12;2013
+409;410;6;TJ koridor 12;2013
+410;411;6;TJ koridor 12;2013
+410;414;6;TJ koridor 12;2013
+411;412;6;TJ koridor 12;2013
+411;417;6;TJ koridor 12;2013
+411;418;6;TJ koridor 12;2013
+412;413;6;TJ koridor 12;2013
+414;415;6;TJ koridor 12;2013
+415;416;6;TJ koridor 12;2013
+416;417;6;TJ koridor 12;2013
+418;419;6;TJ koridor 12;2013
+419;420;6;TJ koridor 12;2013
+420;421;6;TJ koridor 12;2013
+421;422;6;TJ koridor 12;2013
+421;426;6;TJ koridor 12;2013
+422;423;6;TJ koridor 12;2013
+423;424;6;TJ koridor 12;2013
+424;425;6;TJ koridor 12;2013
+425;426;6;TJ koridor 12;2013
+426;427;6;TJ koridor 12;2013
+426;431;6;TJ koridor 12;2013
+427;428;6;TJ koridor 12;2013
+428;429;6;TJ koridor 12;2013
+429;430;6;TJ koridor 12;2013
+430;431;6;TJ koridor 12;2013
+432;433;6;TJ koridor 13;2018
+433;434;6;TJ koridor 13;2018
+434;435;6;TJ koridor 13;2022
+435;436;6;TJ koridor 13;2022
+436;437;6;TJ koridor 13;2018
+437;438;6;TJ koridor 13;2018
+438;439;6;TJ koridor 13;2017
+439;440;6;TJ koridor 13;2017
+440;441;6;TJ koridor 13;2018
+441;442;6;TJ koridor 13;2018
+442;443;6;TJ koridor 13;2018
+443;444;6;TJ koridor 13;2017
+444;445;6;TJ koridor 13;2017
+444;446;6;TJ koridor 13;2018
+445;446;6;TJ koridor 13;2018
+447;448;4;Dream 1;2100
+448;449;4;Dream 1;2100
+449;450;4;Dream 1;2100
+450;451;4;Dream 1;2100
+451;452;4;Dream 1;2100
+452;453;4;Dream 1;2100
+453;454;4;Dream 1;2100
+454;455;4;Dream 1;2100
+455;456;4;Dream 1;2100
+456;457;4;Dream 1;2100
+457;458;4;Dream 1;2100
+458;459;4;Dream 1;2100
+460;461;4;Dream 2;2100
+461;462;4;Dream 2;2100
+461;502;4;Dream 5;2100
+462;463;4;Dream 2;2100
+463;464;4;Dream 2;2100
+464;465;4;Dream 2;2100
+465;466;4;Dream 2;2100
+466;467;4;Dream 2;2100
+467;468;4;Dream 2;2100
+468;469;4;Dream 2;2100
+470;471;4;Dream 4;2100
+470;515;4;Dream 5;2100
+471;472;4;Dream 4;2100
+472;473;4;Dream 4;2100
+473;474;4;Dream 4;2100
+474;475;4;Dream 4;2100
+475;476;4;Dream 4;2100
+476;477;4;Dream 4;2100
+477;478;4;Dream 4;2100
+478;479;4;Dream 4;2100
+479;480;4;Dream 4;2100
+480;481;4;Dream 4;2100
+481;482;4;Dream 4;2100
+482;483;4;Dream 4;2100
+483;484;4;Dream 4;2100
+484;485;4;Dream 4;2100
+485;486;4;Dream 4;2100
+486;487;4;Dream 4;2100
+487;488;4;Dream 4;2100
+488;489;4;Dream 4;2100
+489;490;4;Dream 4;2100
+490;491;4;Dream 4;2100
+491;492;4;Dream 4;2100
+492;493;4;Dream 4;2100
+493;494;4;Dream 4;2100
+494;495;4;Dream 4;2100
+495;496;4;Dream 4;2100
+496;497;4;Dream 4;2100
+497;498;4;Dream 4;2100
+498;499;4;Dream 4;2100
+499;500;4;Dream 4;2100
+500;501;4;Dream 4;2100
+502;503;4;Dream 5;2100
+503;504;4;Dream 5;2100
+504;505;4;Dream 5;2100
+505;506;4;Dream 5;2100
+506;507;4;Dream 5;2100
+507;508;4;Dream 5;2100
+508;509;4;Dream 5;2100
+509;510;4;Dream 5;2100
+510;511;4;Dream 5;2100
+511;512;4;Dream 5;2100
+512;513;4;Dream 5;2100
+513;514;4;Dream 5;2100
+514;515;4;Dream 5;2100
+516;517;0;Dream 6;2100
+517;518;0;Dream 6;2100
+518;519;0;Dream 6;2100
+519;520;0;Dream 6;2100
+520;521;0;Dream 6;2100
+521;522;0;Dream 6;2100
+522;523;0;Dream 6;2100
+523;524;0;Dream 6;2100
+524;525;0;Dream 6;2100
+525;526;0;Dream 6;2100
+526;527;0;Dream 6;2100
+527;528;0;Dream 6;2100
+528;529;0;Dream 6;2100
+529;530;0;Dream 6;2100
+530;531;0;Dream 6;2100
+531;532;0;Dream 6;2100
+532;533;0;Dream 6;2100
+533;534;0;Dream 6;2100
+534;535;0;Dream 6;2100
+535;536;0;Dream 6;2100
+536;537;0;Dream 6;2100
+537;538;0;Dream 6;2100
+538;539;0;Dream 6;2100
+539;540;0;Dream 6;2100
+540;541;0;Dream 6;2100
+541;542;0;Dream 6;2100
+542;543;0;Dream 6;2100
+543;544;0;Dream 6;2100
+544;545;0;Dream 6;2100

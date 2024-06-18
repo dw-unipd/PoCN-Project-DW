@@ -1,0 +1,9 @@
+# edge data for Genoa, Italy
+from_id;to_id;mode;line;year
+1;2;0;M1;1990
+2;3;0;M1;1992
+3;4;0;M1;2003
+4;5;0;M1;2003
+5;6;0;M1;2006
+6;7;0;M1;2006
+7;8;0;M1;2012

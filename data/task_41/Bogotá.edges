@@ -1,0 +1,29 @@
+# edge data for Bogotá, Colombia
+from_id;to_id;mode;line;year
+1;2;0;Troncal A - Caracas;2000
+2;3;0;Troncal A - Caracas;2000
+3;4;0;Troncal A - Caracas;2000
+4;5;0;Troncal A - Caracas;2000
+5;6;0;Troncal A - Caracas;2000
+6;7;0;Troncal A - Caracas;2000
+7;8;0;Troncal A - Caracas;2000
+8;9;0;Troncal A - Caracas;2000
+9;10;0;Troncal A - Caracas;2000
+10;11;0;Troncal A - Caracas;2000
+11;12;0;Troncal A - Caracas;2000
+12;13;0;Troncal A - Caracas;2000
+13;14;0;Troncal A - Caracas;2000
+15;16;0;Troncal B - Norte;2000
+16;17;0;Troncal B - Norte;2000
+17;18;0;Troncal B - Norte;2000
+18;19;0;Troncal B - Norte;2000
+19;20;0;Troncal B - Norte;2000
+20;21;0;Troncal B - Norte;2000
+21;22;0;Troncal B - Norte;2000
+22;23;0;Troncal B - Norte;2000
+23;24;0;Troncal B - Norte;2000
+24;25;0;Troncal B - Norte;2000
+25;26;0;Troncal B - Norte;2012
+27;28;0;Ciudad Bolivar;2018
+28;29;0;Ciudad Bolivar;2018
+30;31;0;Tren Turístico (Del Norte);1926

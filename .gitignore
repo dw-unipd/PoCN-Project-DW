@@ -1,0 +1,11 @@
+# not relevant for the project hand in
+DataTask/
+Lab/
+LabPDFs/
+Slides/
+TheoryTasks/
+Course_Networks_v2_skript.pdf
+
+# not wanted in the remote repo
+code/task_41/data/
+code/task_41/output/

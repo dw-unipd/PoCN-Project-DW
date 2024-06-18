@@ -1,0 +1,5 @@
+# edge data for Rotterdam - The Hague, Netherlands
+from_id;to_id;mode;line;year
+1;2;9;15;2020
+2;3;5;4;2020
+2;4;9;16;2020

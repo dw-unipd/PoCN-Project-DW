@@ -1,0 +1,5 @@
+# edge data for Orleans, France
+from_id;to_id;mode;line;year
+2;3;5;A;2000
+2;4;5;A;2000
+4;5;5;A;2000

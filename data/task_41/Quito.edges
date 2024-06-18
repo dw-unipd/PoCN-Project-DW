@@ -1,0 +1,16 @@
+# edge data for Quito, Ecuador
+from_id;to_id;mode;line;year
+1;2;4;Línea 1;2020
+2;3;4;Línea 1;2020
+3;4;4;Línea 1;2020
+4;5;4;Línea 1;2020
+5;6;4;Línea 1;2020
+6;7;4;Línea 1;2020
+7;8;4;Línea 1;2020
+8;9;4;Línea 1;2020
+9;10;4;Línea 1;2020
+10;11;4;Línea 1;2020
+11;12;4;Línea 1;2020
+12;13;4;Línea 1;2020
+13;14;4;Línea 1;2020
+14;15;4;Línea 1;2020

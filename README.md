@@ -1,5 +1,6 @@
-# Physics of Complex Networks 2024
+# Physics of Complex Networks 2024 project under Professor De Domenico
 Student name: David Weingut
+
 Tasks:
 
 |name|number|score|type|

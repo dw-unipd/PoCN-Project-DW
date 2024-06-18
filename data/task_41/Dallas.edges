@@ -1,0 +1,28 @@
+# edge data for Dallas, United States
+from_id;to_id;mode;line;year
+1;2;5;Orange Line;2014
+2;3;5;Orange Line;2012
+3;4;5;Orange Line;2012
+4;5;5;Orange Line;2012
+5;6;5;Orange Line;2012
+7;8;3;TEXRail;2001
+8;9;3;TEXRail;2019
+8;29;3;Trinity Railway Express;2001
+9;10;3;TEXRail;2019
+10;11;3;TEXRail;2019
+11;12;3;TEXRail;2019
+12;13;3;TEXRail;2019
+13;14;3;TEXRail;2019
+14;15;3;TEXRail;2019
+16;17;3;A-train;2011
+17;18;3;A-train;2011
+18;19;3;A-train;2011
+19;20;3;A-train;2011
+20;21;3;A-train;2011
+22;23;3;Trinity Railway Express;1996
+23;24;3;Trinity Railway Express;1996
+24;25;3;Trinity Railway Express;1996
+25;26;3;Trinity Railway Express;2000
+26;27;3;Trinity Railway Express;2000
+27;28;3;Trinity Railway Express;2000
+28;29;3;Trinity Railway Express;2000

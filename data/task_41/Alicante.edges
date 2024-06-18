@@ -1,0 +1,8 @@
+# edge data for Alicante, Spain
+from_id;to_id;mode;line;year
+1;2;5;L4;2010
+2;3;5;L4;2010
+3;4;5;L4;2013
+3;5;5;L1;2007
+6;7;5;L5;2019
+7;8;5;L5;2019

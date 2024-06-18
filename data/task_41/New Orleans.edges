@@ -1,0 +1,245 @@
+# edge data for New Orleans, United States
+from_id;to_id;mode;line;year
+1;2;9;14 Tulane;2020
+1;50;9;3 Loyola;2013
+1;66;9;3 Loyola;2013
+2;3;9;14 Tulane;2020
+3;4;9;14 Tulane;2022
+4;5;9;14 Tulane;2022
+5;6;9;14 Tulane;2022
+6;7;9;14 Tulane;2022
+7;8;9;14 Tulane;2020
+8;9;9;14 Tulane;2022
+9;10;9;14 Tulane;2022
+10;11;9;14 Tulane;2022
+10;56;9;2 St. Charles;2020
+11;12;9;14 Tulane;2022
+12;13;9;14 Tulane;2022
+12;39;9;7 Louisiana;2022
+14;15;9;1 Riverfront;2022
+14;48;9;7 Louisiana;2020
+15;16;9;1 Riverfront;2022
+16;17;9;1 Riverfront;2022
+17;18;9;1 Riverfront;2022
+18;19;9;1 Riverfront;2022
+18;76;9;3 Loyola;2020
+19;20;9;1 Riverfront;2022
+20;21;9;1 Riverfront;2022
+21;22;9;1 Riverfront;2022
+22;23;9;1 Riverfront;2022
+23;24;9;1 Riverfront;1988
+24;25;9;1 Riverfront;1988
+25;26;9;1 Riverfront;1988
+26;27;9;1 Riverfront;1988
+27;28;9;1 Riverfront;1988
+28;29;9;1 Riverfront;1988
+29;30;9;1 Riverfront;1988
+30;63;9;15 St. Bernard;2016
+30;77;9;13 Esplanade;2022
+30;169;9;17 Elysian Fields;2022
+31;32;9;8 Napoleon;2022
+31;218;9;27 Broadway;2022
+32;33;9;8 Napoleon;2022
+33;34;9;8 Napoleon;2022
+33;184;9;12 Broad;2022
+35;36;9;8 Napoleon;2020
+35;122;9;2 St. Charles;1835
+35;123;9;2 St. Charles;1835
+36;37;9;8 Napoleon;2020
+37;38;9;8 Napoleon;2020
+39;40;9;7 Louisiana;2022
+40;41;9;7 Louisiana;2022
+41;42;9;7 Louisiana;2022
+42;43;9;7 Louisiana;2022
+42;184;9;12 Broad;2022
+42;185;9;12 Broad;2022
+43;44;9;7 Louisiana;2022
+43;150;9;6 Claiborne;2022
+43;151;9;6 Claiborne;2022
+44;45;9;7 Louisiana;2022
+45;46;9;7 Louisiana;2020
+45;118;9;2 St. Charles;1835
+45;119;9;2 St. Charles;1835
+46;47;9;7 Louisiana;2020
+47;48;9;7 Louisiana;2020
+49;50;9;11 North Carrollton;2022
+50;51;9;11 North Carrollton;2020
+50;65;9;3 Loyola;2016
+50;68;9;3 Loyola;2004
+51;52;9;11 North Carrollton;2022
+52;53;9;11 North Carrollton;2022
+53;54;9;11 North Carrollton;2022
+53;94;9;5 Jefferson;2022
+53;95;9;5 Jefferson;2022
+54;55;9;11 North Carrollton;2022
+54;96;9;10 Canal;2022
+55;56;9;11 North Carrollton;2020
+56;57;9;11 North Carrollton;2020
+57;58;9;11 North Carrollton;2020
+58;59;9;11 North Carrollton;2020
+59;60;9;11 North Carrollton;2020
+60;81;9;13 Esplanade;2022
+61;62;9;3 Loyola;2022
+61;169;9;17 Elysian Fields;2022
+61;170;9;17 Elysian Fields;2022
+62;63;9;3 Loyola;2016
+63;64;9;3 Loyola;2016
+63;156;9;15 St. Bernard;2022
+64;65;9;3 Loyola;2016
+66;67;9;3 Loyola;2000
+67;68;9;3 Loyola;2000
+68;69;9;3 Loyola;2022
+69;70;9;3 Loyola;2022
+70;71;9;3 Loyola;2022
+71;72;9;3 Loyola;2022
+72;73;9;3 Loyola;2022
+73;74;9;3 Loyola;2022
+74;75;9;3 Loyola;2020
+74;114;9;2 St. Charles;1835
+74;115;9;2 St. Charles;1835
+75;76;9;3 Loyola;2020
+77;78;9;13 Esplanade;2022
+78;79;9;13 Esplanade;2022
+79;80;9;13 Esplanade;2022
+79;190;9;24 Gentilly;2022
+79;191;9;24 Gentilly;2022
+80;81;9;13 Esplanade;2022
+82;83;9;5 Jefferson;2022
+83;84;9;5 Jefferson;2022
+84;85;9;5 Jefferson;2022
+85;86;9;5 Jefferson;2022
+86;87;9;5 Jefferson;2022
+87;88;9;5 Jefferson;2022
+88;89;9;5 Jefferson;2022
+89;90;9;5 Jefferson;2022
+90;91;9;5 Jefferson;2022
+91;92;9;5 Jefferson;2022
+92;93;9;5 Jefferson;2022
+92;227;9;31 MLK;2022
+92;228;9;31 MLK;2022
+93;94;9;5 Jefferson;2022
+96;97;9;10 Canal;1900
+97;98;9;10 Canal;1900
+99;100;9;2 St. Charles;1835
+100;101;9;2 St. Charles;1835
+101;102;9;2 St. Charles;1835
+102;103;9;2 St. Charles;1835
+103;104;9;2 St. Charles;1835
+104;105;9;2 St. Charles;1835
+105;106;9;2 St. Charles;1835
+106;107;9;2 St. Charles;1835
+107;108;9;2 St. Charles;1835
+108;109;9;2 St. Charles;1835
+109;110;9;2 St. Charles;1835
+110;111;9;2 St. Charles;1835
+111;112;9;2 St. Charles;1835
+112;113;9;2 St. Charles;1835
+113;114;9;2 St. Charles;1835
+115;116;9;2 St. Charles;1835
+116;117;9;2 St. Charles;1835
+117;118;9;2 St. Charles;1835
+119;120;9;2 St. Charles;1835
+120;121;9;2 St. Charles;1835
+121;122;9;2 St. Charles;1835
+123;124;9;2 St. Charles;1835
+124;125;9;2 St. Charles;1835
+125;126;9;2 St. Charles;1835
+126;127;9;2 St. Charles;1835
+127;128;9;2 St. Charles;1835
+128;129;9;2 St. Charles;1835
+129;130;9;2 St. Charles;1835
+130;131;9;2 St. Charles;1835
+131;132;9;2 St. Charles;1835
+132;133;9;2 St. Charles;1835
+133;134;9;2 St. Charles;1893
+134;135;9;2 St. Charles;1893
+135;136;9;2 St. Charles;1893
+136;137;9;2 St. Charles;1893
+137;138;9;2 St. Charles;1900
+138;139;9;2 St. Charles;1900
+140;141;9;6 Claiborne;2022
+141;142;9;6 Claiborne;2022
+142;143;9;6 Claiborne;2022
+143;144;9;6 Claiborne;2022
+144;145;9;6 Claiborne;2022
+145;146;9;6 Claiborne;2022
+146;147;9;6 Claiborne;2022
+147;148;9;6 Claiborne;2022
+148;149;9;6 Claiborne;2022
+149;150;9;6 Claiborne;2022
+151;152;9;6 Claiborne;2022
+152;153;9;6 Claiborne;2022
+153;154;9;6 Claiborne;2022
+154;155;9;6 Claiborne;2022
+155;156;9;6 Claiborne;2022
+156;157;9;6 Claiborne;2022
+156;158;9;15 St. Bernard;2022
+158;159;9;15 St. Bernard;2022
+159;160;9;15 St. Bernard;2022
+160;161;9;15 St. Bernard;2022
+161;162;9;15 St. Bernard;2022
+162;163;9;15 St. Bernard;2022
+163;164;9;15 St. Bernard;2022
+164;165;9;15 St. Bernard;2022
+165;166;9;15 St. Bernard;2022
+166;167;9;15 St. Bernard;2022
+167;168;9;15 St. Bernard;2022
+170;171;9;17 Elysian Fields;2022
+171;172;9;17 Elysian Fields;2022
+172;173;9;17 Elysian Fields;2022
+173;174;9;17 Elysian Fields;2022
+174;175;9;17 Elysian Fields;2022
+175;176;9;17 Elysian Fields;2022
+175;200;9;24 Gentilly;2022
+175;201;9;24 Gentilly;2022
+176;177;9;17 Elysian Fields;2022
+177;178;9;17 Elysian Fields;2022
+178;179;9;17 Elysian Fields;2022
+179;180;9;17 Elysian Fields;2022
+180;181;9;17 Elysian Fields;2022
+181;182;9;17 Elysian Fields;2022
+182;183;9;17 Elysian Fields;2022
+185;186;9;12 Broad;2022
+186;187;9;12 Broad;2022
+187;188;9;12 Broad;2022
+188;189;9;12 Broad;2022
+191;192;9;24 Gentilly;2022
+192;193;9;24 Gentilly;2022
+193;194;9;24 Gentilly;2022
+194;195;9;24 Gentilly;2022
+195;196;9;24 Gentilly;2022
+196;197;9;24 Gentilly;2022
+197;198;9;24 Gentilly;2022
+198;199;9;24 Gentilly;2022
+199;200;9;24 Gentilly;2022
+201;202;9;24 Gentilly;2022
+202;203;9;24 Gentilly;2022
+203;204;9;24 Gentilly;2022
+204;205;9;24 Gentilly;2022
+205;206;9;24 Gentilly;2022
+206;207;9;24 Gentilly;2022
+207;208;9;24 Gentilly;2022
+208;209;9;24 Gentilly;2022
+209;210;9;24 Gentilly;2022
+210;211;9;24 Gentilly;2022
+211;212;9;24 Gentilly;2022
+213;214;9;27 Broadway;2022
+214;215;9;27 Broadway;2022
+215;216;9;27 Broadway;2022
+216;217;9;27 Broadway;2022
+217;218;9;27 Broadway;2022
+219;220;9;31 MLK;2022
+220;221;9;31 MLK;2022
+221;222;9;31 MLK;2022
+222;223;9;31 MLK;2022
+223;224;9;31 MLK;2022
+224;225;9;31 MLK;2022
+225;226;9;31 MLK;2022
+226;227;9;31 MLK;2022
+228;229;9;31 MLK;2022
+229;230;9;31 MLK;2022
+230;231;9;31 MLK;2022
+231;232;9;31 MLK;2022
+232;233;9;31 MLK;2022
+233;234;9;31 MLK;2022
+234;235;9;31 MLK;2022

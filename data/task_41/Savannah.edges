@@ -1,0 +1,10 @@
+# edge data for Savannah, United States
+from_id;to_id;mode;line;year
+1;2;9;River Street Streecar ("Dottie");2009
+2;3;9;River Street Streecar ("Dottie");2009
+3;4;9;River Street Streecar ("Dottie");2009
+4;5;9;River Street Streecar ("Dottie");2009
+5;6;9;River Street Streecar ("Dottie");2009
+7;8;10;Savannah Belles Ferry;2004
+7;9;10;Savannah Belles Ferry;2004
+8;9;10;Savannah Belles Ferry;2004

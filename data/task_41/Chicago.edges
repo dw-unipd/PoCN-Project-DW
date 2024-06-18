@@ -1,0 +1,87 @@
+# edge data for Chicago, United States
+from_id;to_id;mode;line;year
+1;2;4;Brown Line;1995
+2;3;4;Brown Line;1995
+3;4;4;Brown Line;1930
+3;5;4;Brown Line;1930
+4;5;4;Brown Line;1921
+5;6;4;Brown Line;1921
+6;7;4;Brown Line;1906
+7;8;4;Brown Line;1906
+8;9;4;Brown Line;1900
+9;10;4;Brown Line;1900
+10;11;4;Brown Line;1900
+11;12;4;Brown Line;1900
+12;13;4;Brown Line;1905
+13;14;4;Brown Line;1905
+14;15;4;Brown Line;1900
+14;16;4;Purple Line;1900
+14;39;4;Purple Line;1995
+15;16;4;Brown Line;1900
+16;17;4;Brown Line;1900
+16;18;4;Purple Line;1900
+17;18;4;Brown Line;1900
+18;19;4;Brown Line;1900
+19;20;4;Brown Line;1900
+20;21;4;Brown Line;1907
+21;22;4;Brown Line;1907
+22;23;4;Brown Line;1907
+23;24;4;Brown Line;1907
+24;25;4;Brown Line;1907
+25;26;4;Brown Line;1907
+26;27;4;Brown Line;1907
+27;28;4;Brown Line;1907
+28;29;4;Brown Line;1907
+29;30;4;Brown Line;1907
+30;31;4;Brown Line;1907
+32;33;4;Red Line;1900
+33;34;4;Red Line;1900
+34;35;4;Red Line;1900
+35;36;4;Red Line;1900
+36;37;4;Red Line;1900
+37;38;4;Red Line;1900
+39;40;4;Orange Line;1995
+40;54;4;Green Line;1993
+40;55;4;Green Line;1993
+41;42;4;Green Line;1893
+41;56;4;Green Line;1893
+42;43;4;Green Line;1892
+43;44;4;Green Line;1892
+44;45;4;Green Line;1892
+45;46;4;Green Line;1892
+46;47;4;Green Line;1892
+47;48;4;Green Line;1892
+48;49;4;Green Line;1892
+49;50;4;Green Line;1892
+50;51;4;Green Line;1892
+51;52;4;Green Line;1892
+52;53;4;Green Line;2015
+53;54;4;Green Line;2015
+56;57;4;Green Line;1893
+57;58;4;Green Line;1893
+57;59;4;Green Line;1893
+58;59;4;Green Line;1893
+60;61;3;Heritage Corridor;2018
+60;85;3;Rock Island District;2018
+61;62;3;Heritage Corridor;1912
+62;63;3;Heritage Corridor;1907
+63;64;3;Heritage Corridor;1863
+64;65;3;Heritage Corridor;2018
+65;66;3;Heritage Corridor;2018
+66;67;3;Heritage Corridor;1904
+67;68;3;Heritage Corridor;1904
+68;69;3;Heritage Corridor;1858
+69;70;3;Heritage Corridor;1858
+70;71;3;Heritage Corridor;1940
+71;72;3;Heritage Corridor;1940
+72;73;3;Heritage Corridor;1929
+73;74;3;Heritage Corridor;1902
+74;75;3;Heritage Corridor;1925
+77;78;3;Rock Island District;1967
+78;79;3;Rock Island District;1967
+79;80;3;Rock Island District;1911
+80;81;3;Rock Island District;1911
+81;82;3;Rock Island District;1970
+82;83;3;Rock Island District;1993
+83;84;3;Rock Island District;1993
+84;85;3;Rock Island District;1905

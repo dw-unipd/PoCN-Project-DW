@@ -1,0 +1,11 @@
+# edge data for Kansas City, United States
+from_id;to_id;mode;line;year
+1;2;9;KC Streetcar;2016
+2;3;9;KC Streetcar;2016
+3;4;9;KC Streetcar;2016
+4;5;9;KC Streetcar;2016
+5;6;9;KC Streetcar;2016
+6;7;9;KC Streetcar;2016
+7;8;9;KC Streetcar;2016
+8;9;9;KC Streetcar;2016
+9;10;9;KC Streetcar;2016

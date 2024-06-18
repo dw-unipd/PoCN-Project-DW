@@ -1,0 +1,41 @@
+# edge data for Miami, United States
+from_id;to_id;mode;line;year
+1;2;4;Green Line;2003
+2;3;4;Green Line;1985
+3;4;4;Green Line;1989
+4;5;4;Green Line;1989
+5;6;4;Green Line;1985
+6;7;4;Green Line;1985
+7;8;4;Green Line;1985
+8;9;4;Green Line;1984
+8;23;4;Orange Line;2012
+9;10;4;Green Line;1984
+10;11;4;Green Line;1984
+11;12;4;Green Line;1984
+12;13;4;Green Line;1984
+13;14;4;Green Line;1984
+14;15;4;Green Line;1984
+15;16;4;Green Line;1984
+16;17;4;Green Line;1984
+17;18;4;Green Line;1984
+18;19;4;Green Line;1984
+19;20;4;Green Line;1984
+20;21;4;Green Line;1984
+21;22;4;Green Line;1984
+24;25;3;Tri-Rail;1998
+25;26;3;Tri-Rail;1989
+26;27;3;Tri-Rail;1989
+27;28;3;Tri-Rail;1991
+28;29;3;Tri-Rail;1991
+29;30;3;Tri-Rail;1989
+30;31;3;Tri-Rail;1989
+31;32;3;Tri-Rail;1989
+32;33;3;Tri-Rail;1989
+33;34;3;Tri-Rail;2000
+34;35;3;Tri-Rail;2000
+35;36;3;Tri-Rail;1996
+36;37;3;Tri-Rail;1989
+37;38;3;Tri-Rail;1989
+38;39;3;Tri-Rail;1989
+39;40;3;Tri-Rail;1989
+40;41;3;Tri-Rail;1998

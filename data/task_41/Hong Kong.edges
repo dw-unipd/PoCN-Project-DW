@@ -1,0 +1,213 @@
+# edge data for Hong Kong, China
+from_id;to_id;mode;line;year
+1;2;10;Central - Tsim Sha Tsui;2006
+3;4;10;Wan Chai - Tsim Sha Tsui;2014
+5;6;9;Peak Tram;1888
+6;7;9;Peak Tram;1888
+8;9;9;Hong Kong Tramways;1904
+9;10;9;Hong Kong Tramways;1904
+9;11;9;Hong Kong Tramways;1904
+11;12;9;Hong Kong Tramways;1904
+12;13;9;Hong Kong Tramways;1904
+13;14;9;Hong Kong Tramways;1904
+14;15;9;Hong Kong Tramways;1904
+15;16;9;Hong Kong Tramways;1904
+16;17;9;Hong Kong Tramways;1904
+17;18;9;Hong Kong Tramways;1904
+18;19;9;Hong Kong Tramways;1904
+19;20;9;Hong Kong Tramways;1904
+20;21;9;Hong Kong Tramways;1904
+21;22;9;Hong Kong Tramways;1904
+22;23;9;Hong Kong Tramways;1904
+23;24;9;Hong Kong Tramways;1904
+24;25;9;Hong Kong Tramways;1904
+25;26;9;Hong Kong Tramways;1904
+26;27;9;Hong Kong Tramways;1904
+27;28;9;Hong Kong Tramways;1904
+28;29;9;Hong Kong Tramways;1904
+29;30;9;Hong Kong Tramways;1904
+30;31;9;Hong Kong Tramways;1904
+31;32;9;Hong Kong Tramways;1904
+32;33;9;Hong Kong Tramways;1904
+33;34;9;Hong Kong Tramways;1904
+34;35;9;Hong Kong Tramways;1904
+35;36;9;Hong Kong Tramways;1904
+36;37;9;Hong Kong Tramways;1904
+37;38;9;Hong Kong Tramways;1904
+38;39;9;Hong Kong Tramways;1904
+39;40;9;Hong Kong Tramways;1904
+40;41;9;Hong Kong Tramways;1904
+41;42;9;Hong Kong Tramways;1904
+42;43;9;Hong Kong Tramways;1904
+43;44;9;Hong Kong Tramways;1904
+43;70;9;Hong Kong Tramways;1904
+44;45;9;Hong Kong Tramways;1904
+45;46;9;Hong Kong Tramways;1904
+46;47;9;Hong Kong Tramways;1904
+47;48;9;Hong Kong Tramways;1904
+48;49;9;Hong Kong Tramways;1904
+49;50;9;Hong Kong Tramways;1904
+50;51;9;Hong Kong Tramways;1904
+51;52;9;Hong Kong Tramways;1904
+52;53;9;Hong Kong Tramways;1904
+53;54;9;Hong Kong Tramways;1904
+54;55;9;Hong Kong Tramways;1904
+55;56;9;Hong Kong Tramways;1904
+56;57;9;Hong Kong Tramways;1904
+57;58;9;Hong Kong Tramways;1904
+58;59;9;Hong Kong Tramways;1904
+59;60;9;Hong Kong Tramways;1904
+60;61;9;Hong Kong Tramways;1904
+61;62;9;Hong Kong Tramways;1904
+62;63;9;Hong Kong Tramways;1904
+63;64;9;Hong Kong Tramways;1904
+64;65;9;Hong Kong Tramways;1904
+65;66;9;Hong Kong Tramways;1904
+66;67;9;Hong Kong Tramways;1904
+68;69;9;Hong Kong Tramways;1904
+70;71;9;Hong Kong Tramways;1922
+71;72;9;Hong Kong Tramways;1922
+72;73;9;Hong Kong Tramways;1922
+73;74;9;Hong Kong Tramways;1922
+74;75;9;Hong Kong Tramways;1922
+75;76;9;Hong Kong Tramways;1922
+76;77;9;Hong Kong Tramways;1922
+77;78;9;Hong Kong Tramways;1922
+78;79;9;Hong Kong Tramways;1922
+80;81;4;Island Line;2014
+81;82;4;Island Line;2015
+82;83;4;Island Line;2015
+83;84;4;Island Line;1986
+84;85;4;Island Line;1986
+85;86;4;Island Line;1985
+86;87;4;Island Line;1985
+87;88;4;Island Line;1985
+88;89;4;Island Line;1985
+89;90;4;Island Line;1985
+90;91;4;Island Line;1985
+91;92;4;Island Line;1985
+92;93;4;Island Line;1985
+93;94;4;Island Line;1985
+94;95;4;Island Line;1985
+95;96;4;Island Line;1985
+97;98;4;Tseung Kwan O Line;2002
+98;99;4;Tseung Kwan O Line;2002
+99;100;4;Tseung Kwan O Line;2002
+100;101;4;Tseung Kwan O Line;2002
+101;102;4;Tseung Kwan O Line;2002
+102;103;4;Tseung Kwan O Line;2002
+103;104;4;Tseung Kwan O Line;2009
+105;106;4;Tsuen Wan Line;1982
+106;107;4;Tsuen Wan Line;1982
+107;108;4;Tsuen Wan Line;1982
+108;109;4;Tsuen Wan Line;1982
+109;110;4;Tsuen Wan Line;1982
+110;111;4;Tsuen Wan Line;1982
+111;112;4;Tsuen Wan Line;1982
+112;113;4;Tsuen Wan Line;1982
+113;114;4;Tsuen Wan Line;1985
+114;115;4;Tsuen Wan Line;1985
+115;116;4;Tsuen Wan Line;1979
+116;117;4;Tsuen Wan Line;1980
+117;118;4;Tsuen Wan Line;1985
+119;120;3;East Rail Line;1978
+119;208;2;Kowloon-Canton Railway (East Rail);1978
+120;121;3;East Rail Line;2004
+120;123;3;East Rail Line;2022
+120;124;3;East Rail Line;1982
+120;213;2;Kowloon-Canton Railway (East Rail);1975
+120;214;2;Kowloon-Canton Railway (East Rail);1975
+121;122;3;East Rail Line;2022
+121;155;3;West Rail Line;2009
+121;156;3;West Rail Line;2009
+121;199;4;Tuen Ma Line;2021
+121;214;2;Kowloon-Canton Railway (East Rail);2004
+121;215;2;Kowloon-Canton Railway (East Rail);2004
+122;123;3;East Rail Line;2022
+124;125;3;East Rail Line;1982
+124;213;2;Kowloon-Canton Railway (East Rail);1982
+125;126;3;East Rail Line;1982
+126;127;3;East Rail Line;1982
+127;128;3;East Rail Line;1985
+128;129;3;East Rail Line;1985
+128;212;2;Kowloon-Canton Railway (East Rail);1985
+129;130;3;East Rail Line;1983
+129;211;2;Kowloon-Canton Railway (East Rail);1966
+129;212;2;Kowloon-Canton Railway (East Rail);1966
+130;131;3;East Rail Line;1989
+130;210;2;Kowloon-Canton Railway (East Rail);1983
+130;211;2;Kowloon-Canton Railway (East Rail);1983
+131;132;3;East Rail Line;1989
+131;210;2;Kowloon-Canton Railway (East Rail);1989
+132;133;3;East Rail Line;1982
+132;209;2;Kowloon-Canton Railway (East Rail);1982
+133;134;3;East Rail Line;2007
+133;208;2;Kowloon-Canton Railway (East Rail);1949
+133;209;2;Kowloon-Canton Railway (East Rail);1930
+134;135;3;East Rail Line;2007
+136;137;4;Kwun Tong Line;2002
+137;138;4;Kwun Tong Line;2002
+138;139;4;Kwun Tong Line;2001
+139;140;4;Kwun Tong Line;1989
+140;141;4;Kwun Tong Line;1989
+141;142;4;Kwun Tong Line;1979
+142;143;4;Kwun Tong Line;1979
+143;144;4;Kwun Tong Line;1979
+144;145;4;Kwun Tong Line;1979
+145;146;4;Kwun Tong Line;1979
+146;147;4;Kwun Tong Line;1979
+147;148;4;Kwun Tong Line;1979
+148;149;4;Kwun Tong Line;1979
+149;150;4;Kwun Tong Line;1982
+150;151;4;Kwun Tong Line;1982
+151;152;4;Kwun Tong Line;1985
+152;153;4;Kwun Tong Line;2016
+153;154;4;Kwun Tong Line;2016
+156;157;3;West Rail Line;2009
+157;158;3;West Rail Line;2003
+158;159;3;West Rail Line;2003
+159;160;3;West Rail Line;2003
+160;161;3;West Rail Line;2003
+161;162;3;West Rail Line;2003
+162;163;3;West Rail Line;2003
+163;164;3;West Rail Line;2003
+164;165;3;West Rail Line;2003
+166;167;3;Airport Express;1998
+167;168;3;Airport Express;1998
+168;169;3;Airport Express;1998
+169;170;3;Airport Express;2005
+171;172;3;Tung Chung Line;2005
+172;173;3;Tung Chung Line;2005
+173;174;3;Tung Chung Line;1998
+174;175;3;Tung Chung Line;2003
+175;176;3;Tung Chung Line;2003
+176;177;3;Tung Chung Line;1998
+177;178;3;Tung Chung Line;1998
+179;180;4;South Island Line;2016
+180;181;4;South Island Line;2016
+181;182;4;South Island Line;2016
+182;183;4;South Island Line;2016
+184;185;4;Tuen Ma Line;2004
+185;186;4;Tuen Ma Line;2004
+186;187;4;Tuen Ma Line;2004
+187;188;4;Tuen Ma Line;2004
+188;189;4;Tuen Ma Line;2004
+189;190;4;Tuen Ma Line;2004
+190;191;4;Tuen Ma Line;2004
+191;192;4;Tuen Ma Line;2004
+192;193;4;Tuen Ma Line;2020
+193;194;4;Tuen Ma Line;2020
+194;195;4;Tuen Ma Line;2020
+195;196;4;Tuen Ma Line;2021
+196;197;4;Tuen Ma Line;2021
+197;198;4;Tuen Ma Line;2021
+198;199;4;Tuen Ma Line;2021
+201;202;4;Disneyland Resort Line;2005
+203;204;7;Hong Kong International Airport Automated People Mover;2010
+204;205;7;Hong Kong International Airport Automated People Mover;2007
+205;206;7;Hong Kong International Airport Automated People Mover;1998
+206;207;7;Hong Kong International Airport Automated People Mover;2016
+216;217;3;Sha Tau Kok;1912
+217;218;3;Sha Tau Kok;1912
+218;219;3;Sha Tau Kok;1912
+219;220;3;Sha Tau Kok;1912

@@ -1,0 +1,17 @@
+# edge data for San Juan, United States
+from_id;to_id;mode;line;year
+1;2;4;Tren Urbano;2004
+2;3;4;Tren Urbano;2004
+3;4;4;Tren Urbano;2004
+4;5;4;Tren Urbano;2004
+5;6;4;Tren Urbano;2004
+6;7;4;Tren Urbano;2004
+7;8;4;Tren Urbano;2004
+8;9;4;Tren Urbano;2004
+9;10;4;Tren Urbano;2004
+10;11;4;Tren Urbano;2004
+11;12;4;Tren Urbano;2004
+12;13;4;Tren Urbano;2004
+13;14;4;Tren Urbano;2004
+14;15;4;Tren Urbano;2004
+15;16;4;Tren Urbano;2004

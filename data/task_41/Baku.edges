@@ -1,0 +1,31 @@
+# edge data for Baku, Azerbaijan
+from_id;to_id;mode;line;year
+1;2;4;Red Line;1970
+1;19;4;Green Line;2011
+2;3;4;Red Line;1967
+3;4;4;Red Line;1967
+4;5;4;Red Line;1967
+4;26;4;Green Line;1976
+5;6;4;Red Line;1967
+6;7;4;Red Line;1970
+7;8;4;Red Line;1972
+8;9;4;Red Line;1972
+9;10;4;Red Line;1972
+10;11;4;Red Line;1989
+11;12;4;Red Line;1989
+12;13;4;Red Line;2002
+14;15;4;Purple Line;2024
+15;16;4;Purple Line;2021
+16;17;4;Purple Line;2016
+17;18;4;Purple Line;2022
+19;20;4;Green Line;2011
+20;21;4;Green Line;2009
+21;22;4;Green Line;2008
+22;23;4;Green Line;1985
+23;24;4;Green Line;1985
+24;25;4;Green Line;1985
+25;26;4;Green Line;1985
+27;28;4;Green Line (shuttle);1993
+28;29;4;Green Line (shuttle);1968
+29;30;4;Green Line (shuttle);1951
+30;31;4;Green Line (shuttle);1951

@@ -1,0 +1,8 @@
+# edge data for Nashville, United States
+from_id;to_id;mode;line;year
+1;2;3;Music City Star;2006
+2;3;3;Music City Star;2006
+3;4;3;Music City Star;2006
+4;5;3;Music City Star;2006
+5;6;3;Music City Star;2018
+6;7;3;Music City Star;2018

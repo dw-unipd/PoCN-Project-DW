@@ -1,0 +1,63 @@
+# edge data for San Francisco, United States
+from_id;to_id;mode;line;year
+1;2;3;Peninsula Main Line;1864
+2;3;3;Peninsula Main Line;1907
+2;7;4;Dublin/Pleasanton Line;1864
+2;12;4;San Francisco Line;1864
+2;14;4;Dublin/Pleasanton Line;1996
+3;4;3;Peninsula Main Line;1907
+3;54;3;Local;1907
+3;55;3;Local;1909
+4;5;3;Peninsula Main Line;2003
+4;15;4;Dublin/Pleasanton Line;2003
+4;16;4;Dublin/Pleasanton Line;2003
+4;55;3;Local;1909
+5;16;4;Dublin/Pleasanton Line;2003
+6;7;4;San Francisco Line;1863
+7;8;4;San Francisco Line;1973
+7;13;4;Dublin/Pleasanton Line;1976
+8;9;4;San Francisco Line;1973
+8;13;5;N Judah;1976
+8;26;5;J Church;1980
+8;28;5;M Ocean View;1980
+8;29;5;M Ocean View;1973
+9;10;4;San Francisco Line;1863
+10;11;4;San Francisco Line;1863
+11;12;4;San Francisco Line;1863
+13;19;4;Antioch Line;1976
+13;33;5;N Judah;1998
+13;37;5;T Third Street;2021
+14;15;4;Dublin/Pleasanton Line;2003
+17;18;4;Richmond-North San Jose Line;2020
+19;20;4;Richmond-North San Jose Line;1972
+20;21;4;Richmond-North San Jose Line;1972
+21;22;4;Richmond-North San Jose Line;1973
+21;24;4;Antioch Line;1973
+23;24;4;Antioch Line;1996
+23;25;4;eBart Line (DMU);2018
+26;27;5;K Ingleside;1980
+27;28;5;K Ingleside;1980
+27;29;5;K Ingleside;1980
+30;31;5;N Judah;1998
+30;34;5;T Third Street;2021
+30;38;5;T Third Street;2007
+31;32;5;N Judah;1998
+32;33;5;N Judah;1998
+33;52;9;E Embarcadero;2000
+34;35;5;T Third Street;2021
+35;36;5;T Third Street;2021
+36;37;5;T Third Street;2021
+38;39;5;T Third Street;2007
+39;40;5;T Third Street;2007
+40;41;5;T Third Street;2007
+41;42;5;T Third Street;2007
+42;43;5;T Third Street;2007
+43;44;5;T Third Street;2007
+44;45;5;T Third Street;2007
+45;46;5;T Third Street;2007
+46;47;5;T Third Street;2007
+47;48;5;T Third Street;2007
+48;49;5;T Third Street;2007
+49;50;5;T Third Street;2007
+50;51;5;T Third Street;2007
+53;54;3;Local;1985

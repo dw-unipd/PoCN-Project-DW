@@ -1,0 +1,76 @@
+# edge data for Glasgow, Scotland
+from_id;to_id;mode;line;year
+1;2;5;Outer Circle;1896
+2;3;5;Outer Circle;1896
+3;4;5;Outer Circle;1896
+4;5;5;Outer Circle;1896
+5;6;5;Outer Circle;1896
+6;7;5;Outer Circle;1896
+7;8;5;Outer Circle;1896
+8;9;5;Outer Circle;1896
+9;10;5;Outer Circle;1896
+10;11;5;Outer Circle;1896
+11;12;5;Outer Circle;1896
+12;13;5;Outer Circle;1896
+13;14;5;Outer Circle;1896
+14;15;5;Outer Circle;1896
+16;17;3;Milngavie Branch;1891
+17;18;3;Milngavie Branch;1891
+19;20;3;Whifflet Branch;1891
+20;21;3;Whifflet Branch;1891
+21;22;3;Whifflet Branch;1891
+22;23;3;Whifflet Branch;1891
+23;24;3;Whifflet Branch;1891
+25;26;3;Cathcart Circle;1891
+25;74;3;Paisley Canal;1891
+26;27;3;Cathcart Circle;1891
+27;28;3;Cathcart Circle;1891
+28;29;3;Cathcart Circle;1891
+29;30;3;Cathcart Circle;1891
+31;32;3;Maryhill Branch;1891
+32;33;3;Maryhill Branch;1891
+33;34;3;Maryhill Branch;1891
+34;35;3;Maryhill Branch;1891
+35;36;3;Maryhill Branch;1891
+36;37;3;Maryhill Branch;1891
+38;39;3;Springburn Branch;1891
+38;53;3;North Clyde Line;1891
+38;54;3;North Clyde Line;1891
+39;40;3;Springburn Branch;1891
+40;41;3;Springburn Branch;1891
+41;42;3;Springburn Branch;1891
+43;44;3;North Clyde Line;1891
+44;45;3;North Clyde Line;1891
+45;46;3;North Clyde Line;1891
+46;47;3;North Clyde Line;1891
+47;48;3;North Clyde Line;1891
+48;49;3;North Clyde Line;1891
+49;50;3;North Clyde Line;1891
+50;51;3;North Clyde Line;1891
+51;52;3;North Clyde Line;1891
+52;53;3;North Clyde Line;1891
+54;55;3;North Clyde Line;1891
+55;56;3;North Clyde Line;1891
+56;57;3;North Clyde Line;1891
+57;58;3;North Clyde Line;1891
+59;60;3;Argyle Line;1891
+59;62;2;West Coast Mainline;1891
+60;61;3;Argyle Line;1891
+60;62;3;via Shotts;1891
+63;64;2;Via Falkirk High;1891
+63;67;3;Via Falkirk Grahamston;1891
+64;65;2;Via Falkirk High;1891
+65;66;2;Via Falkirk High;1891
+66;73;3;Via Falkirk Grahamston;1891
+67;68;3;Via Falkirk Grahamston;1891
+68;69;3;Via Falkirk Grahamston;1891
+69;70;3;Via Falkirk Grahamston;1891
+70;71;3;Via Falkirk Grahamston;1891
+71;72;3;Via Falkirk Grahamston;1891
+72;73;3;Via Falkirk Grahamston;1891
+74;75;3;Paisley Canal;1891
+75;76;3;Paisley Canal;1891
+76;77;3;Paisley Canal;1891
+77;78;3;Paisley Canal;1891
+78;79;3;Paisley Canal;1891
+79;80;3;Paisley Canal;1891

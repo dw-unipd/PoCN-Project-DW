@@ -1,0 +1,10 @@
+# edge data for Lisbon, Portugal
+from_id;to_id;mode;line;year
+1;2;0;Verde;1998
+2;3;0;Verde;1998
+3;4;0;Verde;1998
+7;8;0;Azul;2007
+7;9;0;Azul;2007
+7;10;0;Azul;2007
+7;11;0;Azul;2007
+9;10;0;Azul;1966

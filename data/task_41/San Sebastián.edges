@@ -1,0 +1,34 @@
+# edge data for San Sebastián, Spain
+from_id;to_id;mode;line;year
+1;2;0;Topo;1913
+2;3;0;Topo;1913
+3;4;0;Topo;1912
+4;5;0;Topo;1912
+5;6;0;Topo;1912
+6;7;0;Topo;2011
+7;8;0;Topo;2011
+8;9;0;Topo;1912
+9;10;0;Topo;1912
+10;11;0;Topo;1912
+11;12;0;Topo;2012
+12;13;0;Topo;2012
+13;14;0;Topo;1993
+14;15;0;Topo;1993
+15;16;0;Topo;2005
+16;17;0;Topo;2005
+17;18;0;Topo;1912
+18;19;0;Topo;1998
+19;20;0;Topo;2016
+21;22;0;Línea general;1912
+23;24;0;Renfe;1912
+24;25;0;Renfe;1912
+25;26;0;Renfe;1912
+26;27;0;Renfe;1912
+27;28;0;Renfe;1912
+28;29;0;Renfe;1912
+29;30;0;Renfe;1912
+30;31;0;Renfe;1912
+31;32;0;Renfe;1912
+32;33;0;Renfe;1912
+33;34;0;Renfe;1912
+34;35;0;Renfe;1912

@@ -1,0 +1,28 @@
+# edge data for Lahore, Pakistan
+from_id;to_id;mode;line;year
+1;2;6;Lahore Metrobus;2013
+3;4;4;Orange Line;2020
+4;5;4;Orange Line;2020
+5;6;4;Orange Line;2020
+6;7;4;Orange Line;2020
+7;8;4;Orange Line;2020
+8;9;4;Orange Line;2020
+9;10;4;Orange Line;2020
+10;11;4;Orange Line;2020
+11;12;4;Orange Line;2020
+12;13;4;Orange Line;2020
+13;14;4;Orange Line;2020
+14;15;4;Orange Line;2020
+15;16;4;Orange Line;2020
+16;17;4;Orange Line;2020
+17;18;4;Orange Line;2020
+18;19;4;Orange Line;2020
+19;20;4;Orange Line;2020
+20;21;4;Orange Line;2020
+21;22;4;Orange Line;2020
+22;23;4;Orange Line;2020
+23;24;4;Orange Line;2020
+24;25;4;Orange Line;2020
+25;26;4;Orange Line;2020
+26;27;4;Orange Line;2020
+27;28;4;Orange Line;2020

@@ -1,0 +1,24 @@
+# edge data for Wellington, New Zealand
+from_id;to_id;mode;line;year
+1;2;4;Johnsonville Line;1963
+1;8;4;Kapiti Line ;1937
+1;20;4;Melling Line;1937
+2;3;4;Johnsonville Line;1963
+3;4;4;Johnsonville Line;1938
+4;5;4;Johnsonville Line;1938
+5;6;4;Johnsonville Line;1940
+6;7;4;Johnsonville Line;1940
+8;9;4;Kapiti Line ;1963
+9;10;4;Kapiti Line ;1963
+10;11;4;Kapiti Line ;1940
+11;12;4;Kapiti Line ;1963
+12;13;4;Kapiti Line ;1963
+13;14;4;Kapiti Line ;1885
+14;15;4;Kapiti Line ;1949
+15;16;4;Kapiti Line ;1949
+16;17;4;Kapiti Line ;1885
+17;18;4;Kapiti Line ;1886
+18;19;4;Kapiti Line ;1886
+20;21;4;Melling Line;1874
+21;22;4;Melling Line;1874
+22;23;4;Melling Line;1908

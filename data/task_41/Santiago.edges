@@ -1,0 +1,315 @@
+# edge data for Santiago, Chile
+from_id;to_id;mode;line;year
+1;2;4;Línea 2;2006
+2;3;4;Línea 2;2006
+3;4;4;Línea 2;2006
+4;5;4;Línea 2;2005
+5;6;4;Línea 2;2005
+6;7;4;Línea 2;2004
+7;8;4;Línea 2;2004
+8;9;4;Línea 2;1987
+9;10;4;Línea 2;1986
+9;67;4;Línea 5;2000
+9;68;4;Línea 5;2004
+10;11;4;Línea 2;1978
+10;102;4;Línea 1 ;1975
+10;103;4;Línea 1 ;1975
+11;12;4;Línea 2;1978
+12;13;4;Línea 2;1978
+13;14;4;Línea 2;1978
+14;15;4;Línea 2;1978
+15;16;4;Línea 2;1978
+16;17;4;Línea 2;1978
+17;18;4;Línea 2;1978
+18;19;4;Línea 2;1978
+19;20;4;Línea 2;1978
+20;21;4;Línea 2;2004
+21;22;4;Línea 2;2004
+22;23;4;Línea 2;2023
+22;53;4;Línea 4A;2006
+23;24;4;Línea 2;2023
+24;25;4;Línea 2;2023
+25;26;4;Línea 2;2023
+27;28;4;Línea 4;2005
+28;29;4;Línea 4;2005
+29;30;4;Línea 4;2005
+30;31;4;Línea 4;2005
+31;32;4;Línea 4;2005
+32;33;4;Línea 4;2005
+32;119;4;Línea 3;2019
+32;120;4;Línea 3;2019
+33;34;4;Línea 4;2005
+34;35;4;Línea 4;2006
+35;36;4;Línea 4;2006
+36;37;4;Línea 4;2006
+37;38;4;Línea 4;2006
+38;39;4;Línea 4;2006
+39;40;4;Línea 4;2006
+39;50;4;Línea 4A;2006
+40;41;4;Línea 4;2005
+40;54;4;Línea 5;2005
+41;42;4;Línea 4;2005
+42;43;4;Línea 4;2009
+43;44;4;Línea 4;2009
+44;45;4;Línea 4;2005
+45;46;4;Línea 4;2005
+46;47;4;Línea 4;2005
+47;48;4;Línea 4;2005
+48;49;4;Línea 4;2005
+50;51;4;Línea 4A;2006
+51;52;4;Línea 4A;2006
+52;53;4;Línea 4A;2006
+54;55;4;Línea 5;1997
+55;56;4;Línea 5;1997
+56;57;4;Línea 5;1997
+57;58;4;Línea 5;1997
+58;59;4;Línea 5;1997
+59;60;4;Línea 5;1997
+60;61;4;Línea 5;1997
+61;62;4;Línea 5;1997
+61;87;4;Línea 6;2017
+61;88;4;Línea 6;2017
+62;63;4;Línea 5;1997
+63;64;4;Línea 5;1997
+64;65;4;Línea 5;1997
+65;66;4;Línea 5;2000
+66;67;4;Línea 5;2000
+68;69;4;Línea 5;2004
+69;70;4;Línea 5;2010
+70;71;4;Línea 5;2010
+71;72;4;Línea 5;2010
+72;73;4;Línea 5;2010
+73;74;4;Línea 5;2010
+74;75;4;Línea 5;2011
+75;76;4;Línea 5;2011
+76;77;4;Línea 5;2011
+77;78;4;Línea 5;2011
+78;79;4;Línea 5;2011
+79;80;4;Línea 5;2011
+80;81;4;Línea 5;2011
+82;83;4;Línea 6;2023
+82;163;3;Metrotrén Melipilla;2023
+82;198;3;Metrotrén Melipilla;2023
+83;84;4;Línea 6;2017
+84;85;4;Línea 6;2017
+85;86;4;Línea 6;2017
+86;87;4;Línea 6;2017
+88;89;4;Línea 6;2017
+89;90;4;Línea 6;2017
+89;121;4;Línea 3;2019
+89;122;4;Línea 3;2019
+90;91;4;Línea 6;2017
+91;92;4;Línea 6;2027
+93;94;4;Línea 1 ;1975
+94;95;4;Línea 1 ;1975
+95;96;4;Línea 1 ;1975
+96;97;4;Línea 1 ;1975
+97;98;4;Línea 1 ;1975
+98;99;4;Línea 1 ;1975
+99;100;4;Línea 1 ;1975
+100;101;4;Línea 1 ;1975
+101;102;4;Línea 1 ;1975
+103;104;4;Línea 1 ;1977
+104;105;4;Línea 1 ;1977
+105;106;4;Línea 1 ;1977
+106;107;4;Línea 1 ;1977
+107;108;4;Línea 1 ;1977
+108;109;4;Línea 1 ;1980
+109;110;4;Línea 1 ;1980
+110;111;4;Línea 1 ;1980
+111;112;4;Línea 1 ;1980
+112;113;4;Línea 1 ;1980
+113;114;4;Línea 1 ;1980
+114;115;4;Línea 1 ;1980
+115;116;4;Línea 1 ;2010
+116;117;4;Línea 1 ;2010
+117;118;4;Línea 1 ;2010
+120;121;4;Línea 3;2019
+122;123;4;Línea 3;2019
+123;124;4;Línea 3;2019
+124;125;4;Línea 3;2019
+125;126;4;Línea 3;2019
+126;127;4;Línea 3;2019
+127;128;4;Línea 3;2019
+128;129;4;Línea 3;2019
+129;130;4;Línea 3;2019
+130;131;4;Línea 3;2019
+131;132;4;Línea 3;2019
+132;133;4;Línea 3;2019
+133;134;4;Línea 3;2019
+134;135;4;Línea 3;2022
+135;136;4;Línea 3;2022
+136;137;4;Línea 3;2022
+138;139;4;Línea 7;2027
+138;142;4;Línea 7;2027
+138;143;4;Línea 7;2027
+139;140;4;Línea 7;2027
+140;141;4;Línea 7;2027
+141;142;4;Línea 7;2027
+144;145;9;FFCC Llano del Maipo;1895
+145;146;9;FFCC Llano del Maipo;1895
+146;147;9;FFCC Llano del Maipo;1895
+147;148;9;FFCC Llano del Maipo;1895
+148;149;9;FFCC Llano del Maipo;1895
+149;150;9;FFCC Llano del Maipo;1895
+150;151;9;FFCC Llano del Maipo;1895
+151;152;9;FFCC Llano del Maipo;1895
+153;154;9;FFCC Yungay-Barrancas;1903
+153;155;9;FFCC Yungay-Barrancas;1903
+153;156;9;FFCC Yungay-Barrancas;1903
+154;155;9;FFCC Yungay-Barrancas;1903
+156;157;9;FFCC Yungay-Barrancas;1903
+156;158;9;FFCC Yungay-Barrancas;1911
+159;160;9;FFCC Santiago-Ñuñoa;1893
+160;161;9;FFCC Santiago-Ñuñoa;1893
+161;162;9;FFCC Santiago-Ñuñoa;1893
+163;164;4;Metrotrén Nos;2017
+163;173;3;Metrotrén Rancagua;1850
+163;202;3;Santiago / San Bernardo;1850
+163;203;3;Santiago / San Bernardo;1850
+163;215;3;Metrotrén Tiltil;1850
+164;165;4;Metrotrén Nos;2017
+165;166;4;Metrotrén Nos;2017
+166;167;4;Metrotrén Nos;2017
+167;168;4;Metrotrén Nos;2017
+168;169;4;Metrotrén Nos;2017
+169;170;4;Metrotrén Nos;1850
+169;173;3;Metrotrén Rancagua;1850
+169;210;3;Santiago / San Bernardo;1850
+170;171;4;Metrotrén Nos;2017
+170;174;3;Metrotrén Rancagua;1850
+171;172;4;Metrotrén Nos;2017
+174;175;3;Metrotrén Rancagua;1850
+175;176;3;Metrotrén Rancagua;1850
+176;177;3;Metrotrén Rancagua;1850
+177;178;3;Metrotrén Rancagua;1850
+178;179;3;Metrotrén Rancagua;1850
+179;180;3;Metrotrén Rancagua;1850
+180;181;3;Metrotrén Rancagua;1850
+181;182;3;Metrotrén Rancagua;1850
+183;184;3;Metrotrén Batuco;2025
+184;185;3;Metrotrén Batuco;1850
+185;186;3;Metrotrén Batuco;1850
+186;187;3;Metrotrén Batuco;1850
+186;189;2;Mapocho / Puerto;1850
+186;215;2;Mapocho / Puerto;1850
+187;188;3;Metrotrén Batuco;1850
+188;189;3;Metrotrén Batuco;1850
+189;190;3;Metrotrén Batuco;1850
+190;214;2;Mapocho / Puerto;1850
+191;192;3;Metrotrén Melipilla;2023
+192;193;3;Metrotrén Melipilla;2023
+193;194;3;Metrotrén Melipilla;2023
+194;195;3;Metrotrén Melipilla;2023
+195;196;3;Metrotrén Melipilla;2023
+196;197;3;Metrotrén Melipilla;2023
+197;198;3;Metrotrén Melipilla;2023
+199;200;3;Santiago / San Bernardo;1965
+199;216;2;Mapocho / Puerto;1863
+200;201;3;Santiago / San Bernardo;1965
+201;202;3;Santiago / San Bernardo;1850
+203;204;3;Santiago / San Bernardo;1850
+204;205;3;Santiago / San Bernardo;1850
+205;206;3;Santiago / San Bernardo;1850
+206;207;3;Santiago / San Bernardo;1850
+207;208;3;Santiago / San Bernardo;1850
+208;209;3;Santiago / San Bernardo;1850
+209;210;3;Santiago / San Bernardo;1850
+211;212;3;Alameda / Ñuñoa;1850
+213;214;2;Mapocho / Puerto;1850
+215;216;2;Mapocho / Puerto;1863
+217;218;6;Grecia;1995
+218;219;6;Grecia;1995
+219;220;6;Grecia;1995
+220;221;6;Grecia;2009
+221;222;6;Grecia;2009
+222;223;6;Grecia;2009
+223;224;6;Grecia;2009
+224;225;6;Grecia;2006
+225;226;6;Grecia;2009
+226;227;6;Grecia;2013
+227;228;6;Grecia;2013
+228;229;6;Grecia;2008
+229;230;6;Grecia;2008
+231;232;6;Anillo Intermedio;2008
+232;233;6;Anillo Intermedio;2008
+233;234;6;Anillo Intermedio;2008
+234;235;6;Anillo Intermedio;2008
+235;236;6;Anillo Intermedio;2008
+236;237;6;Anillo Intermedio;2009
+237;238;6;Anillo Intermedio;2009
+238;239;6;Anillo Intermedio;2009
+239;240;6;Anillo Intermedio;2015
+240;241;6;Anillo Intermedio;2015
+241;242;6;Anillo Intermedio;2015
+242;243;6;Anillo Intermedio;2019
+244;245;6;Camino a Rinconada;2018
+245;246;6;Camino a Rinconada;2018
+246;247;6;Camino a Rinconada;2018
+247;248;6;Camino a Rinconada;2018
+248;249;6;Camino a Rinconada;2018
+250;251;6;Departamental;2013
+250;287;6;Pedro Aguirre Cerda;2008
+251;252;6;Departamental;2013
+252;253;6;Departamental;2013
+253;254;6;Departamental;2013
+254;255;6;Departamental;2013
+255;256;6;Departamental;2013
+257;258;6;Departamental;2013
+258;259;6;Departamental;2013
+259;260;6;Departamental;2013
+260;261;6;Departamental;2013
+261;262;6;Departamental;2013
+262;263;6;Departamental;2013
+264;265;6;Las Industrias;2009
+265;266;6;Las Industrias;2009
+266;267;6;Las Industrias;2009
+267;268;6;Las Industrias;2009
+268;269;6;Las Industrias;2009
+269;270;6;Las Industrias;2009
+270;271;6;Las Industrias;2009
+271;272;6;Las Industrias;2009
+273;274;6;Las Rejas;2007
+274;275;6;Las Rejas;2007
+275;276;6;Las Rejas;2014
+276;277;6;Las Rejas;2014
+279;280;6;Pajaritos;2005
+280;281;6;Pajaritos;2005
+281;282;6;Pajaritos;2005
+282;283;6;Pajaritos;2005
+283;284;6;Pajaritos;2005
+284;285;6;Pajaritos;2005
+285;286;6;Pajaritos;2005
+287;288;6;Pedro Aguirre Cerda;2008
+288;289;6;Pedro Aguirre Cerda;2008
+289;290;6;Pedro Aguirre Cerda;2008
+290;291;6;Pedro Aguirre Cerda;2008
+291;292;6;Pedro Aguirre Cerda;2007
+292;293;6;Pedro Aguirre Cerda;2009
+293;294;6;Pedro Aguirre Cerda;2009
+294;295;6;Pedro Aguirre Cerda;2009
+295;296;6;Pedro Aguirre Cerda;2009
+297;298;6;Santa Rosa;2008
+298;299;6;Santa Rosa;2008
+299;300;6;Santa Rosa;2008
+300;301;6;Santa Rosa;2008
+301;302;6;Santa Rosa;2008
+302;303;6;Santa Rosa;2008
+304;305;6;Santa Rosa;2009
+305;306;6;Santa Rosa;2009
+306;307;6;Santa Rosa;2009
+307;308;6;Santa Rosa;2009
+308;309;6;Santa Rosa;2009
+309;310;6;Santa Rosa;2009
+310;311;6;Santa Rosa;2009
+311;312;6;Santa Rosa;2009
+312;313;6;Santa Rosa;2009
+313;314;6;Santa Rosa;2009
+314;315;6;Santa Rosa;2009
+315;316;6;Santa Rosa;2009
+316;317;6;Santa Rosa;2009
+317;318;6;Santa Rosa;2009
+319;320;6;Vicuña Mackenna;2017
+321;322;6;Vicuña Mackenna;2017
+322;323;6;Vicuña Mackenna;2017
+323;324;6;Vicuña Mackenna;2017

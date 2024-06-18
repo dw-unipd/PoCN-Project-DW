@@ -1,0 +1,19 @@
+# node data for Lille, France
+id;name;latitude;longitude;mode;year
+1;Porte des Postes;50.6184476;3.0501806;4;1984
+2;Wazemmes;50.6234558;3.0515983;4;1984
+3;;50.6372948;3.0712173;4;1983
+4;Gare Lille - Flandres;50.6374689;3.0710152;4;1983
+5;Villeneuve d'Ascq Hôtel de Ville;50.6191147;3.1307386;4;1983
+6;;50.717284;3.1626462;4;1999
+7;Porte des Postes;50.6184387;3.0502802;4;1989
+8;Mairie de Lille;50.6328076;3.0706587;4;1989
+9;Gare Lille - Flandres;50.6373662;3.0710791;4;1989
+10;Tourcoing Centre;50.7209577;3.1600924;4;1999
+11;Colbert;50.7258472;3.1565704;4;2000
+12;Phalempins;50.7323439;3.1576346;4;2000
+13;C.H. Dron;50.7434032;3.180859;4;2000
+14;Arrêt de tram Romarin (dir.Lille Flandres);50.645438;3.0750494;5;1909
+15;Arrêt de tram Romarin (dir.Tourcoing/Roubaix);50.6459447;3.0756211;5;1909
+16;Gare Lille Europe;50.6400192;3.0739987;5;1909
+17;Lille Flandres;50.6375025;3.0708018;5;1909

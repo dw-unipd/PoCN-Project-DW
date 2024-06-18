@@ -1,0 +1,128 @@
+# edge data for Cairo, Egypt
+from_id;to_id;mode;line;year
+1;2;5;New Administrative Capital Monorail;2023
+1;100;4;Line 3;2012
+1;101;4;Line 3;2012
+2;3;5;New Administrative Capital Monorail;2023
+3;4;5;New Administrative Capital Monorail;2023
+4;5;5;New Administrative Capital Monorail;2023
+5;6;5;New Administrative Capital Monorail;2023
+6;7;5;New Administrative Capital Monorail;2023
+7;8;5;New Administrative Capital Monorail;2023
+8;9;5;New Administrative Capital Monorail;2023
+9;10;5;New Administrative Capital Monorail;2023
+10;11;5;New Administrative Capital Monorail;2023
+11;12;5;New Administrative Capital Monorail;2023
+12;13;5;New Administrative Capital Monorail;2023
+13;14;5;New Administrative Capital Monorail;2023
+14;15;5;New Administrative Capital Monorail;2023
+15;16;5;New Administrative Capital Monorail;2023
+16;17;5;New Administrative Capital Monorail;2023
+17;18;5;New Administrative Capital Monorail;2023
+19;20;5;6th of October City Monorail;2023
+20;21;5;6th of October City Monorail;2023
+21;22;5;6th of October City Monorail;2023
+22;23;5;6th of October City Monorail;2023
+23;24;5;6th of October City Monorail;2023
+24;25;5;6th of October City Monorail;2023
+25;26;5;6th of October City Monorail;2023
+26;27;5;6th of October City Monorail;2023
+27;28;5;6th of October City Monorail;2023
+29;30;3;Line 1;2022
+30;31;3;Line 1;2022
+31;32;3;Line 1;2022
+32;33;3;Line 1;2022
+33;34;3;Line 1;2022
+34;35;3;Line 1;2022
+35;36;3;Line 1;2022
+36;37;3;Line 1;2022
+37;38;3;Line 1;2022
+38;39;3;Line 1;2022
+39;40;3;Line 1;2022
+41;42;4;Line 1;1987
+42;43;4;Line 1;1987
+43;44;4;Line 1;1987
+44;45;4;Line 1;1987
+45;46;4;Line 1;1987
+46;47;4;Line 1;1987
+47;48;4;Line 1;1987
+48;49;4;Line 1;1987
+49;50;4;Line 1;1987
+50;51;4;Line 1;1987
+51;52;4;Line 1;1987
+52;53;4;Line 1;1987
+53;54;4;Line 1;1987
+54;55;4;Line 1;1987
+55;56;4;Line 1;1987
+56;57;4;Line 1;1987
+57;58;4;Line 1;1987
+58;59;4;Line 1;1987
+58;79;4;Line 2;1996
+58;80;4;Line 2;1996
+59;60;4;Line 1;1987
+60;61;4;Line 1;1987
+60;77;4;Line 2;1996
+60;78;4;Line 2;1996
+61;62;4;Line 1;1987
+62;63;4;Line 1;1987
+63;64;4;Line 1;1987
+64;65;4;Line 1;1987
+65;66;4;Line 1;1987
+66;67;4;Line 1;1987
+67;68;4;Line 1;1987
+68;69;4;Line 1;1987
+69;70;4;Line 1;1987
+70;71;4;Line 1;1987
+71;72;4;Line 1;1987
+72;73;4;Line 1;1987
+74;75;4;Line 2;1996
+75;76;4;Line 2;1996
+76;77;4;Line 2;1996
+78;79;4;Line 2;1996
+78;105;4;Line 3;2012
+78;106;4;Line 3;1996
+80;81;4;Line 2;1996
+81;82;4;Line 2;1996
+82;83;4;Line 2;1996
+83;84;4;Line 2;1996
+84;85;4;Line 2;1996
+85;86;4;Line 2;1996
+86;87;4;Line 2;1996
+87;88;4;Line 2;1996
+89;90;4;Line 3;2012
+90;91;4;Line 3;2012
+91;92;4;Line 3;2012
+92;93;4;Line 3;2012
+93;94;4;Line 3;2012
+94;95;4;Line 3;2012
+95;96;4;Line 3;2012
+96;97;4;Line 3;2012
+97;98;4;Line 3;2012
+98;99;4;Line 3;2012
+99;100;4;Line 3;2012
+101;102;4;Line 3;2012
+102;103;4;Line 3;2012
+103;104;4;Line 3;2012
+104;105;4;Line 3;2012
+106;107;4;Line 3;2022
+107;108;4;Line 3;2022
+108;109;4;Line 3;2022
+109;110;4;Line 3;2022
+110;111;4;Line 3;1982
+111;112;4;Line 3;1982
+112;113;4;Line 3;1982
+113;114;4;Line 3;2024
+114;115;4;Line 3;2024
+115;116;4;Line 3;2024
+116;117;4;Line 3;2024
+117;118;4;Line 3;2024
+119;120;4;Line 4;2026
+120;121;4;Line 4;2026
+121;122;4;Line 4;2026
+122;123;4;Line 4;2026
+123;124;4;Line 4;2026
+124;125;4;Line 4;2026
+125;126;4;Line 4;2026
+126;127;4;Line 4;2026
+127;128;4;Line 4;2026
+128;129;4;Line 4;2026

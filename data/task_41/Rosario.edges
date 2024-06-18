@@ -1,0 +1,4 @@
+# edge data for Rosario, Argentina
+from_id;to_id;mode;line;year
+1;2;6;Metrobus Norte;2016
+2;3;6;Metrobus Norte;2016

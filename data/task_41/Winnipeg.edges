@@ -1,0 +1,91 @@
+# edge data for Winnipeg, Canada
+from_id;to_id;mode;line;year
+1;2;5;University Line;2016
+1;34;5;Manitoba Line;2016
+2;3;5;University Line;2016
+2;16;5;River Line;2018
+3;4;5;University Line;2017
+3;15;5;River Line;2018
+3;29;5;Manitoba Line;2016
+3;49;5;Canada Line;2016
+3;50;5;Canada Line;2017
+3;66;5;Airport Line;2016
+4;5;5;University Line;2017
+5;6;5;University Line;2017
+6;7;5;University Line;2017
+7;8;5;University Line;2017
+8;9;5;University Line;2017
+9;10;5;University Line;2017
+10;11;5;University Line;2017
+11;12;5;University Line;2017
+12;13;5;River Line;2018
+12;68;5;Highway Line;2019
+12;69;5;Highway Line;2019
+13;14;5;River Line;2018
+14;15;5;River Line;2018
+15;70;5;Highway Line;2019
+16;17;5;River Line;2018
+17;18;5;River Line;2018
+18;19;5;River Line;2018
+19;20;5;River Line;2018
+20;21;5;River Line;2019
+21;22;5;River Line;2019
+22;23;5;River Line;2019
+23;52;5;Canada Line;2017
+23;53;5;Canada Line;2020
+24;25;5;Manitoba Line;2017
+24;68;5;Prairie Line ;2019
+24;82;5;Prairie Line ;2018
+25;26;5;Manitoba Line;2017
+26;27;5;Manitoba Line;2017
+27;28;5;Manitoba Line;2017
+28;29;5;Manitoba Line;2017
+29;30;5;Manitoba Line;2016
+29;35;5;Manitoba Line;2018
+30;31;5;Manitoba Line;2016
+31;32;5;Manitoba Line;2016
+32;33;5;Manitoba Line;2016
+33;34;5;Manitoba Line;2016
+35;36;5;Manitoba Line;2018
+36;37;5;Manitoba Line;2018
+36;77;5;Prairie Line ;2016
+36;78;5;Prairie Line ;2017
+37;38;5;Manitoba Line;2020
+38;39;5;Manitoba Line;2020
+39;40;5;Manitoba Line;2020
+41;42;5;Canada Line;2020
+42;43;5;Canada Line;2020
+43;44;5;Canada Line;2018
+44;45;5;Canada Line;2018
+45;46;5;Canada Line;2018
+46;47;5;Canada Line;2017
+47;48;5;Canada Line;2017
+48;49;5;Canada Line;2016
+50;51;5;Canada Line;2017
+51;52;5;Canada Line;2017
+53;54;5;Canada Line;2020
+54;55;5;Canada Line;2020
+55;56;5;Canada Line;2020
+56;57;5;Canada Line;2021
+58;59;5;Airport Line;2017
+59;60;5;Airport Line;2017
+60;61;5;Airport Line;2017
+61;62;5;Airport Line;2017
+62;63;5;Airport Line;2017
+63;64;5;Airport Line;2016
+64;65;5;Airport Line;2016
+65;66;5;Airport Line;2016
+67;68;5;Highway Line;2019
+68;83;5;Prairie Line ;2020
+69;70;5;Highway Line;2019
+71;72;5;Prairie Line ;2017
+72;73;5;Prairie Line ;2017
+73;74;5;Prairie Line ;2017
+74;75;5;Prairie Line ;2016
+75;76;5;Prairie Line ;2016
+76;77;5;Prairie Line ;2016
+78;79;5;Prairie Line ;2017
+79;80;5;Prairie Line ;2018
+80;81;5;Prairie Line ;2018
+81;82;5;Prairie Line ;2018
+83;84;5;Prairie Line ;2021

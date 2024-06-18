@@ -1,0 +1,219 @@
+# edge data for Kuala Lumpur, Malaysia
+from_id;to_id;mode;line;year
+1;2;5;Johan Setia Line;2024
+2;3;5;Johan Setia Line;2024
+3;4;5;Johan Setia Line;2024
+4;5;5;Johan Setia Line;2024
+5;6;5;Johan Setia Line;2024
+6;7;5;Johan Setia Line;2024
+7;8;5;Johan Setia Line;2024
+8;9;5;Johan Setia Line;2024
+9;10;5;Johan Setia Line;2024
+10;11;5;Johan Setia Line;2024
+11;12;5;Johan Setia Line;2024
+12;13;5;Johan Setia Line;2024
+13;14;5;Johan Setia Line;2024
+14;15;5;Johan Setia Line;2024
+15;16;5;Johan Setia Line;2024
+16;17;5;Johan Setia Line;2024
+17;18;5;Johan Setia Line;2024
+18;19;5;Johan Setia Line;2024
+19;20;5;Johan Setia Line;2024
+20;21;5;Johan Setia Line;2024
+21;22;5;Johan Setia Line;2024
+22;23;5;Johan Setia Line;2024
+23;24;5;Johan Setia Line;2024
+24;25;5;Johan Setia Line;2024
+26;27;5;Ampang Line;1996
+26;40;5;Ampang Line;1998
+27;28;5;Ampang Line;1998
+28;29;5;Ampang Line;1998
+28;81;5;Sri Petaling Line;1998
+29;30;5;Ampang Line;1998
+30;31;5;Ampang Line;1998
+31;32;5;Ampang Line;1998
+31;82;5;Sri Petaling Line;1998
+32;33;5;Ampang Line;1996
+33;34;5;Ampang Line;1996
+34;35;5;Ampang Line;1996
+34;39;5;Ampang Line;1996
+35;36;5;Ampang Line;1996
+36;37;5;Ampang Line;1996
+36;38;5;Ampang Line;1996
+38;39;5;Ampang Line;1996
+40;41;5;Ampang Line;1998
+40;80;5;Sri Petaling Line;1998
+41;42;5;Ampang Line;1998
+42;43;5;Ampang Line;1998
+44;45;5;Kelana Jaya Line;2016
+45;46;5;Kelana Jaya Line;2016
+46;47;5;Kelana Jaya Line;2016
+47;48;5;Kelana Jaya Line;2016
+48;49;5;Kelana Jaya Line;2016
+49;50;5;Kelana Jaya Line;2016
+50;51;5;Kelana Jaya Line;2016
+51;52;5;Kelana Jaya Line;2016
+52;53;5;Kelana Jaya Line;2016
+53;54;5;Kelana Jaya Line;2016
+54;55;5;Kelana Jaya Line;2016
+55;56;5;Kelana Jaya Line;2016
+56;57;5;Kelana Jaya Line;1998
+57;58;5;Kelana Jaya Line;1998
+58;59;5;Kelana Jaya Line;1998
+59;60;5;Kelana Jaya Line;1998
+60;61;5;Kelana Jaya Line;2015
+61;62;5;Kelana Jaya Line;2015
+62;63;5;Kelana Jaya Line;1998
+63;64;5;Kelana Jaya Line;1998
+64;65;5;Kelana Jaya Line;2001
+65;66;5;Kelana Jaya Line;2001
+66;67;5;Kelana Jaya Line;1999
+67;68;5;Kelana Jaya Line;1999
+68;69;5;Kelana Jaya Line;1999
+69;70;5;Kelana Jaya Line;1999
+70;71;5;Kelana Jaya Line;1999
+71;72;5;Kelana Jaya Line;1999
+72;73;5;Kelana Jaya Line;1999
+73;74;5;Kelana Jaya Line;1999
+74;75;5;Kelana Jaya Line;1999
+75;76;5;Kelana Jaya Line;2010
+76;77;5;Kelana Jaya Line;2010
+77;78;5;Kelana Jaya Line;1999
+78;79;5;Kelana Jaya Line;1999
+80;81;5;Sri Petaling Line;1998
+82;83;5;Sri Petaling Line;1998
+83;84;5;Sri Petaling Line;1998
+84;85;5;Sri Petaling Line;1998
+85;86;5;Sri Petaling Line;1998
+86;87;5;Sri Petaling Line;1998
+87;88;5;Sri Petaling Line;1998
+88;89;5;Sri Petaling Line;1998
+89;90;5;Sri Petaling Line;2015
+90;91;5;Sri Petaling Line;2015
+91;92;5;Sri Petaling Line;2015
+92;93;5;Sri Petaling Line;2015
+93;94;5;Sri Petaling Line;2016
+94;95;5;Sri Petaling Line;2016
+95;96;5;Sri Petaling Line;2016
+96;97;5;Sri Petaling Line;2016
+97;98;5;Sri Petaling Line;2016
+98;99;5;Sri Petaling Line;2016
+100;101;4;Kajang Line;2016
+100;148;4;Putrajaya Line;2022
+101;102;4;Kajang Line;2016
+102;103;4;Kajang Line;2016
+103;104;4;Kajang Line;2016
+104;105;4;Kajang Line;2016
+105;106;4;Kajang Line;2016
+106;107;4;Kajang Line;2016
+107;108;4;Kajang Line;2016
+108;109;4;Kajang Line;2016
+109;110;4;Kajang Line;2016
+110;111;4;Kajang Line;2017
+111;112;4;Kajang Line;2017
+112;113;4;Kajang Line;2017
+113;114;4;Kajang Line;2017
+114;115;4;Kajang Line;2017
+115;116;4;Kajang Line;2017
+116;117;4;Kajang Line;2017
+117;118;4;Kajang Line;2017
+118;119;4;Kajang Line;2017
+119;120;4;Kajang Line;2017
+120;121;4;Kajang Line;2017
+121;122;4;Kajang Line;2017
+122;123;4;Kajang Line;2017
+123;124;4;Kajang Line;2017
+124;125;4;Kajang Line;2017
+125;126;4;Kajang Line;2017
+126;127;4;Kajang Line;2017
+127;128;4;Kajang Line;2017
+128;129;4;Kajang Line;2017
+130;131;6;Sunway Line;2015
+131;132;6;Sunway Line;2015
+132;133;6;Sunway Line;2015
+133;134;6;Sunway Line;2015
+134;135;6;Sunway Line;2015
+135;136;6;Sunway Line;2015
+137;138;7;KL Monorail Line;2003
+138;139;7;KL Monorail Line;2003
+139;140;7;KL Monorail Line;2003
+140;141;7;KL Monorail Line;2003
+141;142;7;KL Monorail Line;2003
+142;143;7;KL Monorail Line;2003
+143;144;7;KL Monorail Line;2003
+144;145;7;KL Monorail Line;2003
+145;146;7;KL Monorail Line;2003
+146;147;7;KL Monorail Line;2003
+148;149;4;Putrajaya Line;2022
+149;150;4;Putrajaya Line;2022
+150;151;4;Putrajaya Line;2022
+151;152;4;Putrajaya Line;2022
+152;153;4;Putrajaya Line;2022
+153;154;4;Putrajaya Line;2022
+154;155;4;Putrajaya Line;2022
+155;156;4;Putrajaya Line;2022
+157;158;3;Port Klang Line;1995
+158;159;3;Port Klang Line;1995
+159;160;3;Port Klang Line;1995
+160;161;3;Port Klang Line;1995
+161;162;3;Port Klang Line;1995
+162;163;3;Port Klang Line;1995
+163;164;3;Port Klang Line;1995
+164;165;3;Port Klang Line;1995
+164;172;3;Port Klang Line;2001
+165;166;3;Port Klang Line;1995
+166;167;3;Port Klang Line;1995
+167;168;3;Port Klang Line;1995
+167;173;3;Port Klang Line;1995
+168;169;3;Port Klang Line;1995
+169;170;3;Port Klang Line;1995
+169;173;3;Port Klang Line;1995
+170;171;3;Port Klang Line;2018
+171;172;3;Port Klang Line;2018
+172;174;3;Port Klang Line;2001
+172;197;3;Seremban Line;2001
+174;175;3;Port Klang Line;1995
+175;176;3;Port Klang Line;1995
+176;177;3;Port Klang Line;1995
+176;196;3;Seremban Line;2015
+177;178;3;Port Klang Line;2010
+178;179;3;Port Klang Line;2010
+179;180;3;Port Klang Line;2010
+180;181;3;Port Klang Line;2010
+181;182;3;Port Klang Line;2015
+182;183;3;Port Klang Line;2015
+183;184;3;Port Klang Line;2015
+184;185;3;Port Klang Line;2015
+185;186;3;Port Klang Line;2015
+186;187;3;Port Klang Line;2015
+187;188;3;Port Klang Line;2015
+188;189;3;Port Klang Line;2015
+189;190;3;Port Klang Line;2015
+190;191;3;Port Klang Line;2015
+191;192;3;Port Klang Line;2015
+193;194;3;Seremban Line;2015
+194;195;3;Seremban Line;2015
+195;196;3;Seremban Line;2015
+197;198;3;Seremban Line;1995
+198;199;3;Seremban Line;1995
+199;200;3;Seremban Line;1995
+200;201;3;Seremban Line;1995
+201;202;3;Seremban Line;1995
+202;203;3;Seremban Line;1995
+203;204;3;Seremban Line;1995
+204;205;3;Seremban Line;1995
+205;206;3;Seremban Line;1995
+206;207;3;Seremban Line;1995
+207;208;3;Seremban Line;1995
+208;209;3;Seremban Line;2016
+209;210;3;Seremban Line;2016
+210;211;3;Seremban Line;2016
+211;212;3;Seremban Line;2016
+213;214;3;Skypark Line;2018
+214;215;3;Skypark Line;2018
+216;217;4;KLIA Express;2014
+217;218;4;KLIA Express;2002
+217;219;4;KLIA Transit;2002
+218;221;4;KLIA Transit;2002
+219;220;4;KLIA Transit;2002
+220;221;4;KLIA Transit;2002

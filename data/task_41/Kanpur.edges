@@ -1,0 +1,10 @@
+# edge data for Kanpur, India
+from_id;to_id;mode;line;year
+1;2;4;Orange Line;2021
+2;3;4;Orange Line;2021
+3;4;4;Orange Line;2021
+4;5;4;Orange Line;2021
+5;6;4;Orange Line;2021
+6;7;4;Orange Line;2021
+7;8;4;Orange Line;2021
+8;9;4;Orange Line;2021

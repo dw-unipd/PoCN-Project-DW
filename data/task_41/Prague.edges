@@ -1,0 +1,25 @@
+# edge data for Prague, Czech Republic
+from_id;to_id;mode;line;year
+2;3;0;Metro A;2017
+3;4;0;Metro A;2017
+5;6;0;Metro B;2017
+5;22;0;Metro B;2017
+6;7;0;Metro B;2017
+7;8;0;Metro B;2017
+8;9;0;Metro B;2017
+9;10;0;Metro B;2017
+10;11;0;Metro B;2017
+11;12;0;Metro B;2017
+12;13;0;Metro B;2017
+13;14;0;Metro B;2017
+14;15;0;Metro B;2017
+15;16;0;Metro B;2017
+16;17;0;Metro B;2017
+17;18;0;Metro B;2017
+18;19;0;Metro B;2017
+19;20;0;Metro B;2017
+20;21;0;Metro B;2017
+22;23;0;Metro B;2017
+23;24;0;Metro B;2017
+24;25;0;Metro B;2017
+25;26;0;Metro B;2017

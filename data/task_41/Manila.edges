@@ -1,0 +1,126 @@
+# edge data for Manila, Philippines
+from_id;to_id;mode;line;year
+1;2;10;Guadalupe - Maybunga;2007
+1;3;10;Guadalupe - Pinagbuhatan;2007
+1;5;10;Guadalupe - Plaza Mexico (Intramuros);2007
+3;4;10;Guadalupe - Pinagbuhatan;2007
+5;6;10;Guadalupe - Plaza Mexico (Intramuros);2007
+6;7;10;Guadalupe - Plaza Mexico (Intramuros);2007
+7;8;10;Guadalupe - Plaza Mexico (Intramuros);2007
+8;9;10;Guadalupe - Plaza Mexico (Intramuros);2007
+9;10;10;Guadalupe - Plaza Mexico (Intramuros);2007
+10;11;10;Guadalupe - Plaza Mexico (Intramuros);2007
+11;12;10;Guadalupe - Plaza Mexico (Intramuros);2007
+13;14;4;Line 2;2025
+14;15;4;Line 2;2025
+15;16;4;Line 2;2025
+16;17;4;Line 2;2004
+17;18;4;Line 2;2004
+18;19;4;Line 2;2004
+19;20;4;Line 2;2004
+20;21;4;Line 2;2004
+21;22;4;Line 2;2004
+22;23;4;Line 2;2004
+23;24;4;Line 2;2003
+24;25;4;Line 2;2003
+25;26;4;Line 2;2003
+26;27;4;Line 2;2021
+27;28;4;Line 2;2021
+29;30;5;Line 1;2027
+30;31;5;Line 1;2027
+31;32;5;Line 1;2027
+32;33;5;Line 1;2025
+33;34;5;Line 1;2025
+34;35;5;Line 1;2025
+35;36;5;Line 1;2025
+36;37;5;Line 1;2025
+37;38;5;Line 1;1984
+38;39;5;Line 1;1984
+39;40;5;Line 1;1984
+40;41;5;Line 1;1984
+41;42;5;Line 1;1984
+42;43;5;Line 1;1984
+43;44;5;Line 1;1984
+44;45;5;Line 1;1985
+45;46;5;Line 1;1985
+46;47;5;Line 1;1985
+47;48;5;Line 1;1985
+48;49;5;Line 1;1985
+49;50;5;Line 1;1985
+50;51;5;Line 1;1985
+51;52;5;Line 1;1985
+52;53;5;Line 1;2010
+53;54;5;Line 1;2010
+54;55;5;Line 1;2024
+55;96;5;Line 3;2024
+56;57;3;Metro North Commuter;1981
+57;58;3;Metro North Commuter;1981
+58;59;3;Metro North Commuter;1981
+59;73;3;Metro South Commuter;1981
+60;61;3;Metro South Commuter;1981
+61;62;3;Metro South Commuter;1981
+62;63;3;Metro South Commuter;1981
+63;64;3;Metro South Commuter;1981
+64;65;3;Metro South Commuter;1981
+65;66;3;Metro South Commuter;1981
+66;67;3;Metro South Commuter;2010
+67;68;3;Metro South Commuter;2010
+68;69;3;Metro South Commuter;1981
+69;70;3;Metro South Commuter;1981
+70;71;3;Metro South Commuter;1981
+71;72;3;Metro South Commuter;1981
+72;73;3;Metro South Commuter;1981
+74;75;3;North–South Commuter Railway;2025
+75;76;3;North–South Commuter Railway;2025
+76;77;3;North–South Commuter Railway;2025
+77;78;3;North–South Commuter Railway;2025
+78;79;3;North–South Commuter Railway;2025
+79;80;3;North–South Commuter Railway;2025
+81;82;4;Line 9 (Metro Manila Subway);2027
+82;83;4;Line 9 (Metro Manila Subway);2027
+83;84;4;Line 9 (Metro Manila Subway);2029
+84;85;4;Line 9 (Metro Manila Subway);2029
+85;86;4;Line 9 (Metro Manila Subway);2029
+86;87;4;Line 9 (Metro Manila Subway);2029
+87;88;4;Line 9 (Metro Manila Subway);2029
+88;89;4;Line 9 (Metro Manila Subway);2029
+89;90;4;Line 9 (Metro Manila Subway);2029
+90;91;4;Line 9 (Metro Manila Subway);2029
+91;92;4;Line 9 (Metro Manila Subway);2029
+92;93;4;Line 9 (Metro Manila Subway);2029
+93;94;4;Line 9 (Metro Manila Subway);2029
+94;95;4;Line 9 (Metro Manila Subway);2029
+96;97;5;Line 3;1999
+97;98;5;Line 3;1999
+98;99;5;Line 3;1999
+99;100;5;Line 3;1999
+100;101;5;Line 3;1999
+101;102;5;Line 3;2000
+102;103;5;Line 3;2000
+104;105;4;Line 4;2028
+105;106;4;Line 4;2028
+106;107;4;Line 4;2028
+107;108;4;Line 4;2028
+108;109;4;Line 4;2028
+109;110;4;Line 4;2028
+110;111;4;Line 4;2028
+111;112;4;Line 4;2028
+113;114;4;Line 5 (Makati Subway);1981
+114;115;4;Line 5 (Makati Subway);1981
+115;116;4;Line 5 (Makati Subway);1981
+116;117;4;Line 5 (Makati Subway);1981
+117;118;4;Line 5 (Makati Subway);1981
+118;119;4;Line 5 (Makati Subway);1981
+119;120;4;Line 5 (Makati Subway);1981
+120;121;4;Line 5 (Makati Subway);1981
+122;123;4;Line 7;2025
+123;124;4;Line 7;2025
+124;125;4;Line 7;2025
+125;126;4;Line 7;2025
+126;127;4;Line 7;2025
+127;128;4;Line 7;2025
+128;129;4;Line 7;2025
+129;130;4;Line 7;2025
+130;131;4;Line 7;2025
+131;132;4;Line 7;2025
+132;133;4;Line 7;2025

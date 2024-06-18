@@ -1,0 +1,763 @@
+# edge data for Nagoya, Japan
+from_id;to_id;mode;line;year
+1;2;1;Chūō Shinkansen;2027
+3;4;3;Taita Line;1928
+3;349;3;Taita Line;1928
+4;5;3;Taita Line;1920
+4;349;3;Taita Line;1918
+5;6;3;Taita Line;1920
+6;7;3;Taita Line;1952
+6;350;3;Taita Line;1918
+7;8;3;Taita Line;1982
+7;351;3;Taita Line;1952
+8;9;3;Taita Line;1982
+9;10;3;Taita Line;1952
+9;351;3;Taita Line;1952
+10;350;3;Taita Line;1928
+11;12;1;Tōkaidō Shinkansen;1964
+11;13;1;Tōkaidō Shinkansen;1964
+12;13;1;Tōkaidō Shinkansen;1964
+13;14;1;Tōkaidō Shinkansen;1988
+13;15;1;Tōkaidō Shinkansen;1964
+14;15;1;Tōkaidō Shinkansen;1988
+15;16;1;Tōkaidō Shinkansen;1964
+16;17;1;Tōkaidō Shinkansen;1988
+16;18;1;Tōkaidō Shinkansen;1964
+17;18;1;Tōkaidō Shinkansen;1988
+19;20;3;Okada Line;1970
+19;130;3;Aichi Loop Line;1988
+20;21;3;Okada Line;1971
+20;130;3;Aichi Loop Line;1988
+21;22;3;Okada Line;1971
+21;131;3;Aichi Loop Line;1988
+22;23;3;Okada Line;1976
+22;131;3;Aichi Loop Line;1988
+23;24;3;Okada Line;1976
+24;25;3;Okada Line;1976
+24;132;3;Aichi Loop Line;1988
+25;26;3;Okada Line;1976
+25;132;3;Aichi Loop Line;1988
+25;133;3;Aichi Loop Line;1988
+26;133;3;Aichi Loop Line;1988
+26;134;3;Aichi Loop Line;2005
+27;28;7;Tokadai Line (Peachliner);1991
+28;29;7;Tokadai Line (Peachliner);1991
+29;30;7;Tokadai Line (Peachliner);1991
+30;31;7;Tokadai Line (Peachliner);1991
+31;32;7;Tokadai Line (Peachliner);1991
+32;33;7;Tokadai Line (Peachliner);1991
+34;35;3;Ichinomiya Line;1910
+35;36;3;Ichinomiya Line;1910
+36;37;3;Ichinomiya Line;1912
+37;38;3;Ichinomiya Line;1912
+37;61;3;Tsushima Line;1914
+37;592;3;Nagoya Main Line;1949
+37;593;3;Nagoya Main Line;1941
+38;39;3;Ichinomiya Line;1912
+39;40;3;Ichinomiya Line;1912
+39;546;3;Inuyama Line;1991
+40;41;3;Ichinomiya Line;1913
+40;546;3;Inuyama Line;1991
+41;42;3;Ichinomiya Line;1913
+42;43;3;Ichinomiya Line;1912
+43;44;3;Ichinomiya Line;1915
+44;45;3;Ichinomiya Line;1915
+45;46;3;Ichinomiya Line;1912
+45;547;3;Inuyama Line;1912
+46;47;3;Ichinomiya Line;1912
+47;48;3;Ichinomiya Line;1912
+48;49;3;Ichinomiya Line;1912
+49;50;3;Ichinomiya Line;1913
+49;402;2;Ichinomiya Line;1912
+49;657;3;Ichinomiya Line;1930
+50;402;2;Ichinomiya Line;1913
+50;657;3;Ichinomiya Line;1930
+51;52;3;Tsushima Line;1915
+51;681;3;Tsushima Line;1931
+52;53;3;Tsushima Line;1915
+52;648;3;Tsushima Line;1968
+52;681;3;Tsushima Line;1931
+53;54;3;Tsushima Line;1914
+54;55;3;Tsushima Line;1914
+55;56;3;Tsushima Line;1914
+56;57;3;Tsushima Line;1914
+57;58;3;Tsushima Line;1914
+58;59;3;Tsushima Line;1914
+59;60;3;Tsushima Line;1914
+60;61;3;Tsushima Line;1914
+60;590;3;Nagoya Main Line;1914
+60;591;3;Nagoya Main Line;1942
+61;591;3;Meigi Line;1942
+61;593;3;Meigi Line;1941
+62;63;3;Inuyama Line;1912
+62;547;3;Inuyama Line;1912
+63;64;3;Inuyama Line;1912
+64;65;3;Inuyama Line;1912
+65;66;3;Inuyama Line;1912
+66;67;3;Inuyama Line;1912
+66;548;3;Inuyama Line;1948
+67;68;3;Inuyama Line;1912
+68;69;3;Inuyama Line;1912
+68;548;3;Inuyama Line;1948
+69;70;3;Inuyama Line;1912
+70;71;3;Inuyama Line;1926
+71;72;3;Inuyama Line;1926
+71;549;3;Inuyama Line;1949
+72;549;3;Inuyama Line;1949
+73;74;3;Komaki Line;1920
+73;75;3;Iwakura Branch Line;1920
+73;560;3;Komaki Line;1989
+74;75;3;Komaki Line;1920
+75;76;3;Komaki Line;1920
+76;77;3;Komaki Line;1920
+76;560;3;Komaki Line;1989
+76;567;3;Iwakura Branch Line;1946
+78;79;3;Kiyosu Line;1914
+80;81;3;Meigi Line;1924
+81;82;3;Meigi Line;1928
+81;128;3;Kōnomiya Branch Line;1924
+81;587;3;Nagoya Main Line;1930
+81;588;3;Nagoya Main Line;1930
+82;83;3;Meigi Line;1928
+83;84;3;Meigi Line;1928
+83;129;3;Kōnomiya Branch Line;1924
+83;588;3;Nagoya Main Line;1930
+84;85;3;Meigi Line;1928
+84;589;3;Nagoya Main Line;1943
+85;86;3;Meigi Line;1928
+85;589;3;Meigi Line;1943
+86;87;3;Meigi Line;1928
+87;589;3;Nagoya Main Line;1943
+87;590;3;Nagoya Main Line;1928
+88;89;3;Bisai Line;1924
+88;93;3;Bisai Line;1898
+88;531;3;Bisai Line;1933
+89;90;3;Bisai Line;1924
+89;531;3;Bisai Line;1933
+90;91;3;Bisai Line;1907
+91;92;3;Bisai Line;1924
+92;93;3;Bisai Line;1924
+92;532;3;Bisai Line;1931
+93;94;3;Bisai Line;1924
+94;95;3;Bisai Line;1924
+95;96;3;Bisai Line;1924
+95;533;3;Bisai Line;1959
+96;97;3;Bisai Line;1924
+97;98;3;Bisai Line;1924
+97;534;3;Bisai Line;1930
+98;99;3;Bisai Line;1924
+98;534;3;Bisai Line;1930
+99;100;3;Bisai Line;1924
+100;101;3;Bisai Line;1928
+100;102;3;Bisai Line;1924
+101;102;3;Bisai Line;1928
+101;535;3;Bisai Line;1930
+102;103;3;Bisai Line;1914
+103;104;3;Bisai Line;1924
+103;535;3;Bisai Line;1930
+103;536;3;Bisai Line;2005
+104;105;3;Bisai Line;1924
+105;106;3;Bisai Line;1914
+106;107;3;Bisai Line;1914
+107;108;3;Bisai Line;1922
+108;109;3;Bisai Line;1922
+110;111;9;Soto Line;1924
+110;661;9;Soto Line;1930
+111;112;9;Soto Line;1924
+112;113;9;Soto Line;1924
+113;114;9;Soto Line;1924
+114;115;9;Soto Line;1924
+115;116;9;Soto Line;1924
+116;117;9;Soto Line;1924
+117;118;9;Soto Line;1924
+119;120;3;Imawatari Line;1925
+119;541;3;Hiromi Line;1946
+120;121;3;Imawatari Line;1925
+121;122;3;Imawatari Line;1925
+122;123;3;Imawatari Line;1925
+123;124;3;Imawatari Line;1925
+123;542;3;Hiromi Line;1969
+124;125;3;Imawatari Line;1925
+124;542;3;Hiromi Line;1969
+125;126;3;Imawatari Line;1925
+125;543;3;Hiromi Line;1969
+126;127;3;Hiromi Line;1928
+126;404;3;Hiromi Line;1930
+127;404;4;Tōmi Line;1930
+127;405;4;Tōmi Line;1928
+128;129;3;Kōnomiya Branch Line;1924
+134;135;3;Aichi Loop Line;2005
+135;136;3;Aichi Loop Line;2005
+136;137;3;Aichi Loop Line;2005
+137;138;3;Aichi Loop Line;1988
+138;139;3;Aichi Loop Line;1988
+139;140;3;Aichi Loop Line;1988
+140;141;3;Aichi Loop Line;1988
+141;142;3;Aichi Loop Line;1988
+142;143;3;Aichi Loop Line;1988
+144;145;3;Aonami Line (Nishi-Nagoyakō Line);2004
+145;146;3;Aonami Line (Nishi-Nagoyakō Line);2004
+146;147;3;Aonami Line (Nishi-Nagoyakō Line);2004
+147;148;3;Aonami Line (Nishi-Nagoyakō Line);2004
+148;149;3;Aonami Line (Nishi-Nagoyakō Line);2004
+149;150;3;Aonami Line (Nishi-Nagoyakō Line);2004
+150;151;3;Aonami Line (Nishi-Nagoyakō Line);2004
+151;152;3;Aonami Line (Nishi-Nagoyakō Line);2004
+152;153;3;Aonami Line (Nishi-Nagoyakō Line);2004
+153;154;3;Aonami Line (Nishi-Nagoyakō Line);2004
+155;156;3;Takehana Line;1921
+155;623;3;Takehana Line;1936
+156;157;3;Takehana Line;1921
+156;624;3;Takehana Line;1953
+157;158;3;Takehana Line;1921
+157;624;3;Takehana Line;1953
+158;159;3;Takehana Line;1921
+158;624;3;Takehana Line;1953
+159;160;3;Takehana Line;1921
+160;161;3;Takehana Line;1921
+161;162;3;Takehana Line;1921
+162;163;3;Takehana Line;1929
+163;164;3;Takehana Line;1929
+164;165;3;Takehana Line;1929
+165;166;3;Takehana Line;1929
+165;625;3;Takehana Line;1983
+166;167;3;Takehana Line;1929
+166;625;3;Takehana Line;1983
+167;168;3;Takehana Line;1929
+168;169;3;Takehana Line;1929
+169;170;3;Takehana Line;1929
+170;171;3;Takehana Line;1929
+171;172;3;Takehana Line;1929
+172;173;3;Takehana Line;1929
+173;174;3;Takehana Line;1929
+175;176;3;Seto Line;1905
+176;177;3;Seto Line;1927
+176;613;3;Seto Line;2002
+177;178;3;Seto Line;1927
+178;179;3;Seto Line;1905
+179;180;3;Seto Line;1905
+180;181;3;Seto Line;1905
+180;614;3;Seto Line;1942
+181;182;3;Seto Line;1927
+181;615;3;Seto Line;1995
+182;183;3;Seto Line;1927
+183;184;3;Seto Line;1936
+184;185;3;Seto Line;1936
+185;186;3;Seto Line;1905
+186;187;3;Seto Line;1911
+186;616;3;Seto Line;1956
+187;188;3;Seto Line;1911
+188;189;3;Seto Line;1926
+188;619;3;Seto Line;1911
+188;620;3;Seto Line;1978
+188;621;3;Seto Line;1976
+189;190;3;Seto Line;1926
+190;191;3;Seto Line;1911
+190;192;3;Seto Line;1915
+191;192;3;Seto Line;1915
+192;620;3;Seto Line;1978
+193;194;3;Kakamigahara Line;1928
+194;195;3;Kakamigahara Line;1926
+195;196;3;Kakamigahara Line;1926
+195;551;3;Kakamigahara Line;1931
+196;197;3;Kakamigahara Line;1926
+197;198;3;Kakamigahara Line;1926
+198;199;3;Kakamigahara Line;1926
+199;200;3;Kakamigahara Line;1926
+200;201;3;Kakamigahara Line;1926
+201;202;3;Kakamigahara Line;1926
+202;203;3;Kakamigahara Line;1926
+202;552;3;Kakamigahara Line;1989
+203;204;3;Kakamigahara Line;1926
+204;205;3;Kakamigahara Line;1926
+205;206;3;Kakamigahara Line;1931
+206;207;3;Kakamigahara Line;1935
+207;208;3;Kakamigahara Line;1935
+207;557;3;Kakamigahara Line;1939
+208;209;3;Kakamigahara Line;1932
+208;558;3;Kakamigahara Line;1966
+209;210;3;Kakamigahara Line;1932
+209;558;3;Kakamigahara Line;1966
+210;211;3;Kakamigahara Line;1927
+211;212;3;Kakamigahara Line;1927
+212;213;3;Kakamigahara Line;1927
+212;559;3;Kakamigahara Line;1931
+214;215;6;Yutorito Line;2001
+215;216;6;Yutorito Line;2001
+216;217;6;Yutorito Line;2001
+217;218;6;Yutorito Line;2001
+218;219;6;Yutorito Line;2001
+219;220;6;Yutorito Line;2001
+220;221;6;Yutorito Line;2001
+221;222;6;Yutorito Line;2001
+223;224;3;Nishio Line;1926
+224;225;3;Nishio Line;1926
+225;226;3;Nishio Line;1926
+226;227;3;Nishio Line;1926
+227;228;3;Nishio Line;1926
+227;612;3;Nishio Line;2008
+228;229;3;Nishio Line;1928
+228;612;3;Nishio Line;2008
+229;230;3;Nishio Line;1928
+230;231;3;Nishio Line;1928
+230;232;3;Nishio Line;1928
+230;238;3;Nishio Line;1928
+230;240;3;Nishio Line;1928
+232;233;3;Nishio Line;1915
+233;234;3;Nishio Line;1915
+234;235;3;Nishio Line;1928
+234;236;3;Yoshida Line;1915
+235;236;3;Nishio Line;1928
+236;237;3;Nishio Line;1915
+236;238;3;Nishio Line;1928
+237;238;3;Nishio Line;1928
+237;242;3;Nishio Line;1929
+237;243;3;Nishio Line;1914
+237;244;3;Nishio Line;1914
+237;245;3;Nishio Line;1914
+238;239;3;Nishio Line;1928
+238;242;3;Nishio Line;1929
+239;240;3;Nishio Line;1911
+239;315;3;Okazaki Line;1911
+240;241;3;Nishio Line;1912
+240;611;3;Nishio Line;1929
+241;314;3;Okazaki Line;1917
+242;653;3;Heisaka Branch Line;1929
+243;244;3;Nishio Line;1914
+243;653;3;Heisaka Branch Line;1928
+245;246;3;Nishio Line;1914
+245;314;3;Okazaki Line;1917
+245;611;3;Nishio Line;1929
+246;247;3;Nishio Line;1929
+246;313;3;Okazaki Line;1915
+247;248;3;Nishio Line;1929
+248;312;3;Okazaki Line;1911
+249;250;3;Tokoname Line;1913
+249;251;3;Tokoname Line;1913
+250;251;3;Tokoname Line;1912
+251;252;3;Tokoname Line;1912
+251;626;3;Tokoname Line;1957
+252;253;3;Tokoname Line;1924
+252;626;3;Tokoname Line;1957
+253;254;3;Tokoname Line;1924
+253;627;3;Tokoname Line;1940
+254;255;3;Tokoname Line;1912
+255;256;3;Tokoname Line;1917
+255;629;3;Tokoname Line;1947
+256;257;3;Tokoname Line;1917
+257;258;3;Tokoname Line;1912
+257;630;3;Tokoname Line;1922
+258;259;3;Tokoname Line;1916
+259;260;3;Tokoname Line;1916
+260;261;3;Tokoname Line;1912
+260;630;3;Tokoname Line;1922
+261;262;3;Tokoname Line;1923
+262;263;3;Tokoname Line;1923
+263;264;3;Tokoname Line;1930
+264;265;3;Tokoname Line;1930
+265;266;3;Tokoname Line;1912
+266;267;3;Tokoname Line;1912
+267;268;3;Tokoname Line;1913
+268;269;3;Tokoname Line;1913
+269;270;3;Tokoname Line;1913
+269;631;3;Tokoname Line;1944
+270;271;3;Tokoname Line;1913
+270;631;3;Tokoname Line;1944
+271;529;3;Tokoname Line;2005
+272;273;3;Chikkō Line;1924
+274;275;3;Arimatsu Line;1917
+274;283;3;Toyohashi Line;1930
+274;598;3;Nagoya Main Line;1945
+274;669;3;Toyohashi Line;1944
+275;276;3;Arimatsu Line;1917
+275;277;3;Toyohashi Line;1917
+275;283;3;Toyohashi Line;1930
+276;277;3;Arimatsu Line;1917
+277;278;3;Arimatsu Line;1917
+277;599;3;Nagoya Main Line;1930
+278;279;3;Arimatsu Line;1917
+278;600;3;Nagoya Main Line;1943
+279;280;3;Arimatsu Line;1917
+279;284;3;Toyohashi Line;1927
+279;600;3;Toyohashi Line;1943
+280;281;3;Arimatsu Line;1917
+280;284;3;Toyohashi Line;1927
+280;600;3;Nagoya Main Line;1943
+281;282;3;Arimatsu Line;1917
+281;285;3;Toyohashi Line;1924
+282;285;3;Toyohashi Line;1924
+282;286;3;Toyohashi Line;1931
+282;287;3;Okazaki Line;1923
+283;599;3;Nagoya Main Line;1930
+285;601;3;Nagoya Main Line;1943
+286;287;3;Toyohashi Line;1931
+287;288;3;Toyohashi Line;1923
+287;602;3;Nagoya Main Line;1953
+288;289;3;Toyohashi Line;1923
+288;603;3;Nagoya Main Line;1952
+289;290;3;Toyohashi Line;1923
+290;291;3;Toyohashi Line;1923
+290;603;3;Nagoya Main Line;1952
+290;604;3;Nagoya Main Line;1941
+291;292;3;Toyohashi Line;1923
+292;293;3;Toyohashi Line;1923
+292;604;3;Nagoya Main Line;1941
+293;294;3;Toyohashi Line;1923
+294;295;3;Toyohashi Line;1923
+295;296;3;Toyohashi Line;1925
+295;311;3;Okazaki Line;1923
+295;606;3;Nagoya Main Line;1976
+295;670;3;Toyohashi Line;1936
+296;297;3;Toyohashi Line;1925
+297;298;3;Toyohashi Line;1926
+297;311;3;Okazaki Line;1923
+297;606;3;Nagoya Main Line;1976
+297;670;3;Toyohashi Line;1936
+298;299;3;Toyohashi Line;1926
+299;300;3;Toyohashi Line;1926
+300;301;3;Toyohashi Line;1926
+300;607;3;Nagoya Main Line;1938
+301;302;3;Toyohashi Line;1926
+301;607;3;Toyohashi Line;1938
+302;303;3;Toyohashi Line;1926
+302;607;3;Nagoya Main Line;1938
+302;608;3;Nagoya Main Line;1938
+303;304;3;Toyohashi Line;1926
+304;305;3;Toyohashi Line;1926
+304;608;3;Toyohashi Line;1938
+304;609;3;Toyohashi Line;1938
+305;306;3;Toyohashi Line;1926
+305;609;3;Nagoya Main Line;1938
+306;307;3;Toyohashi Line;1934
+307;308;3;Toyohashi Line;1934
+308;309;3;Toyohashi Line;1927
+308;310;3;Toyohashi Line;1927
+308;610;3;Nagoya Main Line;1943
+312;313;3;Okazaki Line;1915
+316;317;3;Chita Line;1935
+317;318;3;Chita Line;1935
+318;319;3;Chita Line;1932
+319;320;3;Chita Line;1932
+320;321;3;Chita Line;1932
+321;322;3;Chita Line;1933
+322;323;3;Chita Line;1933
+323;324;3;Chita Line;1932
+324;325;3;Chita Line;1933
+325;326;3;Chita Line;1933
+326;327;3;Chita Line;1931
+327;328;3;Chita Line;1933
+327;574;3;Kōwa Line;1949
+328;329;3;Chita Line;1933
+328;574;3;Kōwa Line;1949
+329;330;3;Chita Line;1931
+330;331;3;Chita Line;1931
+331;332;3;Chita Line;1931
+331;575;3;Kōwa Line;1983
+332;333;3;Chita Line;1931
+332;575;3;Kōwa Line;1983
+333;334;3;Chita Line;1931
+333;576;3;Kōwa Line;1955
+334;335;3;Chita Line;1931
+334;576;3;Kōwa Line;1955
+335;336;3;Chita Line;1931
+336;337;3;Chita Line;1931
+337;338;3;Chita Line;1931
+339;340;3;Kasamatsu Line;1915
+340;341;3;Kasamatsu Line;1915
+341;342;3;Kasamatsu Line;1914
+341;577;3;Nagoya Main Line;1948
+341;578;3;Nagoya Main Line;1958
+342;343;3;Kasamatsu Line;1914
+342;579;3;Meigi Line;1915
+343;344;3;Kasamatsu Line;1914
+344;345;3;Kasamatsu Line;1914
+344;579;3;Meigi Line;1915
+345;346;3;Kasamatsu Line;1914
+345;579;3;Nagoya Main Line;1915
+345;580;3;Nagoya Main Line;1980
+346;347;3;Kasamatsu Line;1914
+346;663;3;Meigi Line;1935
+346;668;3;Kasamatsu Line;1921
+347;348;3;Kasamatsu Line;1916
+350;408;5;Tōnō Line;1920
+352;353;3;Mikawa Main Line;1937
+352;538;3;Gamagōri Line;1953
+353;354;3;Mikawa Main Line;1937
+354;355;3;Mikawa Main Line;1937
+355;356;3;Mikawa Main Line;1936
+356;357;3;Mikawa Main Line;1936
+356;537;3;Gamagōri Line;1968
+357;358;3;Mikawa Main Line;1936
+358;359;3;Mikawa Main Line;1936
+359;360;3;Mikawa Main Line;1936
+360;361;3;Mikawa Main Line;1936
+361;362;3;Mikawa Main Line;1936
+362;363;3;Mikawa Main Line;1929
+363;364;3;Mikawa Main Line;1929
+364;365;3;Mikawa Main Line;1928
+365;366;3;Mikawa Main Line;1926
+366;367;3;Mikawa Main Line;1926
+367;368;3;Mikawa Main Line;1926
+368;369;3;Mikawa Main Line;1927
+369;370;3;Mikawa Main Line;1927
+370;371;3;Mikawa Main Line;1926
+371;372;3;Mikawa Main Line;1926
+372;373;3;Mikawa Main Line;1926
+373;374;3;Mikawa Main Line;1926
+374;375;3;Mikawa Main Line;1926
+375;376;3;Mikawa Main Line;1926
+376;377;3;Mikawa Main Line;1915
+376;652;3;Mikawa Line (Chiryū - Hekinan);1954
+377;378;3;Mikawa Main Line;1915
+377;651;3;Mikawa Line (Chiryū - Hekinan);1981
+377;652;3;Mikawa Line (Chiryū - Hekinan);1954
+378;379;3;Mikawa Main Line;1914
+378;651;3;Mikawa Line (Chiryū - Hekinan);1981
+379;380;3;Mikawa Main Line;1914
+380;381;3;Mikawa Main Line;1918
+381;382;3;Mikawa Main Line;1918
+382;383;3;Mikawa Main Line;1914
+383;384;3;Mikawa Main Line;1914
+384;385;3;Mikawa Main Line;1914
+385;386;3;Mikawa Main Line;1923
+386;387;3;Mikawa Main Line;1923
+386;649;3;Mikawa Line (Chiryū - Hekinan);1959
+387;388;3;Mikawa Main Line;1920
+388;389;3;Mikawa Main Line;1920
+388;650;3;Mikawa Line (Sanage - Chiryū);1959
+389;390;3;Mikawa Main Line;1920
+390;391;3;Mikawa Main Line;1920
+391;392;3;Mikawa Main Line;1920
+392;393;3;Mikawa Main Line;1920
+393;394;3;Mikawa Main Line;1923
+394;395;3;Mikawa Main Line;1923
+395;396;3;Mikawa Main Line;1924
+396;397;3;Mikawa Main Line;1924
+397;398;3;Mikawa Main Line;1927
+398;399;3;Mikawa Main Line;1927
+399;400;3;Mikawa Main Line;1927
+400;401;3;Mikawa Main Line;1928
+403;404;4;Tōmi Line;1930
+403;405;3;Tōmi Line;1928
+404;405;3;Hiromi Line;1930
+404;545;3;Hiromi Line;1982
+405;406;4;Tōmi Line;1928
+405;408;4;Tōmi Line;1928
+406;407;4;Tōmi Line;1928
+406;408;5;Tōnō Line;1920
+407;408;4;Tōmi Line;1928
+408;409;4;Tōmi Line;1930
+409;410;4;Tōmi Line;1930
+410;411;4;Tōmi Line;1930
+410;412;3;Yaotsu Line;1930
+410;662;3;Yaotsu Line;1982
+411;412;4;Tōmi Line;1930
+412;413;4;Tōmi Line;1930
+413;414;4;Tōmi Line;1930
+413;415;3;Yaotsu Line;1930
+414;415;4;Tōmi Line;1930
+416;417;4;Higashiyama Line;1982
+417;418;4;Higashiyama Line;1982
+418;419;4;Higashiyama Line;1982
+419;420;4;Higashiyama Line;1969
+420;421;4;Higashiyama Line;1969
+421;422;4;Higashiyama Line;1969
+422;423;4;Higashiyama Line;1969
+423;424;4;Higashiyama Line;1957
+424;425;4;Higashiyama Line;1957
+425;426;4;Higashiyama Line;1960
+426;427;4;Higashiyama Line;1960
+427;428;4;Higashiyama Line;1960
+428;429;4;Higashiyama Line;1960
+429;430;4;Higashiyama Line;1963
+430;431;4;Higashiyama Line;1963
+431;432;4;Higashiyama Line;1963
+432;433;4;Higashiyama Line;1967
+433;434;4;Higashiyama Line;1969
+434;435;4;Higashiyama Line;1970
+435;436;4;Higashiyama Line;1970
+436;437;4;Higashiyama Line;1969
+438;439;4;Tsurumai Line;1993
+439;440;4;Tsurumai Line;1984
+440;441;4;Tsurumai Line;1984
+441;442;4;Tsurumai Line;1981
+442;443;4;Tsurumai Line;1981
+443;444;4;Tsurumai Line;1981
+444;445;4;Tsurumai Line;1977
+445;446;4;Tsurumai Line;1977
+446;447;4;Tsurumai Line;1977
+447;448;4;Tsurumai Line;1977
+448;449;4;Tsurumai Line;1977
+449;450;4;Tsurumai Line;1977
+450;451;4;Tsurumai Line;1977
+451;452;4;Tsurumai Line;1977
+452;453;4;Tsurumai Line;1978
+453;454;4;Tsurumai Line;1978
+454;455;4;Tsurumai Line;1978
+455;456;4;Tsurumai Line;1978
+456;457;4;Tsurumai Line;1978
+458;459;4;Sakura-dōri Line;1989
+459;460;4;Sakura-dōri Line;1989
+460;461;4;Sakura-dōri Line;1989
+461;462;4;Sakura-dōri Line;1989
+462;463;4;Sakura-dōri Line;1989
+463;464;4;Sakura-dōri Line;1989
+464;465;4;Sakura-dōri Line;1989
+465;466;4;Sakura-dōri Line;1994
+466;467;4;Sakura-dōri Line;1994
+467;468;4;Sakura-dōri Line;1994
+468;469;4;Sakura-dōri Line;1994
+469;470;4;Sakura-dōri Line;1994
+470;471;4;Sakura-dōri Line;1994
+471;472;4;Sakura-dōri Line;1994
+472;473;4;Sakura-dōri Line;1994
+473;474;4;Sakura-dōri Line;2011
+474;475;4;Sakura-dōri Line;2011
+475;476;4;Sakura-dōri Line;2011
+476;477;4;Sakura-dōri Line;2011
+478;479;4;Meijō Line;1971
+479;480;4;Meijō Line;1971
+480;481;4;Meijō Line;1971
+481;482;4;Meijō Line;1971
+482;483;4;Meijō Line;1971
+483;484;4;Meijō Line;1971
+483;512;4;Meikō Line;2004
+484;485;4;Meijō Line;1971
+484;505;4;Meijō Line;1974
+484;506;4;Meijō Line;1967
+485;486;4;Meijō Line;1971
+486;487;4;Meijō Line;1971
+487;488;4;Meijō Line;1971
+488;489;4;Meijō Line;1971
+489;490;4;Meijō Line;2000
+490;491;4;Meijō Line;2000
+491;492;4;Meijō Line;2003
+492;493;4;Meijō Line;2003
+493;494;4;Meijō Line;2003
+494;495;4;Meijō Line;2003
+495;496;4;Meijō Line;2004
+496;497;4;Meijō Line;2004
+497;498;4;Meijō Line;2004
+498;499;4;Meijō Line;2004
+499;500;4;Meijō Line;2004
+500;501;4;Meijō Line;1974
+501;502;4;Meijō Line;1974
+502;503;4;Meijō Line;1974
+503;504;4;Meijō Line;1974
+504;505;4;Meijō Line;1974
+506;507;4;Meijō Line;1967
+507;508;4;Meijō Line;1967
+508;509;4;Meijō Line;1967
+509;510;4;Meijō Line;1989
+510;511;4;Meijō Line;1989
+513;561;3;Komaki Line;2003
+513;562;3;Komaki Line;2003
+514;515;7;Linimo (Tōbu Kyūryō Line);2005
+515;516;7;Linimo (Tōbu Kyūryō Line);2005
+516;517;7;Linimo (Tōbu Kyūryō Line);2005
+517;518;7;Linimo (Tōbu Kyūryō Line);2005
+518;519;7;Linimo (Tōbu Kyūryō Line);2005
+519;520;7;Linimo (Tōbu Kyūryō Line);2005
+520;521;7;Linimo (Tōbu Kyūryō Line);2005
+522;523;3;Chita New Line;1974
+523;524;3;Chita New Line;1987
+524;525;3;Chita New Line;1987
+525;526;3;Chita New Line;1976
+526;527;3;Chita New Line;1976
+527;528;3;Chita New Line;1980
+529;530;3;Airport Line;2005
+532;533;3;Bisai Line;1959
+535;536;3;Bisai Line;2005
+537;538;3;Gamagōri Line;1968
+539;540;3;Hashima Line;1983
+543;544;3;Hiromi Line;1969
+544;545;3;Hiromi Line;1982
+550;551;3;Kakamigahara Line;1948
+552;553;3;Kakamigahara Line;1989
+553;554;3;Kakamigahara Line;2005
+554;555;3;Kakamigahara Line;2005
+555;556;3;Kakamigahara Line;1939
+556;557;3;Kakamigahara Line;1939
+560;561;3;Komaki Line;1989
+560;567;3;Komaki Line;1989
+560;568;3;Komaki Line;1989
+561;566;3;Komaki Line;1931
+561;674;3;Ozone Line;1931
+562;563;3;Komaki Line;1931
+562;672;3;Ozone Line;1931
+563;564;3;Komaki Line;1931
+563;673;3;Ozone Line;1931
+564;565;3;Komaki Line;1931
+564;673;3;Ozone Line;1931
+565;566;3;Komaki Line;1931
+567;656;3;Iwakura Branch Line;1946
+568;569;3;Komaki Line;1931
+568;675;3;Ozone Line;1931
+569;570;3;Komaki Line;1931
+570;571;3;Komaki Line;1931
+571;572;3;Komaki Line;1931
+571;676;3;Ozone Line;1931
+572;573;3;Komaki Line;1931
+572;676;3;Ozone Line;1931
+572;677;3;Ozone Line;1931
+573;678;3;Ozone Line;1931
+578;579;3;Nagoya Main Line;1958
+580;581;3;Nagoya Main Line;1980
+581;582;3;Nagoya Main Line;1936
+581;663;3;Meigi Line;1936
+582;583;3;Nagoya Main Line;1939
+583;584;3;Nagoya Main Line;1939
+584;585;3;Nagoya Main Line;1936
+585;586;3;Nagoya Main Line;1941
+585;664;3;Meigi Line;1935
+586;587;3;Nagoya Main Line;1941
+587;664;3;Meigi Line;1935
+591;592;3;Nagoya Main Line;1949
+593;594;3;Nagoya Main Line;1941
+594;595;3;Nagoya Main Line;2005
+594;665;3;Meigi Line;1941
+595;596;3;Nagoya Main Line;2005
+596;597;3;Nagoya Main Line;1989
+596;598;3;Meigi Line;1945
+596;665;3;Meigi Line;1944
+597;598;3;Nagoya Main Line;1989
+601;602;3;Nagoya Main Line;1953
+604;605;3;Nagoya Main Line;1959
+608;609;3;Nagoya Main Line;1938
+614;615;3;Seto Line;1995
+616;617;3;Seto Line;1978
+616;619;3;Seto Line;1956
+617;618;3;Seto Line;1978
+622;623;3;Takehana Line;1936
+623;668;3;Kasamatsu Line;1936
+627;628;3;Tokoname Line;1940
+628;629;3;Tokoname Line;1947
+632;633;3;Toyokawa Line;1949
+633;634;3;Toyokawa Line;1972
+634;635;3;Toyokawa Line;1972
+635;636;3;Toyokawa Line;1955
+636;637;3;Toyokawa Line;1955
+637;638;3;Toyokawa Line;1955
+638;639;3;Toyokawa Line;1955
+640;641;3;Toyota Line;1979
+641;642;3;Toyota Line;1979
+642;643;3;Toyota Line;1979
+643;644;3;Toyota Line;1979
+644;645;3;Toyota Line;1979
+645;646;3;Toyota Line;1979
+646;647;3;Toyota Line;1979
+649;650;3;Mikawa Line (Sanage - Chiryū);1959
+654;655;3;Anjō Branch Line;1951
+658;659;7;Monkey Park Monorail Line;1962
+659;660;7;Monkey Park Monorail Line;1962
+666;667;3;Kasamatsu Line;1935
+667;668;3;Kasamatsu Line;1921
+671;672;3;Ozone Line;1931
+674;675;3;Ozone Line;1931
+677;678;3;Ozone Line;1931
+679;680;3;Katsukawa Line;1931
+682;683;3;Jōhoku Line;1991
+683;684;3;Jōhoku Line;1991
+684;685;3;Jōhoku Line;1991
+685;686;3;Jōhoku Line;1993
+686;687;3;Jōhoku Line;1993

@@ -1,0 +1,15 @@
+# edge data for Richmond, United States
+from_id;to_id;mode;line;year
+1;2;6;Pulse BRT;2018
+2;3;6;Pulse BRT;2018
+3;4;6;Pulse BRT;2018
+4;5;6;Pulse BRT;2018
+5;6;6;Pulse BRT;2018
+6;7;6;Pulse BRT;2018
+7;8;6;Pulse BRT;2018
+8;9;6;Pulse BRT;2018
+9;10;6;Pulse BRT;2018
+10;11;6;Pulse BRT;2018
+11;12;6;Pulse BRT;2018
+12;13;6;Pulse BRT;2018
+13;14;6;Pulse BRT;2018

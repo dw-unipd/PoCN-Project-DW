@@ -1,0 +1,39 @@
+# edge data for Mulhouse, France
+from_id;to_id;mode;line;year
+1;2;5;Ligne 1;2006
+2;3;5;Ligne 1;2006
+3;4;5;Ligne 1;2006
+4;5;5;Ligne 1;2006
+5;6;5;Ligne 1;2006
+6;7;5;Ligne 1;2006
+7;8;5;Ligne 1;2006
+8;9;5;Ligne 1;2006
+9;10;5;Ligne 1;2006
+10;11;5;Ligne 1;2006
+11;12;5;Ligne 1;2006
+11;23;5;Ligne 3;2006
+11;28;5;Ligne 3;2009
+13;14;5;Ligne 2;2006
+14;15;5;Ligne 2;2006
+15;16;5;Ligne 2;2006
+16;17;5;Ligne 2;2006
+17;18;5;Ligne 2;2006
+18;19;5;Ligne 2;2006
+19;20;5;Ligne 2;2006
+19;27;5;Ligne 3;2009
+20;21;5;Ligne 2;2006
+21;22;5;Ligne 2;2006
+22;23;5;Ligne 2;2006
+23;24;5;Ligne 2;2006
+24;25;5;Ligne 2;2006
+25;26;5;Ligne 2;2006
+27;29;5;Ligne 3;2009
+29;30;5;Ligne 3;2009
+30;31;3;Tram-train;2009
+31;32;3;Tram-train;2009
+32;33;3;Tram-train;2009
+33;34;3;Tram-train;2009
+34;35;3;Tram-train;2009
+35;36;3;Tram-train;2009
+35;37;3;Tram-train;2009
+36;37;3;Tram-train;2009

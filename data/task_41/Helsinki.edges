@@ -1,0 +1,405 @@
+# edge data for Helsinki, Finland
+from_id;to_id;mode;line;year
+1;2;3;Coastal Line;1890
+1;25;3;Coastal Line;1890
+2;3;3;Coastal Line;1890
+3;4;3;Coastal Line;1890
+4;5;3;Coastal Line;1890
+4;24;3;Coastal Line;1890
+5;6;3;Coastal Line;1890
+6;7;3;Coastal Line;1890
+7;8;3;Coastal Line;1890
+8;9;3;Coastal Line;1890
+9;10;3;Coastal Line;1890
+10;11;3;Coastal Line;1890
+11;12;3;Coastal Line;1890
+12;13;3;Coastal Line;1890
+13;14;3;Coastal Line;1890
+14;15;3;Coastal Line;1890
+15;16;3;Coastal Line;1890
+16;17;3;Coastal Line;1890
+17;18;3;Coastal Line;1890
+18;19;3;Coastal Line;1890
+19;20;3;Coastal Line;1890
+20;21;3;Coastal Line;1890
+21;22;3;Coastal Line;1890
+22;23;3;Coastal Line;1890
+23;24;3;Coastal Line;1890
+25;26;3;Coastal Line;1890
+26;27;3;Coastal Line;1890
+27;28;3;Coastal Line;1890
+28;29;3;Coastal Line;1890
+29;30;3;Coastal Line;1890
+30;31;3;Coastal Line;1890
+31;32;3;Coastal Line;1890
+32;33;3;Coastal Line;1890
+33;34;3;Coastal Line;1890
+34;35;3;Coastal Line;1890
+35;36;3;Coastal Line;1890
+36;37;3;Coastal Line;1890
+38;39;3;Lahti Line;1890
+39;40;3;Lahti Line;1890
+41;42;3;Main Line;1890
+42;43;3;Main Line;1890
+43;44;3;Main Line;1890
+44;45;3;Main Line;1890
+45;46;3;Main Line;1890
+46;47;3;Main Line;1890
+47;48;3;Main Line;1890
+48;49;3;Main Line;1890
+49;50;3;Main Line;1890
+50;51;3;Main Line;1890
+51;52;3;Main Line;1890
+52;53;3;Main Line;1890
+53;54;3;Main Line;1890
+54;55;3;Main Line;1890
+55;56;3;Main Line;1890
+56;57;3;Main Line;1890
+57;58;3;Main Line;1890
+58;59;3;Main Line;1890
+59;60;3;Main Line;1890
+60;61;3;Main Line;1890
+61;62;3;Main Line;1890
+62;63;3;Main Line;1890
+63;64;3;Main Line;1890
+64;65;3;Main Line;1890
+65;66;3;Main Line;1890
+66;67;3;Main Line;1890
+67;68;3;Main Line;1890
+68;69;3;Main Line;1890
+69;70;3;Main Line;1890
+70;71;3;Main Line;1890
+71;72;3;Main Line;1890
+72;73;3;Main Line;1890
+74;75;3;Riihimäki-Lahti Line;1890
+75;76;3;Riihimäki-Lahti Line;1890
+76;77;3;Riihimäki-Lahti Line;1890
+77;78;3;Riihimäki-Lahti Line;1890
+78;79;3;Riihimäki-Lahti Line;1890
+79;80;3;Riihimäki-Lahti Line;1890
+80;81;3;Riihimäki-Lahti Line;1890
+81;82;3;Riihimäki-Lahti Line;1890
+82;83;3;Riihimäki-Lahti Line;1890
+83;84;3;Riihimäki-Lahti Line;1890
+84;85;3;Riihimäki-Lahti Line;1890
+85;86;3;Riihimäki-Lahti Line;1890
+86;87;3;Riihimäki-Lahti Line;1890
+87;88;3;Riihimäki-Lahti Line;1890
+88;89;3;Riihimäki-Lahti Line;1890
+89;90;3;Riihimäki-Lahti Line;1890
+90;91;3;Riihimäki-Lahti Line;1890
+91;92;3;Riihimäki-Lahti Line;1890
+92;93;3;Riihimäki-Lahti Line;1890
+93;94;3;Riihimäki-Lahti Line;1890
+94;95;3;Riihimäki-Lahti Line;1890
+95;96;3;Riihimäki-Lahti Line;1890
+96;97;3;Riihimäki-Lahti Line;1890
+97;98;3;Riihimäki-Lahti Line;1890
+98;99;3;Riihimäki-Lahti Line;1890
+99;100;3;Riihimäki-Lahti Line;1890
+100;101;3;Riihimäki-Lahti Line;1890
+102;103;3;Ring Rail Line;1890
+103;104;3;Ring Rail Line;1890
+104;105;3;Ring Rail Line;1890
+105;106;3;Ring Rail Line;1890
+107;108;3;Vantaankoski Line;1890
+108;109;3;Vantaankoski Line;1890
+109;110;3;Vantaankoski Line;1890
+110;111;3;Vantaankoski Line;1890
+111;112;3;Vantaankoski Line;1890
+112;113;3;Vantaankoski Line;1890
+115;116;3;Kerava-Porvoo Line;1890
+116;117;3;Kerava-Porvoo Line;1890
+117;118;3;Kerava-Porvoo Line;1890
+118;119;3;Kerava-Porvoo Line;1890
+119;120;3;Kerava-Porvoo Line;1890
+120;121;3;Kerava-Porvoo Line;1890
+121;122;3;Kerava-Porvoo Line;1890
+122;123;3;Kerava-Porvoo Line;1890
+123;124;3;Kerava-Porvoo Line;1890
+124;125;3;Kerava-Porvoo Line;1890
+125;126;3;Kerava-Porvoo Line;1890
+127;128;4;Metro;1890
+128;129;4;Metro;1890
+129;130;4;Metro;1890
+130;131;4;Metro;1890
+131;132;4;Metro;1890
+132;133;4;Metro;1890
+133;134;4;Metro;1890
+134;135;4;Metro;1890
+135;136;4;Metro;1890
+136;137;4;Metro;1890
+137;138;4;Metro;1890
+138;139;4;Metro;1890
+139;140;4;Metro;1890
+140;141;4;Metro;1890
+141;142;4;Metro;1890
+142;143;4;Metro;1890
+143;144;4;Metro;1890
+144;145;4;Metro;1890
+145;146;4;Metro;1890
+146;147;4;Metro;1890
+147;148;4;Metro;1890
+148;149;4;Metro;1890
+149;150;4;Metro;1890
+150;151;4;Metro;1890
+151;152;4;Metro;2022
+152;153;4;Metro;2022
+153;154;4;Metro;2022
+154;155;4;Metro;2022
+155;156;4;Metro;2022
+157;158;5;Line 15 (Jokeri);2023
+158;159;5;Line 15 (Jokeri);2023
+159;160;5;Line 15 (Jokeri);2023
+160;161;5;Line 15 (Jokeri);2023
+161;162;5;Line 15 (Jokeri);2023
+162;163;5;Line 15 (Jokeri);2023
+163;164;5;Line 15 (Jokeri);2023
+164;165;5;Line 15 (Jokeri);2023
+165;166;5;Line 15 (Jokeri);2023
+166;167;5;Line 15 (Jokeri);2023
+167;168;5;Line 15 (Jokeri);2023
+168;169;5;Line 15 (Jokeri);2023
+169;170;5;Line 15 (Jokeri);2023
+170;171;5;Line 15 (Jokeri);2023
+171;172;5;Line 15 (Jokeri);2023
+172;173;5;Line 15 (Jokeri);2023
+173;174;5;Line 15 (Jokeri);2023
+174;175;5;Line 15 (Jokeri);2023
+175;176;5;Line 15 (Jokeri);2023
+176;177;5;Line 15 (Jokeri);2023
+177;178;5;Line 15 (Jokeri);2023
+178;179;5;Line 15 (Jokeri);2023
+179;180;5;Line 15 (Jokeri);2023
+180;181;5;Line 15 (Jokeri);2023
+181;182;5;Line 15 (Jokeri);2023
+182;183;5;Line 15 (Jokeri);2023
+183;184;5;Line 15 (Jokeri);2023
+184;185;5;Line 15 (Jokeri);2023
+185;186;5;Line 15 (Jokeri);2023
+186;187;5;Line 15 (Jokeri);2023
+187;188;5;Line 15 (Jokeri);2023
+188;189;5;Line 15 (Jokeri);2023
+189;190;5;Line 15 (Jokeri);2023
+191;192;9;Downtown network;1972
+191;194;9;Downtown network;1975
+191;195;9;Downtown network;1972
+192;193;9;Downtown network;1972
+192;315;9;Downtown network;1994
+192;316;9;Downtown network;1994
+193;194;9;Downtown network;1975
+195;196;9;Downtown network;1972
+196;197;9;Downtown network;2009
+196;211;9;Downtown network;2020
+196;212;9;Downtown network;2007
+197;198;9;Downtown network;2012
+198;199;9;Downtown network;2012
+198;214;9;Downtown network;2012
+198;311;9;Downtown network;2012
+199;200;9;Downtown network;2012
+200;201;9;Downtown network;2012
+201;202;9;Downtown network;1972
+202;203;9;Downtown network;1972
+203;204;9;Downtown network;1972
+204;205;9;Downtown network;1972
+204;237;9;Downtown network;2012
+204;238;9;Downtown network;1991
+205;206;9;Downtown network;1972
+206;207;9;Downtown network;2018
+207;208;9;Downtown network;2018
+208;209;9;Downtown network;1977
+209;210;9;Downtown network;1977
+210;211;9;Downtown network;2020
+212;213;9;Downtown network;2007
+213;214;9;Downtown network;1976
+214;215;9;Downtown network;1976
+214;224;9;Downtown network;1976
+214;308;9;Downtown network;1976
+214;309;9;Downtown network;1976
+215;216;9;Downtown network;1972
+216;217;9;Downtown network;1972
+216;218;9;Downtown network;2017
+216;221;9;Downtown network;1972
+217;218;9;Downtown network;2017
+218;219;9;Downtown network;2017
+218;220;9;Downtown network;2017
+219;220;9;Downtown network;1972
+221;222;9;Downtown network;1972
+221;224;9;Downtown network;1972
+221;271;9;Downtown network;2009
+222;223;9;Downtown network;1972
+222;224;9;Downtown network;1972
+222;225;9;Downtown network;1972
+222;259;9;Downtown network;1972
+222;260;9;Downtown network;1972
+223;224;9;Downtown network;1972
+223;260;9;Downtown network;1972
+224;310;9;Downtown network;1997
+225;226;9;Downtown network;2021
+226;227;9;Downtown network;2021
+227;228;9;Downtown network;2017
+227;229;9;Downtown network;2017
+227;231;9;Downtown network;2017
+227;232;9;Downtown network;2017
+229;230;9;Downtown network;2017
+230;231;9;Downtown network;2017
+232;233;9;Downtown network;2021
+233;234;9;Downtown network;2021
+234;235;9;Downtown network;2021
+235;236;9;Downtown network;2012
+236;237;9;Downtown network;2012
+238;239;9;Downtown network;2017
+239;240;9;Downtown network;2017
+240;241;9;Downtown network;2020
+240;246;9;Downtown network;1993
+240;247;9;Downtown network;1993
+241;242;9;Downtown network;2021
+241;248;9;Downtown network;2020
+242;243;9;Downtown network;2021
+242;249;9;Downtown network;2021
+242;252;9;Downtown network;2021
+243;244;9;Downtown network;1972
+243;253;9;Downtown network;1972
+243;254;9;Downtown network;1972
+244;245;9;Downtown network;1972
+245;246;9;Downtown network;1972
+248;249;9;Downtown network;1998
+249;250;9;Downtown network;1997
+249;251;9;Downtown network;1972
+250;251;9;Downtown network;1997
+252;253;9;Downtown network;2021
+254;255;9;Downtown network;1972
+255;256;9;Downtown network;1972
+256;257;9;Downtown network;2017
+257;258;9;Downtown network;2017
+258;259;9;Downtown network;1972
+260;261;9;Downtown network;1972
+261;262;9;Downtown network;1972
+261;270;9;Downtown network;2014
+262;263;9;Downtown network;1980
+263;264;9;Downtown network;1992
+263;269;9;Downtown network;1980
+263;270;9;Downtown network;2014
+264;265;9;Downtown network;1992
+265;266;9;Downtown network;1992
+266;267;9;Downtown network;1995
+266;268;9;Downtown network;1980
+268;269;9;Downtown network;1980
+271;272;9;Downtown network;2015
+272;273;9;Downtown network;2015
+273;274;9;Downtown network;2016
+274;275;9;Downtown network;2016
+275;276;9;Downtown network;1995
+276;277;9;Downtown network;1995
+277;278;9;Downtown network;1972
+277;279;9;Downtown network;1972
+277;308;9;Downtown network;1972
+278;279;9;Downtown network;1972
+279;280;9;Downtown network;1972
+279;307;9;Downtown network;1972
+280;281;9;Downtown network;2014
+281;282;9;Downtown network;2017
+281;303;9;Downtown network;2014
+281;304;9;Downtown network;2014
+282;283;9;Downtown network;2021
+283;284;9;Downtown network;2021
+283;305;9;Downtown network;2021
+283;306;9;Downtown network;2021
+284;285;9;Downtown network;2008
+284;286;9;Downtown network;2008
+284;304;9;Downtown network;2008
+284;368;9;Downtown network;2020
+286;287;9;Downtown network;2008
+287;288;9;Downtown network;2008
+288;289;9;Downtown network;2008
+289;290;9;Downtown network;2008
+290;291;9;Downtown network;2008
+291;292;9;Downtown network;2008
+291;295;9;Downtown network;2008
+291;318;9;Downtown network;2008
+291;340;9;Downtown network;2008
+291;341;9;Downtown network;2023
+292;293;9;Downtown network;1976
+293;294;9;Downtown network;2019
+294;295;9;Downtown network;2019
+294;296;9;Downtown network;2019
+294;336;9;Downtown network;2022
+296;297;9;Downtown network;2008
+296;301;9;Downtown network;1985
+297;298;9;Downtown network;2008
+297;338;9;Downtown network;2022
+298;299;9;Downtown network;2002
+299;300;9;Downtown network;2002
+300;301;9;Downtown network;1985
+301;302;9;Downtown network;1972
+301;339;9;Downtown network;1972
+302;303;9;Downtown network;1972
+304;305;9;Downtown network;1972
+304;367;9;Downtown network;1972
+306;307;9;Downtown network;1972
+309;310;9;Downtown network;1997
+311;312;9;Downtown network;2009
+312;313;9;Downtown network;1999
+313;314;9;Downtown network;1972
+314;315;9;Downtown network;1994
+316;317;9;Downtown network;1994
+316;318;9;Downtown network;1994
+318;319;9;Downtown network;1972
+318;339;9;Downtown network;1972
+319;320;9;Downtown network;2022
+319;335;9;Downtown network;2022
+320;321;9;Downtown network;2022
+321;322;9;Downtown network;1972
+322;323;9;Downtown network;1972
+323;324;9;Downtown network;1972
+323;328;9;Downtown network;1997
+324;325;9;Downtown network;1991
+324;327;9;Downtown network;1991
+324;335;9;Downtown network;2022
+324;336;9;Downtown network;2022
+325;326;9;Downtown network;1991
+326;327;9;Downtown network;1991
+328;329;9;Downtown network;1997
+328;331;9;Downtown network;1997
+328;333;9;Downtown network;1997
+329;330;9;Downtown network;1972
+330;331;9;Downtown network;1972
+331;332;9;Downtown network;1972
+333;334;9;Downtown network;1972
+334;335;9;Downtown network;2022
+336;337;9;Downtown network;2022
+337;338;9;Downtown network;2022
+340;341;9;Downtown network;2023
+341;342;9;Downtown network;2023
+341;366;9;Downtown network;2023
+342;343;9;Downtown network;1978
+343;344;9;Downtown network;2012
+344;345;9;Downtown network;2012
+345;346;9;Downtown network;1978
+346;347;9;Downtown network;1972
+347;348;9;Downtown network;1978
+348;349;9;Downtown network;1978
+349;350;9;Downtown network;1972
+350;351;9;Downtown network;2004
+351;352;9;Downtown network;2004
+351;353;9;Downtown network;2004
+353;354;9;Downtown network;2017
+354;355;9;Downtown network;2017
+354;368;9;Downtown network;2020
+354;373;9;Downtown network;2017
+355;356;9;Downtown network;2017
+356;357;9;Downtown network;2017
+357;358;9;Downtown network;2017
+358;359;9;Downtown network;2011
+359;360;9;Downtown network;2011
+360;361;9;Downtown network;1972
+361;362;9;Downtown network;1972
+362;363;9;Downtown network;2012
+363;364;9;Downtown network;2012
+364;365;9;Downtown network;1978
+365;366;9;Downtown network;1972
+368;369;9;Downtown network;2020
+368;371;9;Downtown network;2020
+368;372;9;Downtown network;2020
+369;370;9;Downtown network;2020
+370;371;9;Downtown network;1980

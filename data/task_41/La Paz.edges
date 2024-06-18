@@ -1,0 +1,21 @@
+# edge data for La Paz, Bolivia
+from_id;to_id;mode;line;year
+1;2;0;Línea Verde;2014
+2;3;0;Línea Verde;2014
+3;25;0;Línea Amarilla;2014
+4;5;0;Línea Roja;2014
+6;7;0;Línea Plateada;2019
+7;11;0;Línea Morada;2018
+7;12;0;Línea Morada;2018
+8;9;0;Línea Naranja;2017
+9;10;0;Línea Naranja;2017
+13;14;0;Línea Celeste;2018
+14;15;0;Línea Celeste;2018
+16;17;0;Línea Café;2018
+18;19;0;Línea Blanca;2018
+19;20;0;Línea Blanca;2018
+21;22;0;Línea Azul;2017
+22;23;0;Línea Azul;2017
+23;24;0;Línea Azul;2017
+25;26;0;Línea Amarilla;2014
+26;27;0;Línea Amarilla;2014

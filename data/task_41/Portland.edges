@@ -1,0 +1,169 @@
+# edge data for Portland, United States
+from_id;to_id;mode;line;year
+1;2;3;WES Commuter Rail;2009
+2;3;3;WES Commuter Rail;2009
+3;4;3;WES Commuter Rail;2009
+5;6;5;MAX Red Line;1990
+6;7;5;MAX Red Line;1990
+7;8;5;MAX Red Line;1998
+8;9;5;MAX Red Line;1998
+8;76;5;MAX Blue Line;1998
+9;10;5;MAX Red Line;1998
+10;11;5;MAX Red Line;1998
+11;12;5;MAX Red Line;1997
+12;13;5;MAX Red Line;1997
+13;14;5;MAX Red Line;1986
+14;15;5;MAX Red Line;1990
+15;16;5;MAX Red Line;1990
+16;17;5;MAX Red Line;1986
+17;18;5;MAX Red Line;1986
+18;19;5;MAX Red Line;1986
+19;20;5;MAX Red Line;1986
+20;21;5;MAX Red Line;1990
+21;22;5;MAX Red Line;1990
+22;23;5;MAX Red Line;1986
+23;24;5;MAX Red Line;1986
+24;25;5;MAX Red Line;1986
+25;26;5;MAX Red Line;1986
+26;27;5;MAX Red Line;1986
+27;28;5;MAX Red Line;2001
+27;75;5;MAX Blue Line;1986
+28;29;5;MAX Red Line;2007
+29;30;5;MAX Red Line;2007
+30;31;5;MAX Red Line;2001
+32;33;5;MAX Yellow Line;2009
+32;35;5;MAX Yellow Line;2009
+32;36;5;MAX Yellow Line;2009
+33;34;5;MAX Yellow Line;2009
+33;55;5;MAX Green Line;2009
+34;35;5;MAX Yellow Line;2009
+36;37;5;MAX Yellow Line;2009
+37;38;5;MAX Yellow Line;2009
+38;39;5;MAX Yellow Line;2009
+38;56;5;MAX Green Line;2009
+39;40;5;MAX Yellow Line;2004
+40;41;5;MAX Yellow Line;2004
+41;42;5;MAX Yellow Line;2004
+42;43;5;MAX Yellow Line;2004
+43;44;5;MAX Yellow Line;2004
+44;45;5;MAX Yellow Line;2004
+45;46;5;MAX Yellow Line;2004
+46;47;5;MAX Yellow Line;2004
+47;48;5;MAX Yellow Line;2004
+49;50;5;MAX Green Line;2009
+50;51;5;MAX Green Line;2009
+51;52;5;MAX Green Line;2009
+52;53;5;MAX Green Line;2009
+53;54;5;MAX Green Line;2009
+54;55;5;MAX Green Line;2009
+55;89;5;MAX Orange Line;2015
+56;57;5;MAX Green Line;2009
+57;58;5;MAX Green Line;2009
+58;59;5;MAX Green Line;2009
+59;60;5;MAX Green Line;2009
+60;61;5;MAX Green Line;2009
+61;62;5;MAX Green Line;2009
+62;63;5;MAX Green Line;2009
+64;65;5;MAX Blue Line;1986
+65;66;5;MAX Blue Line;1986
+66;67;5;MAX Blue Line;2010
+67;68;5;MAX Blue Line;2010
+68;69;5;MAX Blue Line;1986
+69;70;5;MAX Blue Line;1986
+70;71;5;MAX Blue Line;1986
+71;72;5;MAX Blue Line;1986
+72;73;5;MAX Blue Line;1986
+73;74;5;MAX Blue Line;1986
+74;75;5;MAX Blue Line;1986
+76;77;5;MAX Blue Line;1998
+77;78;5;MAX Blue Line;1998
+78;79;5;MAX Blue Line;1998
+79;80;5;MAX Blue Line;1998
+80;81;5;MAX Blue Line;1998
+81;82;5;MAX Blue Line;1998
+82;83;5;MAX Blue Line;1998
+83;84;5;MAX Blue Line;1998
+84;85;5;MAX Blue Line;1998
+85;86;5;MAX Blue Line;1998
+86;87;5;MAX Blue Line;1998
+87;88;5;MAX Blue Line;1998
+89;90;5;MAX Orange Line;2015
+90;91;5;MAX Orange Line;2015
+91;92;5;MAX Orange Line;2015
+92;93;5;MAX Orange Line;2015
+93;94;5;MAX Orange Line;2015
+94;95;5;MAX Orange Line;2015
+95;96;5;MAX Orange Line;2015
+96;97;5;MAX Orange Line;2015
+97;98;5;MAX Orange Line;2015
+99;100;7;Portland Aerial Tram;2007
+101;102;9;North South Line;2001
+102;103;9;North South Line;2001
+103;104;9;North South Line;2001
+104;105;9;North South Line;2001
+105;106;9;North South Line;2001
+106;107;9;North South Line;2001
+107;108;9;North South Line;2001
+108;109;9;North South Line;2001
+109;110;9;North South Line;2001
+110;111;9;North South Line;2001
+110;155;9;B Loop;2012
+111;112;9;North South Line;2001
+112;113;9;North South Line;2001
+113;114;9;North South Line;2001
+114;115;9;North South Line;2001
+115;116;9;North South Line;2001
+116;117;9;North South Line;2001
+117;118;9;North South Line;2001
+118;119;9;North South Line;2001
+119;120;9;North South Line;2001
+120;121;9;North South Line;2001
+121;122;9;North South Line;2001
+121;155;9;B Loop;2012
+121;156;9;B Loop;2012
+122;123;9;North South Line;2001
+122;140;9;A Loop;2012
+123;124;9;North South Line;2001
+124;125;9;North South Line;2001
+125;126;9;North South Line;2001
+126;127;9;North South Line;2001
+127;128;9;North South Line;2001
+128;129;9;North South Line;2001
+129;130;9;North South Line;2001
+130;131;9;North South Line;2005
+131;132;9;North South Line;2005
+132;133;9;North South Line;2005
+133;134;9;North South Line;2006
+134;135;9;North South Line;2006
+134;154;9;A Loop;2015
+135;136;9;North South Line;2007
+135;139;9;North South Line;2007
+136;137;9;North South Line;2007
+137;138;9;North South Line;2007
+138;139;9;North South Line;2007
+140;141;9;A Loop;2012
+141;142;9;A Loop;2012
+142;143;9;A Loop;2012
+143;144;9;A Loop;2012
+144;145;9;A Loop;2012
+145;146;9;A Loop;2012
+146;147;9;A Loop;2012
+147;148;9;A Loop;2012
+148;149;9;A Loop;2012
+149;150;9;A Loop;2012
+150;151;9;A Loop;2012
+151;152;9;A Loop;2012
+152;153;9;A Loop;2012
+153;154;9;A Loop;2015
+154;167;9;B Loop;2015
+156;157;9;B Loop;2012
+157;158;9;B Loop;2012
+158;159;9;B Loop;2012
+159;160;9;B Loop;2012
+160;161;9;B Loop;2012
+161;162;9;B Loop;2012
+162;163;9;B Loop;2012
+163;164;9;B Loop;2012
+164;165;9;B Loop;2012
+165;166;9;B Loop;2012
+166;167;9;B Loop;2012

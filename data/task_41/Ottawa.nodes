@@ -1,0 +1,15 @@
+# node data for Ottawa, Canada
+id;name;latitude;longitude;mode;year
+1;Tunney's Pasture O-Train East/Est;45.4037118;-75.7352128;5;2019
+2;Bayview O-Train West/Ouest;45.4093624;-75.7221505;5;2019
+3;Pimisi O-Train West/Ouest;45.4137261;-75.7134687;5;2019
+4;Lyon;45.4188602;-75.7047637;5;2019
+5;Parliament/Parlement B;45.4212983;-75.6991027;5;2019
+6;Rideau O-Train West/Ouest;45.4263142;-75.6915036;5;2019
+7;UOttawa O-Train West/Ouest;45.4205805;-75.6823488;5;2019
+8;Lees O-Train West/Ouest;45.4165481;-75.6708992;5;2019
+9;Hurdman O-Train West/Ouest;45.4123777;-75.6642459;5;2019
+10;Tremblay O-Train West/Ouest;45.4167808;-75.6536678;5;2019
+11;St-Laurent O-Train West/Ouest;45.4206771;-75.6373878;5;2019
+12;Cyrville O-Train West/Ouest;45.4227016;-75.6264401;5;2019
+13;Blair O-Train West/Ouest;45.4310388;-75.6083057;5;2019

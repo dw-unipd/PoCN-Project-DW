@@ -1,0 +1,142 @@
+# edge data for Nantes, France
+from_id;to_id;mode;line;year
+1;2;5;Ligne 1;2019
+3;4;5;Ligne 1;2000
+3;15;5;Ligne 1;2000
+3;16;5;Ligne 1;2000
+4;5;5;Ligne 1;2000
+5;6;5;Ligne 1;2000
+5;12;5;Ligne 1;2000
+6;7;5;Ligne 1;2000
+6;13;5;Ligne 1;2000
+7;8;5;Ligne 1;2000
+8;9;5;Ligne 1;2000
+9;10;5;Ligne 1;2000
+10;11;5;Ligne 1;2000
+11;12;5;Ligne 1;2000
+13;14;5;Ligne 1;2000
+14;15;5;Ligne 1;2000
+16;17;5;Ligne 1;1985
+17;18;5;Ligne 1;1985
+18;19;5;Ligne 1;1985
+19;20;5;Ligne 1;1985
+20;21;5;Ligne 1;1985
+21;22;5;Ligne 1;1985
+22;23;5;Ligne 1;1985
+23;24;5;Ligne 1;1985
+24;25;5;Ligne 1;1985
+25;26;5;Ligne 1;1985
+26;27;5;Ligne 1;1985
+27;28;5;Ligne 1;1985
+28;29;5;Ligne 1;1985
+29;30;5;Ligne 1;1985
+30;31;5;Ligne 1;1985
+31;32;5;Ligne 1;1985
+32;33;5;Ligne 1;1985
+33;34;5;Ligne 1;2012
+34;35;5;Ligne 1;2012
+35;36;5;Ligne 1;1989
+37;38;5;Ligne 2;2007
+37;62;5;Ligne 2;2007
+38;39;5;Ligne 2;1992
+39;40;5;Ligne 2;1992
+40;41;5;Ligne 2;1992
+41;42;5;Ligne 2;1992
+42;43;5;Ligne 2;1992
+43;44;5;Ligne 2;1992
+44;45;5;Ligne 2;1992
+45;46;5;Ligne 2;1992
+46;47;5;Ligne 2;1994
+47;48;5;Ligne 2;1994
+48;49;5;Ligne 2;1994
+49;50;5;Ligne 2;1994
+50;51;5;Ligne 2;1994
+51;52;5;Ligne 2;1994
+52;53;5;Ligne 2;1994
+53;54;5;Ligne 2;1994
+54;55;5;Ligne 2;1994
+55;56;5;Ligne 2;1994
+56;57;5;Ligne 2;1994
+57;58;5;Ligne 2;1994
+58;59;5;Ligne 2;1994
+59;60;5;Ligne 2;1994
+60;61;5;Ligne 2;1994
+62;63;5;Ligne 2;1994
+63;64;5;Ligne 2;1994
+64;65;5;Ligne 2;1994
+65;66;5;Ligne 2;1994
+66;67;5;Ligne 2;1994
+68;69;5;Ligne 3;2007
+68;76;5;Ligne 3;2007
+69;77;5;Ligne 3;2007
+70;71;5;Ligne 3;2007
+71;72;5;Ligne 3;2007
+72;73;5;Ligne 3;2007
+73;74;5;Ligne 3;2007
+74;75;5;Ligne 3;2007
+75;76;5;Ligne 3;2007
+77;78;5;Ligne 3;2007
+78;79;5;Ligne 3;2007
+79;80;5;Ligne 3;2007
+80;81;5;Ligne 3;2007
+81;82;5;Ligne 3;2007
+83;84;5;Ligne 3;2009
+84;85;5;Ligne 3;2009
+85;86;5;Ligne 3;2009
+86;87;5;Ligne 3;2009
+87;88;5;Ligne 3;2009
+88;89;5;Ligne 3;2009
+89;90;5;Ligne 3;2000
+90;91;5;Ligne 3;2000
+91;92;5;Ligne 3;2000
+92;93;5;Ligne 3;2000
+93;94;5;Ligne 3;2000
+94;95;5;Ligne 3;2000
+95;96;5;Ligne 3;2000
+96;97;5;Ligne 3;2000
+97;98;5;Ligne 3;2000
+98;99;5;Ligne 3;2000
+100;101;6;Ligne 4;2006
+101;102;6;Ligne 4;2006
+102;103;6;Ligne 4;2006
+103;104;6;Ligne 4;2006
+104;105;6;Ligne 4;2006
+105;106;6;Ligne 4;2006
+106;107;6;Ligne 4;2006
+107;108;6;Ligne 4;2006
+108;109;6;Ligne 4;2006
+109;110;6;Ligne 4;2006
+110;111;6;Ligne 4;2006
+111;112;6;Ligne 4;2006
+112;113;6;Ligne 4;2006
+113;114;6;Ligne 4;2006
+115;116;6;Ligne 5;2020
+116;117;6;Ligne 5;2020
+118;119;0;N1;2005
+120;121;0;Passeur Erdre;1997
+123;124;0;N3;2006
+124;125;0;N3;2007
+125;126;0;N3;2007
+126;127;0;N3;2005
+127;128;0;N3;2005
+130;131;0;N2;2020
+131;132;0;Parc des Chantiers - Gare maritime - Hangar à bananes - Arbre aux hérons - Trentemoult Roquios;2023
+133;134;0;Doulon - Gare Maritime;1879
+134;135;0;Doulon - Gare Maritime;1879
+137;138;3;Nantes - Clisson;2011
+137;140;3;Nantes - Clisson;2011
+138;139;3;Nantes - Clisson;2011
+140;141;3;Nantes - Clisson;2011
+141;142;3;Nantes - Clisson;2011
+142;143;3;Nantes - Clisson;2011
+144;145;3;Nantes - Châteaubriant;2014
+144;149;3;Nantes - Châteaubriant;2014
+144;150;3;Nantes - Châteaubriant;2014
+145;146;3;Nantes - Châteaubriant;2014
+145;147;3;Nantes - Châteaubriant;2014
+145;148;3;Nantes - Châteaubriant;2014
+146;147;3;Nantes - Châteaubriant;2014
+148;149;3;Nantes - Châteaubriant;2014
+150;151;3;Nantes - Châteaubriant;2014
+151;152;3;Nantes - Châteaubriant;2014
+152;153;3;Nantes - Châteaubriant;2014

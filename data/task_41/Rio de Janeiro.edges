@@ -1,0 +1,92 @@
+# edge data for Rio de Janeiro, Brazil
+from_id;to_id;mode;line;year
+2;3;5;Linha 1;2016
+3;4;5;Linha 1;2016
+4;5;5;Linha 1;2016
+5;6;5;Linha 1;2017
+5;25;5;Linha 3;2019
+6;7;5;Linha 1;2017
+7;8;5;Linha 1;2017
+8;9;5;Linha 1;2016
+8;12;5;Linha 2;2016
+9;10;5;Linha 1;2016
+10;11;5;Linha 1;2016
+11;12;5;Linha 1;2016
+12;13;5;Linha 1;2016
+13;14;5;Linha 1;2016
+14;15;5;Linha 1;2017
+14;16;5;Linha 1;2016
+16;17;5;Linha 1;2016
+17;24;5;Linha 2;2017
+18;19;5;Linha 2;2017
+19;20;5;Linha 2;2017
+20;21;5;Linha 2;2017
+21;22;5;Linha 2;2019
+22;23;5;Linha 2;2019
+22;26;5;Linha 3;2019
+23;24;5;Linha 2;2017
+25;26;5;Linha 3;2019
+27;28;4;Linha 2;1998
+28;29;4;Linha 2;1998
+29;30;4;Linha 2;1998
+30;31;4;Linha 2;1998
+31;32;4;Linha 2;1998
+32;33;4;Linha 2;1998
+33;34;4;Linha 2;1996
+34;35;4;Linha 2;1996
+35;36;4;Linha 2;1991
+36;37;4;Linha 2;1983
+37;38;4;Linha 2;1983
+38;39;4;Linha 2;1988
+39;40;4;Linha 2;1988
+40;41;4;Linha 2;1981
+41;42;4;Linha 2;2010
+42;43;4;Linha 2;2010
+43;44;4;Linha 2;1979
+43;65;4;Linha 1;1979
+44;45;4;Linha 2;1980
+45;46;4;Linha 2;1981
+46;47;4;Linha 2;1981
+47;48;4;Linha 2;1979
+48;49;4;Linha 2;1981
+49;50;4;Linha 2;1981
+50;51;4;Linha 2;1981
+51;52;4;Linha 2;1981
+52;66;4;Linha 1;1998
+53;54;4;Linha 4;2016
+54;55;4;Linha 4;2016
+55;56;4;Linha 4;2016
+56;57;4;Linha 4;2016
+57;58;4;Linha 4;2016
+58;59;4;Linha 4;2009
+58;68;4;Linha 1;2009
+60;61;4;Linha 1;2014
+61;62;4;Linha 1;1982
+62;63;4;Linha 1;1982
+63;64;4;Linha 1;1982
+64;65;4;Linha 1;1979
+66;67;4;Linha 1;2002
+67;68;4;Linha 1;2007
+69;70;4;Ramal Japeri;1900
+70;71;4;Ramal Japeri;1873
+70;88;4;Ramal Deodoro;1873
+70;89;4;Ramal Deodoro;1907
+71;89;4;Ramal Deodoro;1907
+71;90;4;Ramal Belford Roxo;1914
+72;73;4;Ramal Santa Cruz;1858
+73;74;4;Ramal Santa Cruz;1858
+74;75;4;Ramal Santa Cruz;1858
+75;76;4;Ramal Santa Cruz;1858
+76;77;4;Ramal Santa Cruz;1858
+77;78;4;Ramal Santa Cruz;1858
+78;79;4;Ramal Santa Cruz;1858
+79;80;4;Ramal Santa Cruz;1858
+80;81;4;Ramal Santa Cruz;1858
+81;82;4;Ramal Santa Cruz;1858
+82;83;4;Ramal Santa Cruz;1858
+83;84;4;Ramal Santa Cruz;1858
+84;85;4;Ramal Santa Cruz;1858
+85;86;4;Ramal Santa Cruz;1858
+87;88;4;Ramal Deodoro;1858
+91;92;10;Praça XV–Araribóia;1858
+91;93;10;Praça XV–Charitas;1858

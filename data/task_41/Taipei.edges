@@ -1,0 +1,224 @@
+# edge data for Taipei, Taiwan
+from_id;to_id;mode;line;year
+1;2;4;Tamsui-Xinyi Line;1997
+2;3;4;Tamsui-Xinyi Line;1997
+2;8;4;Tamsui-Xinyi Line;1997
+2;9;4;Tamsui-Xinyi Line;1997
+3;4;4;Tamsui-Xinyi Line;1997
+4;5;4;Tamsui-Xinyi Line;1997
+5;6;4;Tamsui-Xinyi Line;1997
+6;7;4;Tamsui-Xinyi Line;1997
+7;8;4;Tamsui-Xinyi Line;1997
+9;10;4;Tamsui-Xinyi Line;1997
+10;11;4;Tamsui-Xinyi Line;1997
+11;12;4;Tamsui-Xinyi Line;1997
+12;13;4;Tamsui-Xinyi Line;1997
+13;14;4;Tamsui-Xinyi Line;1997
+14;15;4;Tamsui-Xinyi Line;1997
+15;16;4;Tamsui-Xinyi Line;1997
+16;17;4;Tamsui-Xinyi Line;1997
+17;18;4;Tamsui-Xinyi Line;1997
+18;19;4;Tamsui-Xinyi Line;1997
+19;20;4;Tamsui-Xinyi Line;1997
+20;21;4;Tamsui-Xinyi Line;1998
+21;22;4;Tamsui-Xinyi Line;1998
+22;23;4;Tamsui-Xinyi Line;1998
+22;37;4;Tamsui-Xinyi Line;2013
+23;24;4;Tamsui-Xinyi Line;1998
+23;36;4;Tamsui-Xinyi Line;1999
+23;80;4;Zhonghe-Xinlu Line;2012
+24;25;4;Tamsui-Xinyi Line;1998
+25;26;4;Tamsui-Xinyi Line;1998
+26;27;4;Tamsui-Xinyi Line;1998
+27;28;4;Tamsui-Xinyi Line;2004
+28;29;4;Tamsui-Xinyi Line;2004
+29;30;4;Tamsui-Xinyi Line;1999
+30;31;4;Tamsui-Xinyi Line;1999
+31;32;4;Tamsui-Xinyi Line;1999
+32;33;4;Tamsui-Xinyi Line;1999
+33;34;4;Tamsui-Xinyi Line;1999
+34;35;4;Tamsui-Xinyi Line;1999
+35;36;4;Tamsui-Xinyi Line;1999
+36;64;4;Songshan-Xindian Line;1999
+37;38;4;Tamsui-Xinyi Line;2013
+38;39;4;Tamsui-Xinyi Line;2013
+39;40;4;Tamsui-Xinyi Line;2024
+41;42;5;Wenhu Line;1996
+42;43;5;Wenhu Line;1996
+43;44;5;Wenhu Line;1996
+44;45;5;Wenhu Line;1996
+45;46;5;Wenhu Line;1996
+46;47;5;Wenhu Line;1996
+47;48;5;Wenhu Line;1996
+48;49;5;Wenhu Line;1996
+49;50;5;Wenhu Line;1996
+50;51;5;Wenhu Line;1996
+51;52;5;Wenhu Line;2009
+52;53;5;Wenhu Line;2009
+53;54;5;Wenhu Line;2009
+54;55;5;Wenhu Line;2009
+55;56;5;Wenhu Line;2009
+56;57;5;Wenhu Line;2009
+57;58;5;Wenhu Line;2009
+58;59;5;Wenhu Line;2009
+59;60;5;Wenhu Line;2009
+60;61;5;Wenhu Line;2009
+61;62;5;Wenhu Line;2009
+62;63;5;Wenhu Line;2009
+64;65;4;Songshan-Xindian Line;2013
+65;66;4;Songshan-Xindian Line;2013
+66;67;4;Songshan-Xindian Line;2000
+67;68;4;Songshan-Xindian Line;2014
+68;69;4;Songshan-Xindian Line;2014
+69;70;4;Songshan-Xindian Line;2014
+70;71;4;Songshan-Xindian Line;2014
+71;72;4;Songshan-Xindian Line;2014
+72;73;4;Songshan-Xindian Line;2014
+73;74;4;Songshan-Xindian Line;2014
+75;76;4;Zhonghe-Xinlu Line;2010
+76;77;4;Zhonghe-Xinlu Line;2010
+77;78;4;Zhonghe-Xinlu Line;2010
+78;79;4;Zhonghe-Xinlu Line;2010
+80;81;4;Zhonghe-Xinlu Line;2012
+81;82;4;Zhonghe-Xinlu Line;2010
+82;83;4;Zhonghe-Xinlu Line;2010
+83;84;4;Zhonghe-Xinlu Line;2010
+84;85;4;Zhonghe-Xinlu Line;2010
+85;86;4;Zhonghe-Xinlu Line;2012
+86;87;4;Zhonghe-Xinlu Line;2012
+87;88;4;Zhonghe-Xinlu Line;2012
+88;89;4;Zhonghe-Xinlu Line;2012
+89;90;4;Zhonghe-Xinlu Line;2012
+90;91;4;Zhonghe-Xinlu Line;2012
+91;92;4;Zhonghe-Xinlu Line;2012
+92;93;4;Zhonghe-Xinlu Line;2013
+93;94;4;Zhonghe-Xinlu Line;2013
+95;96;4;Bannan Line;2011
+96;97;4;Bannan Line;2008
+97;98;4;Bannan Line;2000
+98;99;4;Bannan Line;2000
+99;100;4;Bannan Line;2000
+100;101;4;Bannan Line;1999
+101;102;4;Bannan Line;1999
+102;103;4;Bannan Line;1999
+103;104;4;Bannan Line;1999
+104;105;4;Bannan Line;1999
+105;106;4;Bannan Line;1999
+106;107;4;Bannan Line;2000
+107;108;4;Bannan Line;2000
+108;109;4;Bannan Line;2006
+109;110;4;Bannan Line;2006
+110;111;4;Bannan Line;2006
+111;112;4;Bannan Line;2006
+112;113;4;Bannan Line;2006
+113;114;4;Bannan Line;2006
+114;115;4;Bannan Line;2015
+116;117;5;Circular Line;2029
+117;118;5;Circular Line;2029
+118;119;5;Circular Line;2029
+119;120;5;Circular Line;2029
+120;121;5;Circular Line;2029
+121;122;5;Circular Line;2029
+122;123;5;Circular Line;2020
+123;124;5;Circular Line;2020
+124;125;5;Circular Line;2020
+125;126;5;Circular Line;2020
+126;127;5;Circular Line;2020
+127;128;5;Circular Line;2020
+128;129;5;Circular Line;2020
+129;130;5;Circular Line;2020
+130;131;5;Circular Line;2020
+131;132;5;Circular Line;2020
+132;133;5;Circular Line;2020
+133;134;5;Circular Line;2020
+134;135;5;Circular Line;2020
+135;136;5;Circular Line;2029
+136;137;5;Circular Line;2029
+137;138;5;Circular Line;2029
+138;139;5;Circular Line;2029
+139;140;5;Circular Line;2029
+140;141;5;Circular Line;2029
+141;142;5;Circular Line;2029
+142;143;5;Circular Line;2029
+143;144;5;Circular Line;2029
+144;145;5;Circular Line;2029
+145;146;5;Circular Line;2029
+146;147;5;Circular Line;2029
+148;149;5;Wanda-Zhonghe-Shulin Line;2025
+149;150;5;Wanda-Zhonghe-Shulin Line;2025
+150;151;5;Wanda-Zhonghe-Shulin Line;2025
+151;152;5;Wanda-Zhonghe-Shulin Line;2025
+152;153;5;Wanda-Zhonghe-Shulin Line;2025
+153;154;5;Wanda-Zhonghe-Shulin Line;2025
+154;155;5;Wanda-Zhonghe-Shulin Line;2025
+155;156;5;Wanda-Zhonghe-Shulin Line;2025
+157;158;1;Taiwan HSR Line;2007
+158;159;1;Taiwan HSR Line;2007
+159;160;1;Taiwan HSR Line;2007
+161;162;5;Danhai Light Rail;2019
+162;163;5;Danhai Light Rail;2019
+163;164;5;Danhai Light Rail;2019
+164;165;5;Danhai Light Rail;2019
+165;166;5;Danhai Light Rail;2019
+166;167;5;Danhai Light Rail;2019
+167;168;5;Danhai Light Rail;2019
+168;169;5;Danhai Light Rail;2019
+169;170;5;Danhai Light Rail;2019
+170;171;5;Danhai Light Rail;2021
+171;172;5;Danhai Light Rail;2021
+172;173;5;Danhai Light Rail;2021
+174;175;5;Ankeng Light Rail;2023
+175;176;5;Ankeng Light Rail;2023
+176;177;5;Ankeng Light Rail;2023
+177;178;5;Ankeng Light Rail;2023
+178;179;5;Ankeng Light Rail;2023
+179;180;5;Ankeng Light Rail;2023
+180;181;5;Ankeng Light Rail;2023
+181;182;5;Ankeng Light Rail;2023
+183;184;5;Sanying Line;2024
+184;185;5;Sanying Line;2024
+185;186;5;Sanying Line;2024
+186;187;5;Sanying Line;2024
+187;188;5;Sanying Line;2024
+188;189;5;Sanying Line;2024
+189;190;5;Sanying Line;2024
+190;191;5;Sanying Line;2024
+191;192;5;Sanying Line;2024
+192;193;5;Sanying Line;2024
+193;194;5;Sanying Line;2024
+195;196;5;Green Line;2025
+196;197;5;Green Line;2025
+197;198;5;Green Line;2025
+198;199;5;Green Line;2025
+199;200;5;Green Line;2025
+200;201;5;Green Line;2025
+201;202;5;Green Line;2025
+202;203;5;Green Line;2025
+203;204;5;Green Line;2025
+204;205;5;Green Line;2025
+205;206;5;Green Line;2025
+206;207;5;Green Line;2025
+207;208;5;Green Line;2025
+209;210;3;Taoyuan Airport MRT;2017
+210;211;3;Taoyuan Airport MRT;2017
+211;212;3;Taoyuan Airport MRT;2017
+212;213;3;Taoyuan Airport MRT;2017
+213;214;3;Taoyuan Airport MRT;2017
+214;215;3;Taoyuan Airport MRT;2017
+215;216;3;Taoyuan Airport MRT;2017
+216;217;3;Taoyuan Airport MRT;2017
+217;218;3;Taoyuan Airport MRT;2017
+218;219;3;Taoyuan Airport MRT;2017
+219;220;3;Taoyuan Airport MRT;2017
+220;221;3;Taoyuan Airport MRT;2017
+221;222;3;Taoyuan Airport MRT;2024
+222;223;3;Taoyuan Airport MRT;2024
+223;224;3;Taoyuan Airport MRT;2017
+224;225;3;Taoyuan Airport MRT;2017
+225;226;3;Taoyuan Airport MRT;2017
+226;227;3;Taoyuan Airport MRT;2017
+227;228;3;Taoyuan Airport MRT;2017
+228;229;3;Taoyuan Airport MRT;2017
+229;230;3;Taoyuan Airport MRT;2017
+230;231;3;Taoyuan Airport MRT;2022
+231;232;3;Taoyuan Airport MRT;2028

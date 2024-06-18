@@ -1,0 +1,6 @@
+# edge data for Caracas, Venezuela
+from_id;to_id;mode;line;year
+1;2;0;Línea 3 Metro de Caracas;2004
+1;4;0;Línea 3 Metro de Caracas;2004
+2;3;0;Línea 3 Metro de Caracas;2004
+3;4;0;Línea 3 Metro de Caracas;2004

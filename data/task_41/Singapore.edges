@@ -1,0 +1,259 @@
+# edge data for Singapore, Singapore
+from_id;to_id;mode;line;year
+1;2;4;Branch Line;1990
+1;5;4;North South Line;1996
+2;3;4;Branch Line;1990
+3;4;4;Branch Line;1990
+5;6;4;North South Line;1996
+6;7;4;North South Line;1996
+7;8;4;North South Line;1996
+8;9;4;North South Line;1996
+9;10;4;North South Line;1996
+10;11;4;North South Line;2020
+11;12;4;North South Line;2020
+12;13;4;North South Line;1989
+13;14;4;North South Line;1989
+14;15;4;North South Line;1987
+15;16;4;North South Line;1987
+16;17;4;North South Line;1987
+17;18;4;North South Line;1987
+18;19;4;North South Line;1987
+19;20;4;North South Line;1987
+20;21;4;North South Line;1987
+21;22;4;North South Line;1987
+22;23;4;North South Line;1987
+23;24;4;North South Line;1987
+24;25;4;North South Line;1987
+25;26;4;North South Line;1990
+26;27;4;North South Line;2014
+28;29;5;Bukit Panjang LRT;1999
+29;30;5;Bukit Panjang LRT;1999
+29;36;5;Bukit Panjang LRT;1999
+29;37;5;Bukit Panjang LRT;1999
+30;31;5;Bukit Panjang LRT;1999
+31;32;5;Bukit Panjang LRT;1999
+32;33;5;Bukit Panjang LRT;1999
+33;34;5;Bukit Panjang LRT;1999
+34;35;5;Bukit Panjang LRT;1999
+35;36;5;Bukit Panjang LRT;1999
+37;38;5;Bukit Panjang LRT;1999
+38;39;5;Bukit Panjang LRT;1999
+39;40;5;Bukit Panjang LRT;1999
+40;41;5;Bukit Panjang LRT;1999
+42;43;4;Circle Line;2026
+43;44;4;Circle Line;2026
+44;45;4;Circle Line;2026
+45;46;4;Circle Line;2026
+46;47;4;Circle Line;2011
+47;48;4;Circle Line;2011
+48;49;4;Circle Line;2011
+49;50;4;Circle Line;2011
+50;51;4;Circle Line;2011
+51;52;4;Circle Line;2011
+52;53;4;Circle Line;2011
+53;54;4;Circle Line;2011
+54;55;4;Circle Line;2011
+55;56;4;Circle Line;2011
+56;57;4;Circle Line;2011
+57;58;4;Circle Line;2011
+58;59;4;Circle Line;2009
+59;60;4;Circle Line;2009
+60;61;4;Circle Line;2009
+61;62;4;Circle Line;2009
+62;63;4;Circle Line;2010
+63;64;4;Circle Line;2010
+64;65;4;Circle Line;2010
+65;66;4;Circle Line;2010
+66;67;4;Circle Line;2010
+67;68;4;Circle Line;2010
+68;69;4;Circle Line;2010
+69;70;4;Circle Line;2010
+70;71;4;Circle Line;2010
+71;72;4;Circle Line;2010
+72;73;4;Circle Line;2010
+74;75;4;Thomson-East Coast Line;2020
+75;76;4;Thomson-East Coast Line;2020
+76;77;4;Thomson-East Coast Line;2021
+77;78;4;Thomson-East Coast Line;2021
+78;79;4;Thomson-East Coast Line;2021
+79;80;4;Thomson-East Coast Line;2021
+80;81;4;Thomson-East Coast Line;2021
+81;82;4;Thomson-East Coast Line;2021
+82;83;4;Thomson-East Coast Line;2027
+83;84;4;Thomson-East Coast Line;2027
+84;85;4;Thomson-East Coast Line;2023
+85;86;4;Thomson-East Coast Line;2023
+86;87;4;Thomson-East Coast Line;2023
+87;88;4;Thomson-East Coast Line;2023
+88;89;4;Thomson-East Coast Line;2023
+89;90;4;Thomson-East Coast Line;2023
+90;91;4;Thomson-East Coast Line;2023
+91;92;4;Thomson-East Coast Line;2023
+92;93;4;Thomson-East Coast Line;2027
+93;94;4;Thomson-East Coast Line;2027
+94;95;4;Thomson-East Coast Line;2027
+95;96;4;Thomson-East Coast Line;2027
+96;97;4;Thomson-East Coast Line;2024
+97;98;4;Thomson-East Coast Line;2024
+98;99;4;Thomson-East Coast Line;2024
+99;100;4;Thomson-East Coast Line;2024
+100;101;4;Thomson-East Coast Line;2024
+101;102;4;Thomson-East Coast Line;2024
+102;103;4;Thomson-East Coast Line;2025
+103;104;4;Thomson-East Coast Line;2025
+105;106;4;East West Line;2017
+106;107;4;East West Line;2017
+107;108;4;East West Line;2017
+108;109;4;East West Line;2009
+109;110;4;East West Line;2009
+110;111;4;East West Line;1990
+111;112;4;East West Line;1988
+112;113;4;East West Line;1988
+113;114;4;East West Line;1988
+114;115;4;East West Line;2001
+115;116;4;East West Line;2001
+116;117;4;East West Line;1988
+117;118;4;East West Line;1988
+118;119;4;East West Line;1988
+119;120;4;East West Line;1988
+120;121;4;East West Line;1988
+121;122;4;East West Line;1987
+122;123;4;East West Line;1987
+123;124;4;East West Line;1989
+124;125;4;East West Line;1990
+125;126;4;East West Line;1990
+126;127;4;East West Line;1990
+127;128;4;East West Line;1990
+128;129;4;East West Line;1990
+129;130;4;East West Line;1990
+130;131;4;East West Line;1990
+131;132;4;East West Line;1990
+132;133;4;East West Line;1990
+133;134;4;East West Line;1990
+133;137;4;East West Line;2001
+134;135;4;East West Line;1990
+135;136;4;East West Line;2002
+136;137;4;East West Line;2002
+138;139;4;Jurong Region Line;2028
+139;140;4;Jurong Region Line;2028
+140;141;4;Jurong Region Line;2028
+141;142;4;Jurong Region Line;2028
+142;143;4;Jurong Region Line;2028
+143;144;4;Jurong Region Line;2028
+144;145;4;Jurong Region Line;2028
+145;146;4;Jurong Region Line;2027
+145;147;4;Jurong Region Line;2027
+145;148;4;Jurong Region Line;2027
+146;147;4;Jurong Region Line;2027
+148;149;4;Jurong Region Line;2027
+149;150;4;Jurong Region Line;2027
+150;151;4;Jurong Region Line;2029
+151;152;4;Jurong Region Line;2029
+152;153;4;Jurong Region Line;2029
+153;154;4;Jurong Region Line;2029
+154;155;4;Jurong Region Line;2027
+155;156;4;Jurong Region Line;2027
+156;157;4;Jurong Region Line;2027
+157;158;4;Jurong Region Line;2029
+158;159;4;Jurong Region Line;2029
+159;160;4;Jurong Region Line;2029
+160;161;4;Jurong Region Line;2029
+162;163;4;Cross Island Line;2030
+163;164;4;Cross Island Line;2030
+164;165;4;Cross Island Line;2032
+165;166;4;Cross Island Line;2032
+166;167;4;Cross Island Line;2030
+167;168;4;Cross Island Line;2030
+168;169;4;Cross Island Line;2030
+169;170;4;Cross Island Line;2030
+170;171;4;Cross Island Line;2030
+171;172;4;Cross Island Line;2030
+172;173;4;Cross Island Line;2030
+175;176;2;North-South Line;1932
+176;177;2;North-South Line;1932
+178;179;4;Downtown Line;2025
+179;180;4;Downtown Line;2017
+180;181;4;Downtown Line;2017
+181;182;4;Downtown Line;2017
+182;183;4;Downtown Line;2017
+183;184;4;Downtown Line;2017
+184;185;4;Downtown Line;2017
+185;186;4;Downtown Line;2017
+186;187;4;Downtown Line;2017
+187;188;4;Downtown Line;2017
+188;189;4;Downtown Line;2017
+189;190;4;Downtown Line;2017
+190;191;4;Downtown Line;2017
+191;192;4;Downtown Line;2017
+192;193;4;Downtown Line;2017
+193;194;4;Downtown Line;2017
+194;195;4;Downtown Line;2017
+195;196;4;Downtown Line;2013
+196;197;4;Downtown Line;2013
+197;198;4;Downtown Line;2013
+198;199;4;Downtown Line;2013
+199;200;4;Downtown Line;2013
+200;201;4;Downtown Line;2015
+201;202;4;Downtown Line;2015
+202;203;4;Downtown Line;2015
+203;204;4;Downtown Line;2015
+204;205;4;Downtown Line;2015
+205;206;4;Downtown Line;2015
+206;207;4;Downtown Line;2015
+207;208;4;Downtown Line;2015
+208;209;4;Downtown Line;2015
+209;210;4;Downtown Line;2025
+210;211;4;Downtown Line;2025
+211;212;4;Downtown Line;2015
+212;213;4;Downtown Line;2015
+214;215;5;Sengkang LRT;2013
+214;222;5;Sengkang LRT;2003
+214;223;5;Sengkang LRT;2003
+214;227;5;Sengkang LRT;2003
+215;216;5;Sengkang LRT;2013
+216;217;5;Sengkang LRT;2015
+217;218;5;Sengkang LRT;2015
+218;219;5;Sengkang LRT;2003
+219;220;5;Sengkang LRT;2003
+220;221;5;Sengkang LRT;2003
+221;222;5;Sengkang LRT;2003
+223;224;5;Sengkang LRT;2003
+224;225;5;Sengkang LRT;2003
+225;226;5;Sengkang LRT;2003
+226;227;5;Sengkang LRT;2003
+228;229;4;North East Line;2003
+229;230;4;North East Line;2003
+230;231;4;North East Line;2003
+231;232;4;North East Line;2003
+232;233;4;North East Line;2003
+233;234;4;North East Line;2003
+234;235;4;North East Line;2003
+235;236;4;North East Line;2011
+236;237;4;North East Line;2011
+237;238;4;North East Line;2003
+238;239;4;North East Line;2003
+239;240;4;North East Line;2006
+240;241;4;North East Line;2006
+241;242;4;North East Line;2003
+242;243;4;North East Line;2024
+244;245;5;Punggol LRT;2014
+244;250;5;Punggol LRT;2016
+244;251;5;Punggol LRT;2005
+244;254;5;Punggol LRT;2005
+245;246;5;Punggol LRT;2014
+246;247;5;Punggol LRT;2017
+247;248;5;Punggol LRT;2017
+248;249;5;Punggol LRT;9999
+249;250;5;Punggol LRT;9999
+251;252;5;Punggol LRT;2005
+252;253;5;Punggol LRT;2005
+253;254;5;Punggol LRT;2005
+255;256;7;Sentosa Express;2010
+256;257;7;Sentosa Express;2010
+257;258;7;Sentosa Express;2007
+259;260;7;Changi Airport Skytrain;2007
+260;261;7;Changi Airport Skytrain;2007
+261;262;7;Changi Airport Skytrain;1990
+262;263;7;Changi Airport Skytrain;2007
+263;264;7;Changi Airport Skytrain;2007
+264;265;7;Changi Airport Skytrain;2007

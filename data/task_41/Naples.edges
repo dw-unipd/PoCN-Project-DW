@@ -1,0 +1,102 @@
+# edge data for Naples, Italy
+from_id;to_id;mode;line;year
+1;2;3;Line 2;1926
+2;3;3;Line 2;1961
+3;4;3;Line 2;1961
+4;5;3;Line 2;1927
+5;6;3;Line 2;1927
+6;7;3;Line 2;1925
+7;8;3;Line 2;1925
+8;9;3;Line 2;1925
+9;10;3;Line 2;1925
+10;11;3;Line 2;1927
+11;12;3;Line 2;2014
+13;14;4;Line 11;2024
+13;91;4;M1;2024
+14;15;4;Line 11;2024
+15;16;4;Line 11;2024
+16;17;4;Line 11;2024
+16;92;4;M1;2024
+17;18;4;Line 11;2005
+18;19;4;Line 11;2024
+19;20;4;Line 11;2024
+20;21;4;Line 11;2009
+21;22;4;Line 11;2009
+23;24;3;Ferrovia Cumana;1889
+23;41;3;Ferrovia Circumflegrea;1962
+23;42;3;Ferrovia Circumflegrea;1962
+24;25;3;Ferrovia Cumana;1889
+25;26;3;Ferrovia Cumana;1889
+26;27;3;Ferrovia Cumana;1889
+27;28;3;Ferrovia Cumana;1889
+28;29;3;Ferrovia Cumana;1889
+29;30;3;Ferrovia Cumana;1889
+30;31;3;Ferrovia Cumana;1889
+31;32;3;Ferrovia Cumana;1889
+32;33;3;Ferrovia Cumana;1889
+33;34;3;Ferrovia Cumana;1890
+34;35;3;Ferrovia Cumana;1890
+35;36;3;Ferrovia Cumana;1890
+36;37;3;Ferrovia Cumana;1890
+37;51;3;Ferrovia Circumflegrea;1968
+38;39;3;Ferrovia Circumflegrea;1889
+39;40;3;Ferrovia Circumflegrea;2023
+40;41;3;Ferrovia Circumflegrea;2023
+41;42;3;Ferrovia Circumflegrea;1962
+41;43;3;Ferrovia Circumflegrea;1965
+43;44;3;Ferrovia Circumflegrea;1965
+44;45;3;Ferrovia Circumflegrea;1965
+45;46;3;Ferrovia Circumflegrea;1965
+46;47;3;Ferrovia Circumflegrea;1965
+47;48;3;Ferrovia Circumflegrea;1965
+48;49;3;Ferrovia Circumflegrea;1965
+49;50;3;Ferrovia Circumflegrea;1982
+50;51;3;Ferrovia Circumflegrea;1982
+52;53;3;Ferrovia Circumvesuviana;1891
+52;71;3;Ferrovia Circumvesuviana;1998
+53;54;3;Ferrovia Circumvesuviana;1925
+54;55;3;Ferrovia Circumvesuviana;1925
+55;56;3;Ferrovia Circumvesuviana;1925
+56;57;3;Ferrovia Circumvesuviana;2002
+57;58;3;Ferrovia Circumvesuviana;2003
+58;59;3;Ferrovia Circumvesuviana;2003
+59;60;3;Ferrovia Circumvesuviana;2003
+60;61;3;Ferrovia Circumvesuviana;2001
+61;62;3;Ferrovia Circumvesuviana;2001
+62;63;3;Ferrovia Circumvesuviana;2001
+63;64;3;Ferrovia Circumvesuviana;2001
+64;65;3;Ferrovia Circumvesuviana;2001
+65;66;3;Ferrovia Circumvesuviana;2001
+66;67;3;Ferrovia Circumvesuviana;1998
+67;68;3;Ferrovia Circumvesuviana;1998
+68;69;3;Ferrovia Circumvesuviana;1974
+69;70;3;Ferrovia Circumvesuviana;2005
+70;71;3;Ferrovia Circumvesuviana;2005
+72;73;5;M6;2007
+73;74;5;M6;2007
+74;75;5;M6;2007
+75;76;5;M6;2023
+76;77;5;M6;2023
+77;78;5;M6;2024
+78;79;5;M6;2024
+80;81;4;M1;2001
+81;82;4;M1;2002
+82;83;4;M1;2012
+83;84;4;M1;2015
+84;85;4;M1;2015
+85;86;4;M1;2019
+86;87;4;M1;2019
+87;88;4;M1;2024
+88;89;4;M1;2024
+89;90;4;M1;2024
+90;91;4;M1;2024
+92;93;4;M1;1995
+93;94;4;M1;1995
+94;95;4;M1;1995
+95;96;4;M1;1993
+96;97;4;M1;1993
+97;98;4;M1;1993
+98;99;4;M1;1993
+99;100;4;M1;1993
+100;101;4;M1;2001
+101;102;4;M1;2001

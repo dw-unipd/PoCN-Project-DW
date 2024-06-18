@@ -1,0 +1,243 @@
+# edge data for Los Angeles, United States
+from_id;to_id;mode;line;year
+1;2;4;B Line;1993
+2;3;4;B Line;1993
+3;4;4;B Line;1993
+4;5;4;B Line;1993
+5;6;4;B Line;1996
+6;7;4;B Line;1999
+6;23;4;D Line;1996
+7;8;4;B Line;1999
+8;9;4;B Line;1999
+9;10;4;B Line;1999
+10;11;4;B Line;1999
+11;12;4;B Line;2000
+12;13;4;B Line;2000
+13;14;4;B Line;2000
+15;16;4;D Line;2027
+16;17;4;D Line;2027
+17;18;4;D Line;2025
+18;19;4;D Line;2025
+19;20;4;D Line;2024
+20;21;4;D Line;2024
+21;22;4;D Line;2024
+22;23;4;D Line;1996
+24;25;5;A Line;2025
+25;26;5;A Line;2025
+26;27;5;A Line;2025
+27;28;5;A Line;2025
+28;29;5;A Line;2016
+29;30;5;A Line;2016
+30;31;5;A Line;2016
+31;32;5;A Line;2016
+32;33;5;A Line;2016
+33;34;5;A Line;2016
+34;35;5;A Line;2003
+35;36;5;A Line;2003
+36;37;5;A Line;2003
+37;38;5;A Line;2003
+38;39;5;A Line;2003
+39;40;5;A Line;2003
+40;41;5;A Line;2003
+41;42;5;A Line;2003
+42;43;5;A Line;2003
+43;44;5;A Line;2003
+44;45;5;A Line;2003
+45;46;5;A Line;2023
+46;47;5;A Line;2023
+46;76;5;E Line;2023
+47;48;5;A Line;2023
+48;49;5;A Line;2023
+49;50;5;A Line;1991
+50;51;5;A Line;1990
+50;77;5;E Line;2012
+51;52;5;A Line;1990
+52;53;5;A Line;1990
+53;54;5;A Line;1990
+54;55;5;A Line;1990
+55;56;5;A Line;1990
+56;57;5;A Line;1990
+57;58;5;A Line;1990
+58;59;5;A Line;1990
+59;60;5;A Line;1990
+60;61;5;A Line;1990
+61;62;5;A Line;1990
+62;63;5;A Line;1990
+63;64;5;A Line;1990
+64;65;5;A Line;1990
+65;66;5;A Line;1990
+66;67;5;A Line;1990
+67;68;5;A Line;1990
+68;69;5;A Line;1990
+69;70;5;A Line;1990
+71;72;5;E Line;2009
+72;73;5;E Line;2009
+73;74;5;E Line;2009
+74;75;5;E Line;2009
+75;76;5;E Line;2009
+77;78;5;E Line;2012
+78;79;5;E Line;2012
+79;80;5;E Line;2012
+80;81;5;E Line;2012
+81;82;5;E Line;2012
+82;83;5;E Line;2012
+83;84;5;E Line;2012
+84;85;5;E Line;2012
+85;86;5;E Line;2012
+86;87;5;E Line;2016
+87;88;5;E Line;2016
+88;89;5;E Line;2016
+89;90;5;E Line;2016
+90;91;5;E Line;2016
+91;92;5;E Line;2016
+92;93;5;E Line;2016
+94;95;5;K Line;2022
+95;96;5;K Line;2022
+96;97;5;K Line;2022
+97;98;5;K Line;2022
+98;99;5;K Line;2022
+99;100;5;K Line;2022
+100;101;5;K Line;2024
+102;103;5;C Line;1995
+103;104;5;C Line;1995
+104;105;5;C Line;1995
+105;106;5;C Line;1995
+106;107;5;C Line;1995
+107;108;5;C Line;1995
+108;109;5;C Line;1995
+109;110;5;C Line;1995
+110;111;5;C Line;1995
+111;112;5;C Line;1995
+112;113;5;C Line;1995
+113;114;5;C Line;1995
+115;116;5;East San Fernando Valley LRT;2028
+116;117;5;East San Fernando Valley LRT;2028
+117;118;5;East San Fernando Valley LRT;2028
+118;119;5;East San Fernando Valley LRT;2028
+119;120;5;East San Fernando Valley LRT;2028
+120;121;5;East San Fernando Valley LRT;2028
+121;122;5;East San Fernando Valley LRT;2028
+123;124;6;G Line;2005
+124;125;6;G Line;2005
+125;126;6;G Line;2005
+126;127;6;G Line;2005
+127;128;6;G Line;2005
+128;129;6;G Line;2005
+129;130;6;G Line;2005
+130;131;6;G Line;2005
+131;132;6;G Line;2005
+132;133;6;G Line;2005
+133;134;6;G Line;2005
+134;135;6;G Line;2012
+135;136;6;G Line;2012
+135;139;6;G Line;2012
+135;140;6;G Line;2012
+136;137;6;G Line;2012
+137;138;6;G Line;2012
+138;139;6;G Line;2012
+141;142;6;J Line;2009
+142;143;6;J Line;2009
+143;144;6;J Line;2009
+144;145;6;J Line;2009
+144;146;6;J Line;2009
+146;147;6;J Line;2009
+147;148;6;J Line;2009
+148;149;6;J Line;2009
+149;150;6;J Line;2009
+150;151;6;J Line;2009
+151;152;6;J Line;2009
+152;153;6;J Line;2009
+153;154;6;J Line;2009
+154;155;6;J Line;2009
+155;156;6;J Line;2009
+156;157;6;J Line;2009
+157;158;6;J Line;2009
+158;159;6;J Line;2009
+159;160;6;J Line;2009
+160;161;6;J Line;2009
+161;162;6;J Line;2009
+162;163;6;J Line;2009
+163;164;6;J Line;2009
+164;165;6;J Line;2009
+165;166;6;J Line;2009
+166;167;6;J Line;2009
+167;168;6;J Line;2009
+168;169;6;J Line;2009
+170;171;3;San Bernadino;2017
+171;172;3;San Bernadino;1993
+171;194;3;Inland Empire-Orange County;1995
+172;173;3;San Bernadino;1993
+173;174;3;San Bernadino;1994
+174;175;3;San Bernadino;1994
+175;176;3;San Bernadino;1993
+176;177;3;San Bernadino;1993
+177;178;3;San Bernadino;1992
+178;179;3;San Bernadino;1992
+179;180;3;San Bernadino;1993
+180;181;3;San Bernadino;1993
+181;182;3;San Bernadino;1994
+182;183;3;San Bernadino;1994
+183;184;3;Riverside;1993
+184;185;3;Riverside;1993
+185;186;3;Riverside;1993
+186;187;3;Riverside;1993
+187;188;3;Riverside;1993
+188;189;3;Riverside;1993
+190;191;3;91/Perris Valley;2016
+191;192;3;91/Perris Valley;2016
+192;193;3;91/Perris Valley;2016
+193;194;3;91/Perris Valley;2016
+194;195;3;91/Perris Valley;1995
+195;196;3;91/Perris Valley;1995
+196;197;3;91/Perris Valley;1995
+197;198;3;91/Perris Valley;1995
+197;210;3;Inland Empire-Orange County;1995
+198;199;3;91/Perris Valley;2007
+198;211;3;Orange County;1990
+199;200;3;91/Perris Valley;2007
+200;201;3;91/Perris Valley;1995
+200;212;3;Orange County;1995
+201;212;3;Orange County;1990
+202;203;3;Inland Empire-Orange County;1995
+203;204;3;Inland Empire-Orange County;1995
+204;205;3;Inland Empire-Orange County;2002
+205;206;3;Inland Empire-Orange County;2002
+206;207;3;Inland Empire-Orange County;2002
+207;208;3;Inland Empire-Orange County;2002
+208;209;3;Inland Empire-Orange County;1990
+209;210;3;Inland Empire-Orange County;1995
+209;211;3;Orange County;1990
+213;214;3;Antelope Valley;1992
+214;215;3;Antelope Valley;1992
+214;234;3;Ventura County;1992
+215;216;3;Antelope Valley;2018
+215;233;3;Ventura County;1992
+216;217;3;Antelope Valley;2018
+217;218;3;Antelope Valley;2001
+218;219;3;Antelope Valley;2000
+219;220;3;Antelope Valley;2000
+220;221;3;Antelope Valley;1994
+221;222;3;Antelope Valley;1994
+222;223;3;Antelope Valley;1994
+223;224;3;Antelope Valley;1994
+225;226;3;Ventura County;2002
+226;227;3;Ventura County;1994
+227;228;3;Ventura County;1994
+228;229;3;Ventura County;1992
+229;230;3;Ventura County;1992
+230;231;3;Ventura County;1992
+231;232;3;Ventura County;1992
+232;233;3;Ventura County;1992
+235;236;3;Arrow;2022
+236;237;3;Arrow;2022
+237;238;3;Arrow;2022
+239;240;7;LAX Automated People Mover;2023
+240;241;7;LAX Automated People Mover;2023
+241;242;7;LAX Automated People Mover;2023
+242;243;7;LAX Automated People Mover;2023
+244;245;9;OC Streetcar;2024
+244;248;9;OC Streetcar;2024
+245;246;9;OC Streetcar;2024
+245;247;9;OC Streetcar;2024
+246;247;9;OC Streetcar;2024
+248;249;9;OC Streetcar;2024
