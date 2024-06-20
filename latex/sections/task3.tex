@@ -1,0 +1,76 @@
+\chapter[Task 41]{Public Transport in Large Cities Worldwide}
+
+\resp{David Weingut}
+
+
+\section{Data and Task Overview}
+ This task aims to convert the unstructured data available on Citylines.co\cite{citylines}. The data is community sourced networks of public transport in cities around the world. For this purpose there exists a website with the ability to both view and, after a registration, edit the available data. To facilitate the data editing it is split into multiple interoperating sets. The basic building blocks are sections and stations. There sections are collections of individual geographical coordinates which together form a multiline usually representing a part of a line, for example (part of) a bus route or (part of) a railway. A station is a single coordinate. Both these primitives contain metadata. Both sections and stations can be assigned to lines, which are logical units of a transport network, for example a bus line, identified at the city level by a number or name. The assignment of sections and stations to lines must not be one-to-one as lines can share parts of their routes or stations. For this reason there exist two separate datasets, one mapping IDs to basic data as where they are (city and geographical coordinates) and years regarding their build start and opening, the other provides the mapping between IDs and lines and additionally information regarding the web interface like when it was created or last updated in the web interface. The data regarding the internal workings of the website is ignored in the following as there is no relevance for the underlying networks. Lines can then be joined together to form a system, so the collection of all bus lines in a city can be found under the umbrella of the bus system. Each system is assigned a mode which represents the usual carriage used to perform passenger transportation, in most cases either a bus or a variation of rail transport, trams and subways are common subtypes. A city can be composed of multiple systems.
+ 
+ The task is to untangle this raw dataset and try to create a collection of easily readable network files including metadata.
+
+
+\section{Data Processing}
+First of all the CSV files from the website were downloaded, due to the random nature of the file names on the server they were downloaded once and afterwards not updated, as trying to get the current filename and try to redownload the file was regarded as out-of-scope for this project.
+
+Then all the files were read into dataframes.
+The approach for all the cities is identical, so the following is repeated for each city.
+For a city then you see if any of the relevant subsets of the data is empty.
+This can happen due to the data being crowd sourced, so for example some cities only route segments were mapped out, while not a single station was added.
+First a common, at this point empty, graph is initialized for the city.
+After this check an iteration through all the systems of the city is performed.
+If a system has no lines it is just skipped. The next focus are the individual lines of the system.
+Here first the segments and stations relevant to the line are extracted from the data.
+Next each section is translated to a vector of 2D points.
+Under the simplifying assumption that a line contains no fork, the sections are joined.
+This assumption is reasonable as a fork is in most cases split into two cases, for example it is often avoided to have one line with multiple possible endpoints to reduce possible confusion for the customer of the transport services.\footnote{Sometimes this leads to disconnected regions, as can be seen for Algiers. But as this seemed to be a rare occurrence based on a quick visual inspection of the outputs, this was deemed to be a worthy trade-off for mostly reliable section joins.}
+That assumption makes the workings of my algorithm possible.
+The algorithm keeps one segment of so far sorted sections, this is initialized to the first section in the dataset for reasons of simplicity, and a vector of all the other sections. \label{sec:algorithm-41}
+Then in each step one finds the section that seems to most plausibly extend the already continuous segment.
+To obtain this the distances of heads and tails of all remaining sections to either end of the sorted segment are compared and it is determined whether a reversal of the section is necessary to get the smoothest possible continuation.
+An example of an internal state can be seen in the appendix in figure \ref{fig:algorithm-41}.
+This is repeated until there are no more unmatched sections.
+This somewhat convoluted approach is necessary because there can be a difference between end of one section and the start of the next and because the order of the sections in the dataset is not necessarily logical for that line but only due to the order of insertion in the database.
+The next step is to use the reached continuous route to find out which stations are connected to which other stations or in which order the route passes the stations.
+For this purpose some trigonometry is used to calculate the distance between a line and a point.
+If the distance between the line and a station is below a threshold it is added to a vector containing all the stations encountered so far.
+A station is not added again if it was also the previously added one.
+The threshold was chosen as \SI{20}{\meter} by me, based on the intuition to allow some leeway in mapping but avoid false positives.
+This needs to be done because the points in the sections are not regularly spaced and waypoints not necessarily coincide with locations of stations.
+A previous approach based only on distances to section points had to be discarded because in the case of very straight routes the distance between waypoints can exceed the distance between stations.
+As the next step the stations that were found to be on the route are deduplicated based on the exact name.
+This happens because frequently the stations for the different directions are both entered in the dataset which seems to be not wanted for a network analysis, so here the approach of simplification was chosen.
+Next all the stations are added to the graph and edges between those adjacent in the found route are created.
+After all the systems were iterated the resulting graph is written to the file system as two files, one for the nodes and their metadata and one for the edges and metadata.
+
+\section{Analysis of the Resulting Graphs}
+For the analysis of the resulting graphs I decided not to look at any of the graphs in detail but more to try and see if there are any underlying patterns that seem to emerge from the pool of data.
+For this the files written in the previous step are read back into graphs.
+Then they are analysed both as they are and after a simple name based connection mechanism and adding edges for stations less than \SI{100}{\meter} apart.
+The latter is to study the general structure after taking into consideration that even though stations might not be in the exact same place, if they share a name they belong to the same logical unit of a station.
+This also leads to the effect of better connecting different lines and systems and thereby transport modes.
+The analysis consisted of calculating the size (vertex count), the mean degree, the assortativity, the diameter in terms of the geodetic distance between stations connected by a route, the diameter in terms of edges needed, the relative size of the largest connected component(LCC) and the power law exponent as obtained by a fit to the degree distribution as implemented by the igraph software\cite{igraph}.
+For the not further connected networks, for the diameters and power law fits only the largest connected component was used.\label{sec:analysis-41}
+
+The full collection of pairwise plots can be seen in figure \ref{fig:pairplots} in the appendix while here only follows a short analysis of some findings deemed interesting.
+The size distribution is strongly heterogeneous with its value stretching from 3 to 3272 with a mean of 139 and a median of 57. After the connecting measures the median gets reduced by 3, the maximum changes to 2608 and the mean to \num{122.84}. This shows that the amount of logical stations gets strongly overestimated by the simple data extraction mechanism.
+The mean degree is \num{1.9} and \num{2.0} respectively. This makes sense in conjunction with the assumption that most stations are part of just one line and are therefore only connected to the next and previous stations on the route.
+The assortativity is centered on 0 pretty exactly, slightly below for the unconnected and slightly above after the connection run, in both cases around one tenth of a standard deviation or less away from 0.
+Unsurprisingly the measures for the both diameters strongly correlate with each other and are both significantly lowered by the adding of connections.
+Further evidence consolidating the need for the connection adding is the distribution of the size of the LCC, this quantity has a mean of \num{0.65} before and \num{0.91} afterwards. 
+In general I would expect a traffic network to be mostly connected.
+This could of course also be of either a faulty dataset or a faulty processing of the data and the shortcomings of this are smoothed over by the connection algorithm. 
+This could be an avenue for further analysis and improvement of the pipeline.
+For the power law exponent there are about \SIrange{5}{10}{\percent} of the network where the fit fails and the p-value for the fit is below \num{0.05}. The average is \num{1.5} for the untreated network and gets increased by half a standard deviation to \num{1.6} due to the added connections. These exponents nonetheless seem to be quite low compared to the typical exponents of \numrange{2}{3} as were presented as usual in the lecture.
+In general there were no clear correlations between metrics.
+
+\emph{
+	Structure as\footnote{Remove this part from the report}:
+	\begin{itemize}
+		\item A short (max 1 page) explanation of the task, including references. Include mathematical concepts.
+		\item Max 2 pages for the whole task (including figures)
+		\item It is possible to use appendices for supplementary material, at the end of the report. Max 5 pages per task
+	\end{itemize}
+	A total of 3 pages + 5 supplementary pages per task
+}
+
+\newpage
