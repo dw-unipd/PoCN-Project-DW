@@ -47,7 +47,7 @@ The high degree networks in contrast have a structure which makes it very hard f
 
 
 \subsubsection{Watts-Strogatz}
-For the Watts-Strogatz small world graphs the dependence on the rewiring probability is looked into.
+For the Watts-Strogatz small world graphs the dependence on the rewiring probability is looked into. For low ones the onset temperature rises with the probability but stagnates for around $p=0.4$ whereafter sees no more changes.
 \begin{figure}[h]
 	\centering
 	\includegraphics{Ising_magnetization_WS_many}
@@ -59,20 +59,11 @@ For the Watts-Strogatz small world graphs the dependence on the rewiring probabi
 For the stochastic block model a total of 8 communities with intra-community links having a fixed probability of \num{0.05} will be used, while the modified parameter is the ratio of inter to intra is modified between 0 and 1.
 \begin{figure}[h]
 	\centering
-	%\includegraphics{Ising_magnetization_SBM_many}
+	\includegraphics{Ising_magnetization_SBM_many}
 	\caption{Behaviour of the magnetization of an Ising model on-top a stochastic block model graph for a collection of temperatures and relative inter-community edge probabilities}
 	\label{fig:M-SBM-0.1}
 \end{figure}
 Here one can again see a strong correlation between the mixing parameter and the temperature at which the magnetization begins to decrease.
 A similar argument to the Erdös-Renyi seems plausible, for very low mixing between the communities, they evolve independently and thus different clusters can both be homogeneously magnetized but opposite to other clusters, which in turn lowers total magnetization of the graph.
 
-\emph{
-	Structure as\footnote{Remove this part from the report}:
-	\begin{itemize}
-		\item A short (max 1 page) explanation of the task, including references. Include mathematical concepts.
-		\item Max 2 pages for the whole task (including figures)
-		\item It is possible to use appendices for supplementary material, at the end of the report. Max 5 pages per task
-	\end{itemize}
-	A total of 3 pages + 5 supplementary pages per task
-}
 \newpage

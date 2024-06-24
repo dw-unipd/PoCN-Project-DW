@@ -1,0 +1,144 @@
+
+% General stuff
+@article{Julia-2017,
+	title={Julia: A fresh approach to numerical computing},
+	author={Bezanson, Jeff and Edelman, Alan and Karpinski, Stefan and Shah, Viral B},
+	journal={SIAM {R}eview},
+	volume={59},
+	number={1},
+	pages={65--98},
+	year={2017},
+	publisher={SIAM},
+	doi={10.1137/141000671},
+	url={https://epubs.siam.org/doi/10.1137/141000671}
+}
+
+@misc{Graphs2021,
+	author       = {Fairbanks, James and Besan{\c{c}}on, Mathieu and Simon, Sch{\"o}lly and Hoffiman, J{\'u}lio and Eubank, Nick and Karpinski, Stefan},
+	title        = {JuliaGraphs/Graphs.jl: an optimized graphs package for the Julia programming language},
+	year         = 2021,
+	url = {https://github.com/JuliaGraphs/Graphs.jl/}
+}
+
+@article{DanischKrumbiegel2021,
+	doi = {10.21105/joss.03349},
+	url = {https://doi.org/10.21105/joss.03349},
+	year = {2021},
+	publisher = {The Open Journal},
+	volume = {6},
+	number = {65},
+	pages = {3349},
+	author = {Simon Danisch and Julius Krumbiegel},
+	title = {{Makie.jl}: Flexible high-performance data visualization for {Julia}},
+	journal = {Journal of Open Source Software}
+}
+
+% Ising Model
+
+@ARTICLE{Onsager,
+	author = {{Onsager}, Lars},
+	title = "{Crystal Statistics. I. A Two-Dimensional Model with an Order-Disorder Transition}",
+	journal = {Physical Review},
+	year = 1944,
+	month = feb,
+	volume = {65},
+	number = {3-4},
+	pages = {117-149},
+	doi = {10.1103/PhysRev.65.117},
+	adsurl = {https://ui.adsabs.harvard.edu/abs/1944PhRv...65..117O},
+	adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@Article{Leone2002,
+	author="Leone, M.
+	and V{\'a}zquez, A.
+	and Vespignani, A.
+	and Zecchina, R.",
+	title="Ferromagnetic ordering in graphs with arbitrary degree distribution",
+	journal="The European Physical Journal B - Condensed Matter and Complex Systems",
+	year="2002",
+	month="Jul",
+	day="01",
+	volume="28",
+	number="2",
+	pages="191--197",
+	abstract="We present a detailed study of the phase diagram of the Ising model in random graphs with arbitrary degree distribution. By using the replica method we compute exactly the value of the critical temperature and the associated critical exponents as a function of the moments of the degree distribution. Two regimes of the degree distribution are of particular interest. In the case of a divergent second moment, the system is ferromagnetic at all temperatures. In the case of a finite second moment and a divergent fourth moment, there is a ferromagnetic transition characterized by non-trivial critical exponents. Finally, if the fourth moment is finite we recover the mean field exponents. These results are analyzed in detail for power-law distributed random graphs.",
+	issn="1434-6036",
+	doi="10.1140/epjb/e2002-00220-0",
+	url="https://doi.org/10.1140/epjb/e2002-00220-0"
+}
+
+% Traffic congestion
+
+@article{Echenique2004,
+	title = {Improved routing strategies for Internet traffic delivery},
+	author = {Echenique, Pablo and G\'omez-Garde\~nes, Jes\'us and Moreno, Yamir},
+	journal = {Phys. Rev. E},
+	volume = {70},
+	issue = {5},
+	pages = {056105},
+	numpages = {4},
+	year = {2004},
+	month = {Nov},
+	publisher = {American Physical Society},
+	doi = {10.1103/PhysRevE.70.056105},
+	url = {https://link.aps.org/doi/10.1103/PhysRevE.70.056105}
+}
+
+@article{Echenique2005,
+	doi = {10.1209/epl/i2005-10080-8},
+	url = {https://dx.doi.org/10.1209/epl/i2005-10080-8},
+	year = {2005},
+	month = {jun},
+	publisher = {},
+	volume = {71},
+	number = {2},
+	pages = {325},
+	author = {P. Echenique and  J. Gómez-Gardeñes and  Y. Moreno},
+	title = {Dynamics of jamming transitions in complex networks},
+	journal = {Europhysics Letters},
+	abstract = {We numerically investigate jamming transitions in complex heterogeneous networks. Inspired by Internet routing protocols, we study a general model that incorporates local traffic information through a tunable parameter. The results show that whether the transition from a low-traffic regime to a congested phase is of first- or second-order type is determined by the protocol at work. The microscopic dynamics reveals that these two radically different behaviors are due to the way in which traffic jams propagate through the network. Our results are discussed in the context of Internet dynamics and other transport processes that take place on complex networks and provide insights for the design of routing policies based on traffic awareness in communication systems.}
+}
+
+@inproceedings{OregonAS,
+author = {Leskovec, Jure and Kleinberg, Jon and Faloutsos, Christos},
+title = {Graphs over time: densification laws, shrinking diameters and possible explanations},
+year = {2005},
+isbn = {159593135X},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/1081870.1081893},
+doi = {10.1145/1081870.1081893},
+abstract = {How do real graphs evolve over time? What are "normal" growth patterns in social, technological, and information networks? Many studies have discovered patterns in static graphs, identifying properties in a single snapshot of a large network, or in a very small number of snapshots; these include heavy tails for in- and out-degree distributions, communities, small-world phenomena, and others. However, given the lack of information about network evolution over long periods, it has been hard to convert these findings into statements about trends over time.Here we study a wide range of real graphs, and we observe some surprising phenomena. First, most of these graphs densify over time, with the number of edges growing super-linearly in the number of nodes. Second, the average distance between nodes often shrinks over time, in contrast to the conventional wisdom that such distance parameters should increase slowly as a function of the number of nodes (like O(log n) or O(log(log n)).Existing graph generation models do not exhibit these types of behavior, even at a qualitative level. We provide a new graph generator, based on a "forest fire" spreading process, that has a simple, intuitive justification, requires very few parameters (like the "flammability" of nodes), and produces graphs exhibiting the full range of properties observed both in prior work and in the present study.},
+booktitle = {Proceedings of the Eleventh ACM SIGKDD International Conference on Knowledge Discovery in Data Mining},
+pages = {177–187},
+numpages = {11},
+keywords = {densification power laws, graph generators, graph mining, heavy-tailed distributions, small-world phenomena},
+location = {Chicago, Illinois, USA},
+series = {KDD '05}
+}
+
+@misc{snapnets,
+	author       = {Jure Leskovec and Andrej Krevl},
+	title        = {{SNAP Datasets}: {Stanford} Large Network Dataset Collection},
+	howpublished = {\url{http://snap.stanford.edu/data}},
+	month        = jun,
+	year         = 2014
+}
+
+% Public transport
+@misc{citylines,
+	author = {},
+	title = "citylines.co",
+	howpublished = {\url{https://www.citylines.co/}},
+	note = {[Accessed 13-June-2024]},
+}
+
+@article{igraph,
+	author = {Csárdi, Gábor and Nepusz, Tamás},
+	journal = {InterJournal, Complex Systems},
+	pages = {1695},
+	title = {{The igraph software package for complex network research}},
+	year = {2006}
+}
+
